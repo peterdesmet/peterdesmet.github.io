@@ -9,6 +9,17 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
+# Ignore the following work folders during publication
+PAGE_EXCLUDES = (
+	("Portfolio"),
+	('Other'),
+)
+ARTICLE_EXCLUDES = (
+	('pages'),
+	('Portfolio'),
+	('Other'),
+)
+
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
