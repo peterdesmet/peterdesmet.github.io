@@ -16,10 +16,3 @@ De bezoekers komen daarmee terecht op [deze pagina](http://www.anderhalv.be/2007
 website kwam door te zoeken naar "sinterklaas ouwe dwaas ruikt naar bier en geitenkaas", laat gerust iets weten! :-)
 
 PS: De bewuste episode staat op YouTube, dus jullie moeten de afleveringen die jullie uiteraard allemaal op video hebben niet bovenhalen (Zwarte Piet begint te zingen op 1:33).
-
-  [Google Analytics]: http://www.google.com/analytics/
-  [deze post]: http://www.anderhalv.be/2007/11/sydney
-  [hieruit]: http://www.anderhalv.be/2008/06/tijd-voor-een-nieuwe-zomerjurk
-  [1]: http://www.anderhalv.be/2007/12/van-christchurch-naar-te-anau
-  [Sinterklaas]: http://www.anderhalv.be/wp-content/uploads/blog-sinterklaas.png
-  [Dag Sinterklaas]: http://nl.wikipedia.org/wiki/Dag_Sinterklaas
