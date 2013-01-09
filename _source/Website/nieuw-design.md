@@ -2,7 +2,7 @@ Title: Nieuw design
 Slug: nieuw-design
 Date: 2011-02-14 11:13
 Author: Peter Desmet
-Tags: Website, WordPress archives, Dutch, local-images, internal-links
+Tags: Website, WordPress, Dutch, local-images, internal-links
 
 ![Design 3](http://www.anderhalv.be/wp-content/uploads/blog-design-3.png)
 

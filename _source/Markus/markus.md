@@ -2,7 +2,7 @@ Title: Markus
 Slug: markus
 Date: 2011-03-02 12:50
 Author: Peter Desmet
-Tags: Markus, Montréal, Photos, WordPress archives, Dutch
+Tags: Markus, Montréal, Photos, WordPress, Dutch
 
 Hallo iedereen!
 

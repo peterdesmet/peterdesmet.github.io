@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 
 import sys
-sys.path.append('.')
+sys.path.append(".")
 from pelicanconf import *
 
-SITEURL = 'http://peterdesmet.github.com'
+SITEURL = "http://peterdesmet.github.com"
 
 DELETE_OUTPUT_DIRECTORY = True
 

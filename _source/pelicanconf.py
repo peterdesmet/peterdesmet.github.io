@@ -1,33 +1,33 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'Peter Desmet'
-SITENAME = u'My Blog'
-SITEURL = ''
+AUTHOR = u"Peter Desmet"
+SITENAME = u"My Blog"
+SITEURL = ""
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = "Europe/Paris"
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u"en"
 
 # Ignore the following work folders during publication
 PAGE_EXCLUDES = (
 	("Portfolio"),
-	('Other'),
+	("Other"),
 )
 ARTICLE_EXCLUDES = (
-	('pages'),
-	('Portfolio'),
-	('Other'),
+	("pages"),
+	("Portfolio"),
+	("Other"),
 )
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (("Pelican", "http://docs.notmyidea.org/alexis/pelican/"),
+          ("Python.org", "http://python.org"),
+          ("Jinja2", "http://jinja.pocoo.org"),
+          ("You can modify those links in your config file", "#"),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (("You can add links in your config file", "#"),
+          ("Another social link", "#"),)
 
 DEFAULT_PAGINATION = False
