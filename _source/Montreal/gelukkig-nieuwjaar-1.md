@@ -2,7 +2,7 @@ Title: Gelukkig Nieuwjaar!
 Slug: gelukkig-nieuwjaar-1
 Date: 2008-12-31 18:25
 Author: Peter Desmet
-Category: Montréal, New Year, WordPress, Dutch, local-images
+Tags: Montréal, New Year, WordPress, Dutch, local-images
 
 ![2009](http://www.anderhalv.be/wp-content/uploads/blog-2009.jpg "2009!")
 
