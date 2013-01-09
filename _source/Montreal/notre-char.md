@@ -1,9 +1,7 @@
 Title: Notre char!
+Slug: notre-char
 Date: 2010-05-07 18:17
-Author: Peter.Desmet
-Category: Montréal
-Tags: geen-picasa
+Author: Peter Desmet
+Tags: Montréal, WordPress, Dutch, local-images
 
-![Notre char][]
-
-  [Notre char]: http://www.anderhalv.be/wp-content/uploads/blog-char.jpg
+![Notre char](http://www.anderhalv.be/wp-content/uploads/blog-char.jpg)
