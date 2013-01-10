@@ -43,4 +43,4 @@ zij brengt Peter's fiets mee (hebben hier ontdekt dat je gratis een fiets mee ka
 
 Nu zijn we in blijde verwachting van de Indian Summer herfstkleurenpracht, weeral iets wat we nog nooit hebben meegemaakt... Sssspannend!
 
-Meer foto's [hier](http://picasaweb.google.ca/lienterryn/LaVieMontrAl).
+Meer foto's [hier](http://picasaweb.google.com/lienterryn/LaVieMontrAl).

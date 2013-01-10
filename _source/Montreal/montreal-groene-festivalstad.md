@@ -26,6 +26,6 @@ De Belgische zomer die we beleefd hebben eind juni, was ook nogal uitzonderlijk:
 
 ![Gent](http://lh4.ggpht.com/_cvGWRFf-ypY/SnsN6b3bLaI/AAAAAAAAC0Q/tZX1rKl9TLs/s576/P1060724.JPG "Mmm Gent (en een slechtvalk!)")
 
-[Hier vind je een selectie](http://picasaweb.google.ca/lienterryn/AprilJuli) van onze foto's van de afgelopen maanden.
+[Hier vind je een selectie](http://picasaweb.google.com/lienterryn/AprilJuli) van onze foto's van de afgelopen maanden.
 
 We posten zo snel mogelijk ons verhaal en onze foto's van de voorbije maand! Tot gauw!
