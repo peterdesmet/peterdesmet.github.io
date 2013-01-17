@@ -35,8 +35,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-	("twitter", "https://www.twitter.com/peterdesmet"),
-	("github","https://github.com/peterdesmet"),
-	("linkedin","http://www.linkedin.com/in/peterdesmet"),
-	("lastfm","http://www.last.fm/user/anderhalv"),
+	("Twitter", "https://www.twitter.com/peterdesmet"),
+	("GitHub","https://github.com/peterdesmet"),
+	("LinkedIn","http://www.linkedin.com/in/peterdesmet"),
+	("Last.fm","http://www.last.fm/user/anderhalv"),
 )
