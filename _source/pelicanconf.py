@@ -19,13 +19,13 @@ THEME = "tuxlite_tbs"
 
 # Ignore the following work folders during publication
 PAGE_EXCLUDES = (
+	("_exclude"),
 	("Portfolio"),
-	("Other"),
 )
 ARTICLE_EXCLUDES = (
+	("_exclude"),
 	("pages"),
 	("Portfolio"),
-	("Other"),
 )
 
 # External services
