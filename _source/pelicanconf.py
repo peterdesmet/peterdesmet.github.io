@@ -1,13 +1,21 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+SITENAME = u"Anderhalv"
+SITEURL = "http://peterdesmet.github.com"
 AUTHOR = u"Peter Desmet"
-SITENAME = u"My Blog"
-SITEURL = ""
 
 TIMEZONE = "Europe/Paris"
-
 DEFAULT_LANG = u"en"
+
+OUTPUT_PATH = "../" # One level above the _source folder
+DEFAULT_PAGINATION = False # Verify
+DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
+DISPLAY_PAGES_ON_MENU = True
+FEED_ALL_RSS = "feeds/rss.xml" # Verify
+FEEDS_ALL_ATOM = None # Verify
+
+THEME = "tuxlite_tbs"
 
 # Ignore the following work folders during publication
 PAGE_EXCLUDES = (
@@ -20,14 +28,19 @@ ARTICLE_EXCLUDES = (
 	("Other"),
 )
 
+# External services
+DISQUS_SITENAME = "" # Set
+GOOGLE_ANALYTICS = "" # Set
+GITHUB_URL = "https://github.com/peterdesmet"
+
 # Blogroll
-LINKS =  (("Pelican", "http://docs.notmyidea.org/alexis/pelican/"),
-          ("Python.org", "http://python.org"),
-          ("Jinja2", "http://jinja.pocoo.org"),
-          ("You can modify those links in your config file", "#"),)
+LINKS = (
+)
 
 # Social widget
-SOCIAL = (("You can add links in your config file", "#"),
-          ("Another social link", "#"),)
-
-DEFAULT_PAGINATION = False
+SOCIAL = (
+	("Twitter", "https://www.twitter.com/peterdesmet"),
+	("GitHub","https://github.com/peterdesmet"),
+	("LinkedIn","http://www.linkedin.com/in/peterdesmet"),
+	("Last.fm","http://www.last.fm/user/anderhalv"),
+)
