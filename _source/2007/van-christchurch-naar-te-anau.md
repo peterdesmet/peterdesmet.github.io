@@ -2,7 +2,7 @@ Title: Van Christchurch naar Te Anau
 Slug: van-christchurch-naar-te-anua
 Date: 2007-12-11 04:52
 Author: Peter Desmet
-Tags: Travel, WordPress, Dutch
+Tags: Travel, WordPress blog
 
 ## Dinsdag 4 december
 

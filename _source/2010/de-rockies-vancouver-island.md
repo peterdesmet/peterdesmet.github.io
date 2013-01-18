@@ -2,7 +2,7 @@ Title: De Rockies & Vancouver Island
 Slug: de-rockies-vancouver-island
 Date: 2010-08-25 23:53
 Author: Peter Desmet
-Tags: Travel, Photos, WordPress, Dutch, internal-links
+Tags: Travel, Photos, WordPress blog, internal-links
 
 We hadden sinds [Nieuw-Zeeland](http://www.anderhalv.be/2007/11/daarheen-en-weer-terug) geen grote reis meer gedaan samen, dus we keken wel erg uit naar de reis deze zomer: 4 weken Canadese Rockies & Vancouver Island! :-)
 

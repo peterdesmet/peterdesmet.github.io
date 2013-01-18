@@ -2,7 +2,7 @@ Title: Foto's Nieuw Zeeland (01)
 Slug: fotos-nieuw-zeeland-01
 Date: 2007-12-17 07:41
 Author: Peter Desmet
-Tags: Travel, Photos, WordPress, Dutch
+Tags: Travel, Photos, WordPress blog
 
 [![Joehoe, we zijn in Nieuw-Zeeland!](http://lh5.ggpht.com/Peter.Desmet/R2YX64j3U2I/AAAAAAAAA4g/lIqfk-kU-8A/s800/DSC_0692.jpg "Joehoe, we zijn in Nieuw-Zeeland!")](http://picasaweb.google.com/Peter.Desmet/NieuwZealand01)
 

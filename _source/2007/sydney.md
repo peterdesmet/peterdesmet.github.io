@@ -2,7 +2,7 @@ Title: Sydney
 Slug: sydney
 Date: 2007-11-29 22:50
 Author: Peter Desmet
-Tags: Travel, WordPress, Dutch
+Tags: Travel, WordPress blog
 
 't Is zover. We zitten aan de andere kant van de wereld: Sydney!
 

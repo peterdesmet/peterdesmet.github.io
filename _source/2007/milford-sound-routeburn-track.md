@@ -2,7 +2,7 @@ Title: Milford Sound & Routeburn Track
 Slug: milford-sound-routeburn-track
 Date: 2007-12-17 06:10
 Author: Lien Terryn
-Tags: Travel, WordPress, Dutch
+Tags: Travel, WordPress blog
 
 ## Woensdag 12 december - Milford Sound Sea Kayak
 

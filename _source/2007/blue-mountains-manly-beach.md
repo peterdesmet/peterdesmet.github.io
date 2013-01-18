@@ -2,7 +2,7 @@ Title: Blue Mountains & Manly Beach
 Slug: blue-mountains-manly-beach
 Date: 2007-12-02 13:19
 Author: Peter Desmet
-Tags: Travel, WordPress, Dutch
+Tags: Travel, WordPress blog
 
 Gisteren (zaterdag) de trein genomen richting [Blue Mountains](http://en.wikipedia.org/wiki/Blue_Mountains_National_Park), zo'n 100km ten westen van Sydney. Aangezien de treinroute gedeeltelijk onderbroken was, konden we een stukje met de bus en over Harbour Bridge, joehei! :) Het weer zag er wel zeer duister uit en toen we toekwamen in het dorpje Katoomba plenste de regen neer. We hadden uiteraard geen warme trui mee, en Lienie rilde in haar topje onder de regenjas. Dus op zoek naar een goedkope T-shirt, die we vonden in het marginale Go-Lo, een soort kruising tussen 't Kruidvat en Hans Textiel. :)
 

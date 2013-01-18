@@ -2,7 +2,7 @@ Title: Et l'hiver recommence...
 Slug: et-lhiver-recommence
 Date: 2009-02-25 12:53
 Author: Lien Terryn
-Tags: Montréal, Travel, Photos, WordPress, Dutch
+Tags: Montréal, Travel, Photos, WordPress blog
 
 Het was een aantal weken geleden dat het nog gesneeuwd had, we verheugden ons al op de lente, we negeerden al die doemdenkers die hier al jaren wonen... maar ze hadden gelijk, de winter is nog niet voorbij. Ach, fladderende, witte sneeuwvlokjes zijn mooier dan grijze regenwolken. Ja toch? :)
 

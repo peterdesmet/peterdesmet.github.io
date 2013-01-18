@@ -2,7 +2,7 @@ Title: Mont-Tremblant
 Slug: mont-tremblant
 Date: 2008-10-22 10:03
 Author: Peter Desmet
-Tags: Travel, Montréal, Photos, WordPress, Dutch
+Tags: Travel, Montréal, Photos, WordPress blog
 
 Momenteel zit ik in Australië en Lien in Canada. Verder kunnen we niet van elkaar verwijderd zijn (of één van ons twee zou eens naar de maan moeten gaan), maar vorig weekend konden we gelukkig samen een stukje Canada buiten Montréal ontdekken. Samen met Liesbet en Ruben zijn we naar [Parc national du Mont-Tremblant](http://fr.wikipedia.org/wiki/Parc_national_du_Mont-Tremblant) gereden, het grootste nationaal park van Quebec en op slechts een anderhalf uur van Montréal.
 

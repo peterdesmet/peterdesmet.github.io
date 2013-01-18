@@ -2,7 +2,7 @@ Title: Foto's van deze zomer
 Slug: fotos-van-deze-zomer
 Date: 2009-10-12 18:53
 Author: Peter Desmet
-Tags: Montréal, Photos, WordPress, Dutch, internal-links
+Tags: Montréal, Photos, WordPress blog, internal-links
 
 Hey iedereen,
 

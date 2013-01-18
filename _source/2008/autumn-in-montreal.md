@@ -2,7 +2,7 @@ Title: Autumn in Montréal
 Slug: autumn-in-montreal
 Date: 2008-12-15 21:05
 Author: Lien Terryn
-Tags: Montréal, Photos, WordPress, Dutch, image-captions
+Tags: Montréal, Photos, WordPress blog, image-captions
 
 Vandaag hebben we allebei beseft hoe leuk koude en sneeuw zijn in vergelijking met regen. We hebben zelfs liever een -15°C dan temperaturen boven nul waarbij alle sneeuw smelt en voetpaden glijbanen worden. Een aantal foto's om jullie te laten meegenieten van mooie wintertaferelen in de herfst. Meer [hier…](http://picasaweb.google.com/lienterryn/HerfstInMontrAl)
 

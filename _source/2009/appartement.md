@@ -2,7 +2,7 @@ Title: Appartement
 Slug: appartement
 Date: 2009-04-05 18:37
 Author: Peter Desmet
-Tags: Montréal, Photos, WordPress, Dutch, local-images
+Tags: Montréal, Photos, WordPress blog, local-images
 
 Zoals de meeste onder jullie al weten, wonen we sinds 19 maart in ons nieuwe appartement in [Rue Fullum](http://maps.google.com/?ie=UTF8&t=h&ll=45.533202,-73.560977&spn=0.003138,0.004608&z=18)!
 

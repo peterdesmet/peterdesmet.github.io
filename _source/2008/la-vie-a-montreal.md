@@ -2,7 +2,7 @@ Title: La vie à Montréal
 Slug: la-vie-a-montreal
 Date: 2008-09-22 19:54
 Author: Lien Terryn
-Tags: Montréal, Photos, WordPress, Dutch, image-captions
+Tags: Montréal, Photos, WordPress blog, image-captions
 
 In het begin mis je al het vanzelfsprekende, alles wat je zo gewoon was uit je Belgische leventje: de Peter Van de Veire-ochtendshow op STUBRU, het journaal waar je nauwelijks naar keek, de krant die je zo weinig las, "een klein bruin brood gesneden aub" bij de bakker en op je wenken bediend worden, blonde Leffes of een gewone LEKKERE pint voor een schappelijke prijs op café, goedkope Côte d'Or chocolade, de aldi-chocomoussekes en uiteraard je vrienden en families nooit verder weg dan een maximum 1 uur durende treinrit. Je merkt dat Belgische lekkerbekken hier niet helemaal aan hun trekken komen, hoewel het hier in Montréal naar het schijnt goed meevalt in vergelijking met de rest van Noord-Amerika.
 

@@ -2,7 +2,7 @@ Title: Boston
 Slug: boston
 Date: 2010-06-20 22:47
 Author: Lien Terryn
-Tags: Travel, Photos, WordPress, Dutch
+Tags: Travel, Photos, WordPress blog
 
 Ongelooflijk hoe ik de voorbije maanden het begrip procrastination alle eer heb aangedaan... Althans wat betreft het updaten van de blog. Vooraleer de zomer begint (ik heb nog welgeteld één uur en 22 minuten), moet er iets gepost worden. Krappe deadlines, dat heb ik nodig.
 

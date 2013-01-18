@@ -2,7 +2,7 @@ Title: Montréal groene festivalstad
 Slug: montreal-groene-festivalstad
 Date: 2009-08-06 13:30
 Author: Lien Terryn
-Tags: Montréal, Belgium, Photos, WordPress, Dutch, image-captions
+Tags: Montréal, Belgium, Photos, WordPress blog, image-captions
 
 De tijd is voorbij gevlogen: heel dringend tijd voor een blog-update dus. Sedert onze laatste bijdrage is Montréal getransformeerd van een eerder grijze plaats vol meerlagige ingepakte mensen tot een bruisende stad met weinig bedekte inwoners, waar je telkens opnieuw onder de indruk bent van het vele groen. De vele sfeervolle parken en de oude esdoorns langs de lanen en smallere straten in de woonbuurten zijn één van onze favoriete aspecten van Montréal. De weken waarin deze overgang gebeurde, waren zalig: eindelijk in T-shirt op je fiets kunnen springen, de stad van dag tot dag zien veranderen en helemaal vergeten hoe koud het ooit geweest is.
 
