@@ -27,6 +27,10 @@ ARTICLE_EXCLUDES = (
 	("pages"),
 	("Portfolio"),
 )
+STATIC_PATHS = (
+	("images"),
+	("files"),
+)
 
 # External services
 DISQUS_SITENAME = "" # Set
