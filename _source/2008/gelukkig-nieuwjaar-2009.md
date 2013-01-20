@@ -2,9 +2,9 @@ Title: Gelukkig Nieuwjaar!
 Slug: gelukkig-nieuwjaar-2009
 Date: 2008-12-31 18:25
 Author: Peter Desmet
-Tags: Montréal, New Year, WordPress blog, local-images
+Tags: Montréal, New Year, WordPress blog
 
-![2009](http://www.anderhalv.be/wp-content/uploads/blog-2009.jpg "2009!")
+![2009](|filename|/images/2008-nieuwjaar-2009.jpg "2009!")
 
 Jullie zitten al in 2009, wij hebben nog 6 uurtjes van het heel bijzondere jaar 2008 voor ons. We wensen dat 2009 voor iedereen een fantastisch jaar wordt!
 

@@ -2,7 +2,7 @@ Title: Appartement
 Slug: appartement
 Date: 2009-04-05 18:37
 Author: Peter Desmet
-Tags: Montréal, Photos, WordPress blog, local-images
+Tags: Montréal, Photos, WordPress blog
 
 Zoals de meeste onder jullie al weten, wonen we sinds 19 maart in ons nieuwe appartement in [Rue Fullum](http://maps.google.com/?ie=UTF8&t=h&ll=45.533202,-73.560977&spn=0.003138,0.004608&z=18)!
 
@@ -10,7 +10,7 @@ Zoals de meeste onder jullie al weten, wonen we sinds 19 maart in ons nieuwe app
 
 Ons vorige appartement huurden we van de eigenares die op reis was en hadden we maar voor een beperkt aantal maanden. Dus zijn we in februari beginnen rondzoeken naar iets anders. Na vele kilometers (en 11 appartementen) zagen we 't appartement in Rue Fullum en waren we meteen verkocht. Uiteraard waren er nog andere kandidaten en we vreesden dat het noppes zou worden. Maar nog dezelfde avond liet de vrouw die de rondleiding gaf ons weten dat de eigenaar voor ons had gekozen. Reden: hij gelooft nogal in astrologie en we zijn beiden in maart geboren, wat blijkbaar een gunstig teken is. :-D
 
-![Living](http://www.anderhalv.be/wp-content/uploads/blog-living.jpg "1, 2, 3... living")
+![Living](|filename|/images/2009-appartement.jpg "1, 2, 3... living")
 
 Maart werd lekker druk: de living schilderen, alle meubels kopen (want we hadden nog niets, behalve ons [kastje](https://lh3.googleusercontent.com/-Raux2piH6C0/SY3ZMDeZU_I/AAAAAAAAF2k/QA5G0etEPgk/s800/P1050845.jpg) dan), beurs organiseren (Liens werk bij Réseau Environnement), Liens ouders op bezoek en verhuizen. Maar dat is allemaal gelukt en we zijn vré content met ons nieuwe huisje.
 

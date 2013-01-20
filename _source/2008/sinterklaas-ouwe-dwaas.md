@@ -2,7 +2,7 @@ Title: Sinterklaas, ouwe dwaas?
 Slug: sinterklaas-ouwe-dwaas
 Date: 2008-12-17 16:39
 Author: Peter Desmet
-Tags: Website, WordPress blog, local-images, internal-links
+Tags: Website, WordPress blog, internal-links
 
 Er is iets vreemds aan de gang in de statistieken van deze website...
 
@@ -10,7 +10,7 @@ Jap, jullie worden allemaal in de gaten gehouden! :-) Dankzij [Google Analytics]
 
 Maar sinds begin oktober is het meest gebruikte trefwoord (na "anderhalv") om op deze website terecht te komen: "sinterklaas ouwe dwaas ruikt naar bier en geitenkaas".
 
-![Sinterklaas](http://www.anderhalv.be/wp-content/uploads/blog-sinterklaas.png)
+![Sinterklaas](|filename|/images/2008-sinterklaas-analytics.png)
 
 De bezoekers komen daarmee terecht op [deze pagina](http://www.anderhalv.be/2007/12/van-christchurch-naar-te-anau), waar ik de eerste strofe uit Zwarte Piet's fameuze zelfgemaakte sinterklaasliedje aanhaal, uit een van m'n lievelingsprogramma's [Dag Sinterklaas](http://nl.wikipedia.org/wiki/Dag_Sinterklaas). Maar ik heb geen idee waarom zoveel mensen daarop zoeken en dat voor drie maanden lang! Als iemand weet wat er aan de hand is of als je op deze
 website kwam door te zoeken naar "sinterklaas ouwe dwaas ruikt naar bier en geitenkaas", laat gerust iets weten! :-)

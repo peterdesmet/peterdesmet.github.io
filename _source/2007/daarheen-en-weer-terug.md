@@ -2,9 +2,9 @@ Title: Daarheen en weer terug
 Slug: daarheen-en-weer-terug
 Date: 2007-11-10 16:49
 Author: Peter Desmet
-Tags: Travel, WordPress blog, local-images, local-file, rss
+Tags: Travel, WordPress blog, rss
 
-[![Michelinkaart van Nieuw Zeeland](http://www.anderhalv.be/wp-content/uploads/blog-nz-map.jpg)](http://www.anderhalv.be/wp-content/uploads/blog-nz-map.jpg)
+[![Michelinkaart van Nieuw Zeeland](|filename|/images/2007-kaart-nz.jpg)](|filename|/images/2007-kaart-nz.jpg)
 
 Binnen twee weken is het zover: ons vliegtuig maakt z'n laatste bochtje op de tarmac, start de motoren en maakt zich los van de grond. We zijn op weg naar de andere kant van de wereld!
 

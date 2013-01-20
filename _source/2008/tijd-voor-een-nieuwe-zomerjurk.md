@@ -2,7 +2,7 @@ Title: Tijd voor een nieuwe zomerjurk
 SLug: tijd-voor-een-nieuwe-zomerjurk
 Date: 2008-06-27 22:21
 Author: Peter Desmet
-Tags: Website, WordPress blog, local-images
+Tags: Website, WordPress blog
 
 De website is nauwelijks een half jaar oud en toch vond ik het al nodig om alles in een nieuw kleedje te steken. Waarom?
 
@@ -12,7 +12,7 @@ De website is nauwelijks een half jaar oud en toch vond ik het al nodig om alles
 
 Mij dus wat verdiept in webdesign, met de uitstekende hulp van [Design Melt Down's Principles of Design](http://www.designmeltdown.com/chapters/DesignPrinciples/), [Blog Design](http://www.blogdesignblog.com/), [Mezzoblue](http://www.mezzoblue.com/) en [Modern Life](http://www.modernlifeisrubbish.co.uk/). Mij ook weer gebogen over de [Wordpress](http://wordpress.org/)-code (dank je wel [fora](http://wordpress.org/support/)!), HTML en CSS. En weer gevloekt op Internet Explorer! Lieve mensen, gebruik [Firefox 3](http://www.mozilla.com/en-US/firefox/)!
 
-![Nieuw design](http://www.anderhalv.be/wp-content/uploads/blog-1.0-naar-2.0.jpg)
+![Nieuw design](|filename|/images/2008-design-v2-vergelijking.jpg)
 
 En nu alles af is, kan ik met trots Anderhalv 2.0 presenteren! Enkele veranderingen:
 
