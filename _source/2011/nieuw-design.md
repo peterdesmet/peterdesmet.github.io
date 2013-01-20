@@ -2,7 +2,7 @@ Title: Nieuw design
 Slug: nieuw-design
 Date: 2011-02-14 11:13
 Author: Peter Desmet
-Tags: Website, WordPress blog, internal-links
+Tags: Design, Coding, WordPress blog, internal-links
 
 ![Design 3](|filename|/images/2011-design-v3-homepage.png)
 

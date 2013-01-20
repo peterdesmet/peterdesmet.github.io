@@ -2,7 +2,7 @@ Title: Sinterklaas, ouwe dwaas?
 Slug: sinterklaas-ouwe-dwaas
 Date: 2008-12-17 16:39
 Author: Peter Desmet
-Tags: Website, WordPress blog, internal-links
+Tags: Stats, WordPress blog, internal-links
 
 Er is iets vreemds aan de gang in de statistieken van deze website...
 

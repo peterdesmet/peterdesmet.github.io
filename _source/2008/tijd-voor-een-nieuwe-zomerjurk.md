@@ -2,7 +2,7 @@ Title: Tijd voor een nieuwe zomerjurk
 SLug: tijd-voor-een-nieuwe-zomerjurk
 Date: 2008-06-27 22:21
 Author: Peter Desmet
-Tags: Website, WordPress blog
+Tags: Design, Coding, WordPress blog
 
 De website is nauwelijks een half jaar oud en toch vond ik het al nodig om alles in een nieuw kleedje te steken. Waarom?
 
