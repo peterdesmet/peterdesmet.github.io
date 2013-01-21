@@ -12,8 +12,19 @@ OUTPUT_PATH = "../" # One level above the _source folder
 DEFAULT_PAGINATION = False # Verify
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 DISPLAY_PAGES_ON_MENU = True
-FEED_ALL_RSS = "feeds/rss.xml" # Verify
-FEEDS_ALL_ATOM = None # Verify
+
+# Feeds
+FEED_DOMAIN = SITEURL
+FEED_ATOM = None
+FEED_RSS = None
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = "feeds/rss.xml"
+CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
+TAG_FEED_ATOM = None
+TAG_FEED_RSS = None
+TRANSLATION_FEED_ATOM = None
+TRANSLATION_FEED_RSS = None
 
 THEME = "tuxlite_tbs"
 
