@@ -8,10 +8,33 @@ AUTHOR = "Peter Desmet"
 TIMEZONE = "Europe/Paris"
 DEFAULT_LANG = "en"
 
-OUTPUT_PATH = "../" # One level above the _source folder
+MARKUP = "md"
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False # Verify
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
-DISPLAY_PAGES_ON_MENU = True
+
+# Directory settings
+PATH = ""
+ARTICLE_DIR = "posts/"
+PAGE_DIR = "pages"
+STATIC_PATHS = (
+	("images"),
+	("files"),
+)
+PAGE_EXCLUDES = (
+	("_exclude"),
+	("Portfolio"),
+)
+ARTICLE_EXCLUDES = (
+	("_exclude"),
+	("pages"),
+	("Portfolio"),
+)
+OUTPUT_PATH = "../" # One level above the _source folder
+
+# URLs
+ARTICLE_URL = "{date:%Y}/{slug}.html" # Both slug and slug.html will work
+ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
 
 # Feeds
 FEED_DOMAIN = SITEURL
@@ -26,26 +49,8 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
+# Theme
 THEME = "tuxlite_tbs"
-
-# URLs
-ARTICLE_URL = "{date:%Y}/{slug}.html" # Both slug and slug.html will work
-ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
-
-# Directory settings
-STATIC_PATHS = (
-	("images"),
-	("files"),
-)
-PAGE_EXCLUDES = (
-	("_exclude"),
-	("Portfolio"),
-)
-ARTICLE_EXCLUDES = (
-	("_exclude"),
-	("pages"),
-	("Portfolio"),
-)
 
 # External services
 DISQUS_SITENAME = "" # Set
