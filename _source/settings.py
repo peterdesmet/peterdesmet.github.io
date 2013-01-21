@@ -21,15 +21,6 @@ STATIC_PATHS = (
 	("images"),
 	("files"),
 )
-PAGE_EXCLUDES = (
-	("_exclude"),
-	("Portfolio"),
-)
-ARTICLE_EXCLUDES = (
-	("_exclude"),
-	("pages"),
-	("Portfolio"),
-)
 OUTPUT_PATH = "../" # One level above the _source folder
 
 # URLs
