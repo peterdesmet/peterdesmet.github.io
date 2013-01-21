@@ -2,19 +2,19 @@ Title: Mijn eerste werkdag en reisje naar Québec
 Slug: mijn-eerste-werkdag-en-reisje-naar-quebec
 Date: 2008-11-28 12:58
 Author: Peter Desmet
-Tags: Montréal, Travel, Photos, WordPress blog, image-captions
+Tags: Montréal, Travel, Photos, WordPress blog
 
 Wees niet té enthousiast over bovenstaande titel, ik heb het over mijn eerste dag als serveuse in een fokkiehuisje, zoals er hier in elke straat 35 zijn. De prestigieuze milieustudiebureaus en laboratoria zijn nog in beraad over het al dan niet aanwerven van die Belgische blonde. Voor het geld moet je het niet doen, maar het is wel een leuke manier om onder de mensen te zijn, om wat routine in mijn dagen te krijgen en om het Québecois te praktiseren. Sjukkellutsin = chocolatine ofte ne choclakoeke, cuffih = café. Niet de meest ingewikkelde voorbeelden, maar afhankelijk van de platheidsgraad van het dialect, kan het soms moeilijk zijn. Vreemde gewoonte van die Amerikanen (of misschien eerder de grootstadmentaliteit?) om onderweg te ontbijten (een muffin gaat er bij mij 's ochtends echt niet in).
 
 ![Montréal vanaf Mont Royal](http://lh4.ggpht.com/_cvGWRFf-ypY/SS3ZIosk21I/AAAAAAAACNg/eO7-PE31SQk/s800/DSC01308.JPG)
 
-Zicht op Downtown Montréal vanaf de Mont Royal
+*Zicht op Downtown Montréal vanaf de Mont Royal*
 
 Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je al kon lezen in het vorige verslagje. Veel sight-seeing, sfeer opsnuiven in Montréal, koffietjes, Peter aanmoedigen tijdens de hockey,... :
 
 ![Hockey](http://lh4.ggpht.com/_cvGWRFf-ypY/SS3YBU_JvDI/AAAAAAAACNM/o5lxdGbJ5Wc/s800/DSC01192.JPG)
 
-Peter in actie op donderdagavond
+*Peter in actie op donderdagavond*
 
 Terwijl Peter eventjes heen en weer vloog naar [Perth](|filename|/2009/fremantle-australie.md), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
 
@@ -28,7 +28,7 @@ Aangezien het toeristische seizoen voorbij was, waren we praktisch alleen in het
 
 ![yurt](http://lh5.ggpht.com/_cvGWRFf-ypY/SS3ahVA2rEI/AAAAAAAACNs/wEEC5IKrW0Q/s800/DSC01418.JPG)
 
-Onze Yurt in Parc de la Jacques Quartier
+*Onze Yurt in Parc de la Jacques Quartier*
 
 Na een aantal dagen en heerlijke wandelingen reden we verder naar het noorden om na een kwartier een wit laagje te bemerken op de beboste heuvels, een laagje dat dikker en dikker werd naarmate we noordelijker kwamen. Na de herfstpracht en kale bomen, nu dus ook sneeuw, en dat allemaal tijdens een tripje van één week.
 
@@ -48,11 +48,11 @@ Op ons tochtje spotten we een aantal dwergvinvissen, een groep robben en een gew
 
 ![Flipperrrr](http://lh6.ggpht.com/_cvGWRFf-ypY/SS3arVVTjEI/AAAAAAAACNw/P_eEtLbznUA/s800/DSC01485.JPG)
 
-We love Flipperrrr!
+*We love Flipperrrr!*
 
 ![Liesbet &: walvis](http://lh6.ggpht.com/_cvGWRFf-ypY/SS3c-LHUUiI/AAAAAAAACOg/aMaQ3MFh88A/s800/DSC01592.JPG)
 
-Liesbet spot walvissen vanaf de kust: Net op het moment dat ze zich draait, komt een walvis boven (rechts op de foto)
+*Liesbet spot walvissen vanaf de kust: Net op het moment dat ze zich draait, komt een walvis boven (rechts op de foto)*
 
 Nadat we in La Bohème, ons favoriete caféetje in Tadoussac, nog een heerlijke Luikse wafel met chocolade en banaan, pasta blauwe kaas en een ontbijt bestaande uit enkel koffie, aten (je merkt misschien dat eten altijd een belangrijk thema vormt...), reden we in de gietende regen terug naar Montréal. De volgende dag haalden we Peter af, die er na 40 uren reizen nog wonderlijk fris uit zag.
 
