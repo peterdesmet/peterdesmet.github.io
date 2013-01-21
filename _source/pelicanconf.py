@@ -17,7 +17,15 @@ FEEDS_ALL_ATOM = None # Verify
 
 THEME = "tuxlite_tbs"
 
-# Ignore the following work folders during publication
+# URLs
+ARTICLE_URL = "{date:%Y}/{slug}.html" # Both slug and slug.html will work
+ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
+
+# Directory settings
+STATIC_PATHS = (
+	("images"),
+	("files"),
+)
 PAGE_EXCLUDES = (
 	("_exclude"),
 	("Portfolio"),
@@ -26,10 +34,6 @@ ARTICLE_EXCLUDES = (
 	("_exclude"),
 	("pages"),
 	("Portfolio"),
-)
-STATIC_PATHS = (
-	("images"),
-	("files"),
 )
 
 # External services
