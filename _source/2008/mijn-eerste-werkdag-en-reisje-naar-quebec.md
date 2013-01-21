@@ -2,7 +2,7 @@ Title: Mijn eerste werkdag en reisje naar Québec
 Slug: mijn-eerste-werkdag-en-reisje-naar-quebec
 Date: 2008-11-28 12:58
 Author: Peter Desmet
-Tags: Montréal, Travel, Photos, WordPress blog, image-captions, internal-links
+Tags: Montréal, Travel, Photos, WordPress blog, image-captions
 
 Wees niet té enthousiast over bovenstaande titel, ik heb het over mijn eerste dag als serveuse in een fokkiehuisje, zoals er hier in elke straat 35 zijn. De prestigieuze milieustudiebureaus en laboratoria zijn nog in beraad over het al dan niet aanwerven van die Belgische blonde. Voor het geld moet je het niet doen, maar het is wel een leuke manier om onder de mensen te zijn, om wat routine in mijn dagen te krijgen en om het Québecois te praktiseren. Sjukkellutsin = chocolatine ofte ne choclakoeke, cuffih = café. Niet de meest ingewikkelde voorbeelden, maar afhankelijk van de platheidsgraad van het dialect, kan het soms moeilijk zijn. Vreemde gewoonte van die Amerikanen (of misschien eerder de grootstadmentaliteit?) om onderweg te ontbijten (een muffin gaat er bij mij 's ochtends echt niet in).
 
@@ -16,7 +16,7 @@ Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je
 
 Peter in actie op donderdagavond
 
-Terwijl Peter eventjes heen en weer vloog naar [Perth](http://www.anderhalv.be/2009/01/fremantle-australie), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
+Terwijl Peter eventjes heen en weer vloog naar [Perth](|filename|/2009/fremantle-australie.md), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
 
 ![Liesbet & ik](http://lh4.ggpht.com/_cvGWRFf-ypY/SS3YonM0-FI/AAAAAAAACNU/KPPbpVDFj38/s800/DSC01291.JPG)
 

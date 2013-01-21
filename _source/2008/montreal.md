@@ -2,7 +2,7 @@ Title: Montréal
 Slug: montreal
 Date: 2008-03-19 23:59
 Author: Peter Desmet
-Tags: Montréal, Travel, Photos, WordPress blog, internal-links
+Tags: Montréal, Travel, Photos, WordPress blog
 
 Na maanden onzekerheid, hebben we nu eindelijk antwoord op de vraag "Verhuizen we naar Canada?"
 
@@ -12,7 +12,7 @@ Na maanden onzekerheid, hebben we nu eindelijk antwoord op de vraag "Verhuizen w
 
 Begin september (vorig jaar) vond ik via een of andere mailinglist een vacature die me wel heel erg interesseerde. Men zocht iemand om een netwerk op te stellen, waarmee via één website een heleboel biologische collecties kunnen doorzocht worden. Biodiversiteitsinformatica dus, en een beetje in dezelfde lijn als een deel van mijn werk bij het [Belgian Biodiversity Platform](http://www.biodiversity.be), alleen op veel grotere schaal en... in Canada!
 
-Toch maar mijn kans gewaagd en eind november (2 maanden later!) - vlak voor we naar Nieuw-Zeeland vertrokken - een uitnodiging gekregen voor een sollicitatiegesprek, via de telefoon. Die telefoon heb ik uiteindelijk in de tuin van een jeugdherberg in Christchurch gedaan (zie [vroeger bericht](http://www.anderhalv.be/?p=24)) en tijdens de verdere reis af en toe eens mijn e-mail gecheckt op een reactie, maar noppes. Tot er eind februari (3 maanden later!) een e-mailtje in m'n mailbox viel met het bericht dat ik de job heb...
+Toch maar mijn kans gewaagd en eind november (2 maanden later!) - vlak voor we naar Nieuw-Zeeland vertrokken - een uitnodiging gekregen voor een sollicitatiegesprek, via de telefoon. Die telefoon heb ik uiteindelijk in de tuin van een jeugdherberg in Christchurch gedaan (zie [vroeger bericht](|filename|/2007/van-christchurch-naar-te-anau.md)) en tijdens de verdere reis af en toe eens mijn e-mail gecheckt op een reactie, maar noppes. Tot er eind februari (3 maanden later!) een e-mailtje in m'n mailbox viel met het bericht dat ik de job heb...
 
 ## Over en weer naar Montréal
 
