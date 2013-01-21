@@ -15,7 +15,7 @@ DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it wou
 
 # Directory settings
 PATH = ""
-ARTICLE_DIR = "posts/"
+ARTICLE_DIR = "posts"
 PAGE_DIR = "pages"
 STATIC_PATHS = (
 	("images"),
