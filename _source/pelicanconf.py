@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-SITENAME = u"Anderhalv"
+SITENAME = "Anderhalv"
 SITEURL = "http://peterdesmet.github.com"
-AUTHOR = u"Peter Desmet"
+AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
-DEFAULT_LANG = u"en"
+DEFAULT_LANG = "en"
 
 OUTPUT_PATH = "../" # One level above the _source folder
 DEFAULT_PAGINATION = False # Verify
