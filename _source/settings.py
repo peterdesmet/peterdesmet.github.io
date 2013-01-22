@@ -10,7 +10,7 @@ DEFAULT_LANG = "en"
 
 MARKUP = "md"
 DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = False # Verify
+DEFAULT_PAGINATION = 3
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 
 # Directory settings
