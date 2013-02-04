@@ -2,18 +2,20 @@
 # -*- coding: utf-8 -*- #
 
 SITENAME = "Anderhalv"
+SITESUBTITLE = "" # Set
 SITEURL = "http://peterdesmet.github.com"
 AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
 DEFAULT_LANG = "en"
-
 MARKUP = "md"
+
+# Reading settings
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 3
-DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 
 # Directory settings
+DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 PATH = ""
 ARTICLE_DIR = "posts"
 PAGE_DIR = "pages"
@@ -41,7 +43,7 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 # Theme
-THEME = "tuxlite_tbs"
+THEME = "../../spoonbill" # Relative link to theme repository
 
 # External services
 DISQUS_SITENAME = "" # Set
