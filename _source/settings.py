@@ -43,7 +43,7 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 # Theme
-THEME = "../../spoonbill" # Relative link to theme repository
+THEME = "tuxlite_tbs"
 
 # External services
 DISQUS_SITENAME = "" # Set
