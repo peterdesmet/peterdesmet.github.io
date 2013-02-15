@@ -26,8 +26,8 @@ STATIC_PATHS = (
 OUTPUT_PATH = "../" # One level above the _source folder
 
 # URLs
-ARTICLE_URL = "{date:%Y}/{slug}.html" # Both slug and slug.html will work
-ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
+ARTICLE_URL = "posts/{slug}.html" # Both slug and slug.html will work
+ARTICLE_SAVE_AS = "posts/{slug}.html"
 
 # Feeds
 FEED_DOMAIN = SITEURL
