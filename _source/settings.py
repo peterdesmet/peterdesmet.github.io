@@ -3,7 +3,7 @@
 
 SITENAME = "Anderhalv"
 SITESUBTITLE = "" # Set
-SITEURL = "http://peterdesmet.github.com"
+SITEURL = "http://peterdesmet.com"
 AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
