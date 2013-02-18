@@ -46,7 +46,7 @@ TRANSLATION_FEED_RSS = None
 THEME = "tuxlite_tbs"
 
 # External services
-DISQUS_SITENAME = "" # Set
+DISQUS_SITENAME = "peterdesmet"
 GOOGLE_ANALYTICS = "" # Set
 GITHUB_URL = "https://github.com/peterdesmet"
 
