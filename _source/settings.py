@@ -20,8 +20,8 @@ PATH = ""
 ARTICLE_DIR = "posts"
 PAGE_DIR = "pages"
 STATIC_PATHS = (
-	("images"),
-	("files"),
+    ("images"),
+    ("files"),
 )
 OUTPUT_PATH = "../" # One level above the _source folder
 
@@ -56,8 +56,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-	("Twitter", "https://www.twitter.com/peterdesmet"),
-	("GitHub","https://github.com/peterdesmet"),
-	("LinkedIn","http://www.linkedin.com/in/peterdesmet"),
-	("Last.fm","http://www.last.fm/user/anderhalv"),
+    ("Twitter", "https://www.twitter.com/peterdesmet"),
+    ("GitHub","https://github.com/peterdesmet"),
+    ("LinkedIn","http://www.linkedin.com/in/peterdesmet"),
+    ("Last.fm","http://www.last.fm/user/anderhalv"),
 )
