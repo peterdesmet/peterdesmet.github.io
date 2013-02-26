@@ -6,7 +6,7 @@ Tags: Markus, Montréal, Photos, WordPress blog
 
 Wel, 't is pas overmorgen dat we aan drie weken zitten, maar gisteren was het Markus' uitgerekende datum en waren Lien en ik zeven jaar samen en morgen is het mijn verjaardag, dus we hebben genoeg te vieren! Bovendien vernam ik van oma Chris dat we best nog wel wat op de blog zetten, aangezien jullie meer nieuws en foto's willen! Dus, tussen de soep, patatten, pampers en borstvoeding door...
 
-[![Foto Markus](https://lh5.googleusercontent.com/--P6vg5UTOc4/TYYyeSzBrQI/AAAAAAAAF2Q/K4lD_w04jDM/s800/DSC_0200.JPG "Juij! Meer foto's!")](https://picasaweb.google.com/Peter.Desmet/3WekenMet3?authuser=0&authkey=Gv1sRgCPGY8b7cs-yyoAE&feat=directlink)
+![Foto Markus](https://lh5.googleusercontent.com/--P6vg5UTOc4/TYYyeSzBrQI/AAAAAAAAF2Q/K4lD_w04jDM/s800/DSC_0200.JPG "Juij! Meer foto's!")
 
 Na twee dagen hadden ze ons al uit het ziekenhuis ontslaan, wat een beetje idioot was, want de volgende morgen moesten we al terug voor een controle. Aangezien Markus nog afgevallen was en geelzucht had (bilirubine niet vlot genoeg afgebroken), moesten we blijven voor fototherapie en borstvoedingscontrole. De irritant-vrolijke verpleegster pushte een volledig uitgeputte Lien constant om borstvoeding te geven, ook al dronk Markus nauwelijks. Een fles was uit den boze volgens haar, want dan zou hij nooit meer de borst willen nemen. Spuitjes dan maar. Gelukkig was de nachtverpleegster iets praktischer, zodat Lien toch even heeft kunnen slapen. Na anderhalve dag mochten we weer naar huis, al zijn we de week erna nog twee keer op controle geweest. Twee keer net tijdens een sneeuwstorm!
 

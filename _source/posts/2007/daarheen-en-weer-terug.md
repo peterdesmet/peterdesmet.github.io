@@ -4,7 +4,7 @@ Date: 2007-11-10 16:49
 Author: Peter Desmet
 Tags: Travel, WordPress blog
 
-[![Michelinkaart van Nieuw Zeeland](|filename|/images/2007-kaart-nz.jpg)](|filename|/images/2007-kaart-nz.jpg)
+![Michelinkaart van Nieuw Zeeland](|filename|/images/2007-kaart-nz.jpg)
 
 Binnen twee weken is het zover: ons vliegtuig maakt z'n laatste bochtje op de tarmac, start de motoren en maakt zich los van de grond. We zijn op weg naar de andere kant van de wereld!
 

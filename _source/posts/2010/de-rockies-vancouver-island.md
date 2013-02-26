@@ -6,7 +6,7 @@ Tags: Travel, Photos, WordPress blog
 
 We hadden sinds [Nieuw-Zeeland](|filename|/posts/2007/daarheen-en-weer-terug.md) geen grote reis meer gedaan samen, dus we keken wel erg uit naar de reis deze zomer: 4 weken Canadese Rockies & Vancouver Island! :-)
 
-[![Jasper National Park](http://lh3.ggpht.com/_EPrm9WP-f9o/THHB4lFLTTI/AAAAAAAAEIw/CQajxhBp9mg/s800/DSC_0311.JPG)](http://picasaweb.google.com/Peter.Desmet/DeRockiesVancouverIsland "Klik hier als je niet kan wachten om de foto's te zien...")
+![Jasper National Park](http://lh3.ggpht.com/_EPrm9WP-f9o/THHB4lFLTTI/AAAAAAAAEIw/CQajxhBp9mg/s800/DSC_0311.JPG)
 
 En 't was schitterend! Langs de wijngaardenstreek [Okanagan Valley](http://en.wikipedia.org/wiki/Okanagan) (B) richting de bergen, meren en beren van [Jasper](http://en.wikipedia.org/wiki/Jasper_National_Park) (C) en [Banff National Park](http://en.wikipedia.org/wiki/Banff_National_Park) (D/G). Even de uitgestrekte [prairies](http://en.wikipedia.org/wiki/Canadian_Prairies) op, tussen de dinosaurussen in [Drumheller](http://en.wikipedia.org/wiki/Drumheller) (E) en [Dinosaur Provincial Park](http://en.wikipedia.org/wiki/Dinosaur_Provincial_Park) (F). Terug in [Vancouver](http://en.wikipedia.org/wiki/Vancouver) (M) pikten we Liesbet op om de gematigde regenwouden en walvissen van [Vancouver Island](http://en.wikipedia.org/wiki/Vancouver_Island) (J/K/L) te ontdekken, met als hoogtepunt 40 minuten bultrug spektakel vanuit onze kayak in de [Broken Group Islands](http://en.wikipedia.org/wiki/Broken_Group). :-)
 
