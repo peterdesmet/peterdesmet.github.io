@@ -12,7 +12,7 @@ De bomen in Montréal zaten ergens tussen groen en geel toen we vertrokken, maar
 
 ![Groen, geel en grijs](http://lh4.ggpht.com/Peter.Desmet/SP691P2tGZI/AAAAAAAACLk/NqEagERfQo4/s800/P1050345.JPG)
 
-Groen, geel en grijs, maar wel fantastisch mooi!
+*Groen, geel en grijs, maar wel fantastisch mooi!*
 
 Onze kampeerplaats was zalig: op een schiereilandje, tussen de naaldbomen met zicht op Lac Monroe! De perfecte start voor drie dagen wandeltochten, kanoën, kampvuur en slapen in thermisch ondergoed. :D
 
