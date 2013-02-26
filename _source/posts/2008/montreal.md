@@ -6,7 +6,7 @@ Tags: Montréal, Travel, Photos, WordPress blog
 
 Na maanden onzekerheid, hebben we nu eindelijk antwoord op de vraag "Verhuizen we naar Canada?"
 
-[![Knuffels vanuit Montréal](https://lh4.googleusercontent.com/-1mfh8dZgDvo/R-FgsgYwY_I/AAAAAAAAF2o/WQocmMiIey0/s800/2008.03.17%252520-%252520Montr%2525C3%2525A9al%252520%25252804%252529.jpg "Knuffels vanuit Montréal")](https://picasaweb.google.com/Peter.Desmet/Montreal?authuser=0&authkey=Gv1sRgCNPjkPf3qq7L0wE&feat=directlink)
+![Knuffels vanuit Montréal](https://lh4.googleusercontent.com/-1mfh8dZgDvo/R-FgsgYwY_I/AAAAAAAAF2o/WQocmMiIey0/s800/2008.03.17%252520-%252520Montr%2525C3%2525A9al%252520%25252804%252529.jpg "Knuffels vanuit Montréal")
 
 ## Een korte samenvatting
 
@@ -20,4 +20,4 @@ Dat viel in als een bom natuurlijk. Ook al hadden we de laatste maanden al wat k
 
 En zo zijn we vorige week woensdag (12 maart) op het vliegtuig gestapt, voor 5 dagen Montréal. Je hoort er ongetwijfeld nog meer over, maar kort samengevat viel het daar allemaal erg mee: vriendelijke mensen, gezellige stad, interessant project, pakken sneeuw en op de meeste vragen, de antwoorden die we wilden horen. Kortom... we hebben beslist om het de komende 5 jaar in Montréal te proberen! :| :)
 
-Klik [hier](https://picasaweb.google.com/Peter.Desmet/Montreal?authuser=0&authkey=Gv1sRgCNPjkPf3qq7L0wE&feat=directlink) voor foto's van ons tripje.
+Klik [hier voor foto's](https://picasaweb.google.com/Peter.Desmet/Montreal?authuser=0&authkey=Gv1sRgCNPjkPf3qq7L0wE&feat=directlink) van ons tripje.

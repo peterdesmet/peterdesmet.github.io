@@ -24,7 +24,7 @@ De Belgische zomer die we beleefd hebben eind juni, was ook nogal uitzonderlijk:
 
 ![Zeetje](http://lh3.ggpht.com/_cvGWRFf-ypY/SnsN2gPhDuI/AAAAAAAAC0M/r1PU31knTkA/s720/P1060540.JPG "Aan 't zeetje")
 
-![Gent](http://lh4.ggpht.com/_cvGWRFf-ypY/SnsN6b3bLaI/AAAAAAAAC0Q/tZX1rKl9TLs/s576/P1060724.JPG "Mmm Gent (en een slechtvalk!)")
+![Gent](http://lh4.ggpht.com/_cvGWRFf-ypY/SnsN6b3bLaI/AAAAAAAAC0Q/tZX1rKl9TLs/s576/P1060724.JPG "Mmm Gent. En een slechtvalk!")
 
 [Hier vind je een selectie](http://picasaweb.google.com/lienterryn/AprilJuli) van onze foto's van de afgelopen maanden.
 
