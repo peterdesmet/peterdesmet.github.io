@@ -5,9 +5,13 @@ import sys
 sys.path.append('.')
 from settings import *
 
+SITENAME = "Peter Desmet"
+SITESUBTITLE = "Spending his days on <a href=\"https://github.com/peterdesmet\">GitHub</a>"
+
 # Reading settings
 SUMMARY_MAX_LENGTH = -1
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = None
+DEFAULT_DATE_FORMAT  = "%B %d, %Y"
 
 # Theme
 THEME = "../../spoonbill" # Relative link to theme repository
