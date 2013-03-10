@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-SITENAME = "Anderhalv"
+SITENAME = "Peter Desmet"
 SITESUBTITLE = "" # Set
 SITEURL = "http://peterdesmet.com"
 AUTHOR = "Peter Desmet"
@@ -11,8 +11,10 @@ DEFAULT_LANG = "en"
 MARKUP = "md"
 
 # Reading settings
-DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = 3
+DISPLAY_PAGES_ON_MENU = False
+DEFAULT_PAGINATION = None
+DEFAULT_DATE_FORMAT  = "%B %d, %Y"
+SUMMARY_MAX_LENGTH = -1
 
 # Directory settings
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
@@ -43,7 +45,7 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 # Theme
-THEME = "tuxlite_tbs"
+THEME = "../../spoonbill" # Relative link to theme repository
 
 # External services
 DISQUS_SITENAME = "peterdesmet"
