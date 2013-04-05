@@ -1,0 +1,14 @@
+# humanstxt.org/
+
+# TEAM
+
+    Peter Desmet @peterdesmet
+
+# THANKS
+
+    Open source software
+
+# TECHNOLOGY COLOPHON
+
+    Pelican: https://github.com/getpelican/pelican
+    html5boilerplate: https://github.com/h5bp/html5-boilerplate
