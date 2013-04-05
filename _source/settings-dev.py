@@ -5,8 +5,11 @@ import sys
 sys.path.append('.')
 from settings import *
 
-# Reading settings
-SUMMARY_MAX_LENGTH = -1
+SITESUBTITLE = "Lucky rocketship underpants"
 
-# Theme
-THEME = "../../spoonbill" # Relative link to theme repository
+# Reading settings
+DISPLAY_PAGES_ON_MENU = True
+DEFAULT_PAGINATION = 10 # To test pagination
+
+# External services
+GOOGLE_ANALYTICS = "UA-XXXXX-X" # Don't track while coding
