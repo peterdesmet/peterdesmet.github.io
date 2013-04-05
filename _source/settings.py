@@ -49,7 +49,7 @@ THEME = "../../spoonbill" # Relative link to theme repository
 
 # External services
 DISQUS_SITENAME = "peterdesmet"
-GOOGLE_ANALYTICS = "" # Set
+GOOGLE_ANALYTICS = "UA-2043127-1"
 GITHUB_URL = "https://github.com/peterdesmet"
 
 # Blogroll
