@@ -2,7 +2,7 @@ Title: Belgisch bezoek
 Slug: belgisch-bezoek
 Date: 2009-10-06 20:20
 Author: Lien Terryn
-Tags: Montréal, Travel, Photos, WordPress blog
+Tags: Montréal, Travel, Photos, Old blog
 
 De twee weken België gingen in juli eigenlijk gewoon door hier in Montréal aangezien Bieke en Ann op dezelfde dag meekwamen op huwelijksreis. Een weekje later was het dan de beurt aan Ruth en Dieter
 en met hen trokken we er een paar dagen op uit. Eerst een dagje [Québec city](http://en.wikipedia.org/wiki/Quebec_City) en daarna richting [Parc de la Mauricie](http://fr.wikipedia.org/wiki/Parc_national_de_la_Mauricie), gelegen tussen Montréal en Québec. [Foto's vind je hier](http://picasaweb.google.com/lienterryn/QuebecEnLaMauricie).

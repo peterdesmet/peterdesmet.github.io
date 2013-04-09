@@ -2,11 +2,11 @@ Title: Et l'hiver recommence...
 Slug: et-lhiver-recommence
 Date: 2009-02-25 12:53
 Author: Lien Terryn
-Tags: Montréal, Travel, Photos, WordPress blog
+Tags: Montréal, Travel, Photos, Old blog
 
 Het was een aantal weken geleden dat het nog gesneeuwd had, we verheugden ons al op de lente, we negeerden al die doemdenkers die hier al jaren wonen... maar ze hadden gelijk, de winter is nog niet voorbij. Ach, fladderende, witte sneeuwvlokjes zijn mooier dan grijze regenwolken. Ja toch? :)
 
-![Langlaufen](https://lh5.googleusercontent.com/-F24HGhK77jY/SY3X_epqIhI/AAAAAAAAF2k/eGUfBJccLzQ/s800/P1050839.JPG  "Peter en Lien op de latten")
+![Langlaufen](https://lh5.googleusercontent.com/-F24HGhK77jY/SY3X_epqIhI/AAAAAAAAF2k/eGUfBJccLzQ/s800/P1050839.JPG "Peter en Lien op de latten")
 
 Ik word bij momenten gek van de overload aan Frans rond me heen. Ik sta in als contactpersoon voor de exposanten van een [grote beurs](http://www.americana.org/) rond milieutechnologieën, wat betekent dat ik veel moet en mag communiceren. Het is best leuk en interessant en heel erg leerrijk, maar bij momenten frustreert de lastige communicatie me. Een teveel aan "tu-t-as-tu" (Québéçois voor "est-ce que tu as") en "lu lu" (stopwoordje bij uitstek, in het frans "là", vraag me niet waarom ze het zo vaak dubbel zeggen) maakt de dagen waar ik eigenlijk geen zin had om op te staan, niet beter voor mij. ;-) Gelukkig zijn er niet zoveel van die dagen en leer ik in sneltempo Frans en Québéçois via mijn toffe collega's.
 

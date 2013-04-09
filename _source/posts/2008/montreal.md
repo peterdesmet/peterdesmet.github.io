@@ -2,7 +2,7 @@ Title: Montréal
 Slug: montreal
 Date: 2008-03-19 23:59
 Author: Peter Desmet
-Tags: Montréal, Travel, Photos, WordPress blog
+Tags: Montréal, Travel, Photos, Old blog
 
 Na maanden onzekerheid, hebben we nu eindelijk antwoord op de vraag "Verhuizen we naar Canada?"
 

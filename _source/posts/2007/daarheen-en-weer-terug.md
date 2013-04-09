@@ -2,7 +2,7 @@ Title: Daarheen en weer terug
 Slug: daarheen-en-weer-terug
 Date: 2007-11-10 16:49
 Author: Peter Desmet
-Tags: Travel, WordPress blog
+Tags: Travel, Old blog
 
 ![Michelinkaart van Nieuw Zeeland](|filename|/images/2007-kaart-nz.jpg)
 

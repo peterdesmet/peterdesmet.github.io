@@ -2,7 +2,7 @@ Title: Gelukkig Nieuwjaar!
 Slug: gelukkig-nieuwjaar-2010
 Date: 2009-12-31 14:22
 Author: Peter Desmet
-Tags: Montréal, New Year, WordPress blog
+Tags: Montréal, New Year, Old blog
 
 We wensen jullie een schitterend...
 

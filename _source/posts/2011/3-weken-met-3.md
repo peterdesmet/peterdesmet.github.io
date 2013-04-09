@@ -2,7 +2,7 @@ Title: 3 weken met 3
 Slug: 3-weken-met-3
 Date: 2011-03-20 12:37
 Author: Peter Desmet
-Tags: Markus, Montréal, Photos, WordPress blog
+Tags: Markus, Montréal, Photos, Old blog
 
 Wel, 't is pas overmorgen dat we aan drie weken zitten, maar gisteren was het Markus' uitgerekende datum en waren Lien en ik zeven jaar samen en morgen is het mijn verjaardag, dus we hebben genoeg te vieren! Bovendien vernam ik van oma Chris dat we best nog wel wat op de blog zetten, aangezien jullie meer nieuws en foto's willen! Dus, tussen de soep, patatten, pampers en borstvoeding door...
 
