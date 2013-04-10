@@ -10,5 +10,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    Pelican: https://github.com/getpelican/pelican
-    html5boilerplate: https://github.com/h5bp/html5-boilerplate
+    Powered by Pelican: https://github.com/getpelican/pelican
+    Hosted on GitHub: https://github.com/peterdesmet/peterdesmet.github.com
+    Styled with my own theme Spoonbill: https://github.com/peterdesmet/spoonbill
+    Based on html5boilerplate: https://github.com/h5bp/html5-boilerplate
