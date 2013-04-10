@@ -6,7 +6,7 @@ Tags: Travel, Old blog
 
 ## Dinsdag 4 december
 
-Aangekomen in Christchurch, Nieuw-Zeeland! We hadden ons verwacht aan een even mottige jeugdherberg als in Sydney, maar [Foley Towers](http://www.backpack.co.nz/foley.html) is net het tegenovergestelde. Een oud herenhuis in een prachtige wilde tuin, net Villa Kakelbont. Christchurch zelf is niet zo bijzonder, maar wel gezellig, met heel veel eetgelegenheden en heerlijke koffie en warme chocomelk. ;) Temperatuur is wat Europeser, maar wel nog zomers.
+Aangekomen in Christchurch, Nieuw-Zeeland! We hadden ons verwacht aan een even mottige jeugdherberg als in Sydney, maar [Foley Towers](http://www.backpack.co.nz/foley.html) is net het tegenovergestelde. Een oud herenhuis in een prachtige wilde tuin, net Villa Kakelbont. Christchurch zelf is niet zo bijzonder, maar wel gezellig, met heel veel eetgelegenheden en heerlijke koffie en warme chocomelk. ;) Temperatuur is wat meer Europees, maar wel nog zomers.
 
 ## Woensdag 5 december
 
@@ -16,7 +16,7 @@ Na mijn stress-moment, tijd voor Lien's stress-moment: links rijden met een stuu
 
 ## Donderdag 6 december
 
-"Sinterklaas, ouwe dwaas, ruikt naar bier en geitenkaas..." (Zwarte Piet's Sinterklaasliedje) Te slecht weer om te kayaken met de [Hector's dolfijnen](http://en.wikipedia.org/wiki/Hector's_Dolphin), maar we hebben ze wel gezien vanaf de kant van de baai! Stevig doorgereden naar Oamaru en kijkje gaan nemen bij strandje waar we een paar [Geeloogpinguinen](http://en.wikipedia.org/wiki/Yellow-eyed_Penguin) aan land zagen komen.
+"Sinterklaas, ouwe dwaas, ruikt naar bier en geitenkaas..." (Zwarte Piet's Sinterklaasliedje) Te slecht weer om te kayakken met de [Hector's dolfijnen](http://en.wikipedia.org/wiki/Hector's_Dolphin), maar we hebben ze wel gezien vanaf de kant van de baai! Stevig doorgereden naar Oamaru en kijkje gaan nemen bij strandje waar we een paar [Geeloogpinguinen](http://en.wikipedia.org/wiki/Yellow-eyed_Penguin) aan land zagen komen.
 
 ## Vrijdag 7 december
 

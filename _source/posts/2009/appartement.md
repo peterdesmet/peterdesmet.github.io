@@ -8,7 +8,7 @@ Zoals de meeste onder jullie al weten, wonen we sinds 19 maart in ons nieuwe app
 
 <iframe width="612" height="459" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=45.533274,-73.56131&amp;spn=0.00159,0.003026&amp;z=18&amp;output=embed"></iframe>
 
-Ons vorige appartement huurden we van de eigenares die op reis was en hadden we maar voor een beperkt aantal maanden. Dus zijn we in februari beginnen rondzoeken naar iets anders. Na vele kilometers (en 11 appartementen) zagen we 't appartement in Rue Fullum en waren we meteen verkocht. Uiteraard waren er nog andere kandidaten en we vreesden dat het noppes zou worden. Maar nog dezelfde avond liet de vrouw die de rondleiding gaf ons weten dat de eigenaar voor ons had gekozen. Reden: hij gelooft nogal in astrologie en we zijn beiden in maart geboren, wat blijkbaar een gunstig teken is. :-D
+Ons vorige appartement huurden we van de eigenares die op reis was en hadden we maar voor een beperkt aantal maanden. Dus zijn we in februari beginnen rond zoeken naar iets anders. Na vele kilometers (en 11 appartementen) zagen we 't appartement in Rue Fullum en waren we meteen verkocht. Uiteraard waren er nog andere kandidaten en we vreesden dat het noppes zou worden. Maar nog dezelfde avond liet de vrouw die de rondleiding gaf ons weten dat de eigenaar voor ons had gekozen. Reden: hij gelooft nogal in astrologie en we zijn beiden in maart geboren, wat blijkbaar een gunstig teken is. :-D
 
 ![Living](|filename|/images/2009-appartement.jpg "1, 2, 3... living")
 
