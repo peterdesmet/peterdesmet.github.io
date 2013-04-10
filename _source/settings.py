@@ -51,6 +51,7 @@ THEME = "../../spoonbill" # Relative link to theme repository
 DISQUS_SITENAME = "peterdesmet"
 GOOGLE_ANALYTICS = "UA-2043127-1"
 GITHUB_URL = "https://github.com/peterdesmet"
+TWITTER_URL = "https://twitter.com/peterdesmet"
 
 # Blogroll
 LINKS = (
