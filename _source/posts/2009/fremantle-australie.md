@@ -8,7 +8,7 @@ Ok, we zijn we al 3 maanden verder, maar een paar foto's van Australië kon ik j
 
 ![Zonsondergang](http://lh6.ggpht.com/_EPrm9WP-f9o/SUhxChADkfI/AAAAAAAACUw/VgFaWOb75NA/s800/P1050386.JPG "Zonsondergang in Karakamia Sanctuary")
 
-Eind oktober moest ik voor een zeer leerrijke [conferentie](http://www.tdwg.org/conference2008/) (opnieuw) naar de andere kant van de wereld, naar het havenstadje [Fremantle](http://en.wikipedia.org/wiki/Fremantle), niet ver van Perth. De meeste dagen bracht ik door in de conferentiezaal of in de gezellige [Bed & Breakfast](http://www.danumhouse.com.au/), maar gelukkig heb ik er 3 keer vanonderuit kunnen piepen om de omgeving wat te verkennen.
+Eind oktober moest ik voor een zeer leerrijke [conferentie](http://www.tdwg.org/conference2008/) (opnieuw) naar de andere kant van de wereld, naar het havenstadje [Fremantle](http://en.wikipedia.org/wiki/Fremantle), niet ver van Perth. De meeste dagen bracht ik door in de conferentiezaal of in de gezellige [Bed & Breakfast](http://www.danumhouse.com.au/), maar gelukkig heb ik er 3 keer van onderuit kunnen piepen om de omgeving wat te verkennen.
 
 ![Fremantle](http://lh5.ggpht.com/_EPrm9WP-f9o/SUh2iKE8qTI/AAAAAAAACW8/_DBK7-8hfNk/s800/P1050545.JPG "Het centrum van Fremantle")
 
@@ -24,6 +24,6 @@ Ik vond de Quokkas best schattig, maar het eiland zelf was interessanter. Ook al
 
 ![Rottnest Island](http://lh5.ggpht.com/_EPrm9WP-f9o/SXX43TuyKKI/AAAAAAAACgc/YDUciZUl6eA/s800/P1050465.JPG)
 
-De zaterdag heb ik nog een walvistocht kunnen meepikken, maar de zee was te woelig en de bultruggen te ver om foto's te kunnen nemen. En dan weer zo'n 30 uur het vliegtuig op naar de Canadese winter. Jap, Austalië met lekker warm lenteweer, felgekleurde vogels, buideldieren en de typische vegatatie mocht wel wat langer duren. :-)
+De zaterdag heb ik nog een walvistocht kunnen meepikken, maar de zee was te woelig en de bultruggen te ver om foto's te kunnen nemen. En dan weer zo'n 30 uur het vliegtuig op naar de Canadese winter. Jap, Austalië met lekker warm lenteweer, felgekleurde vogels, buideldieren en de typische vegetatie mocht wel wat langer duren. :-)
 
 Zoals gewoonlijk, meer foto's op [Picasa webalbums](http://picasaweb.google.com/Peter.Desmet/FremantleAustrali).
