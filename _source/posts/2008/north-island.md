@@ -2,7 +2,7 @@ Title: North Island
 Slug: north-island
 Date: 2008-01-15 06:17
 Author: Peter Desmet
-Tags: Travel, WordPress blog
+Tags: Travel, Old blog
 
 Jap, 't is alweer een tijdje geleden dat je van ons hebt gehoord, maar we hebben niet stilgezetten! :)
 

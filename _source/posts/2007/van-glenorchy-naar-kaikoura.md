@@ -2,7 +2,7 @@ Title: Van Glenorchy naar Kaikoura
 Slug: van-glenorchy-naar-kaikoura
 Date: 2007-12-31 04:12
 Author: Peter Desmet
-Tags: Travel, WordPress blog
+Tags: Travel, Old blog
 
 Hey iedereen! Jawel hoor, we zijn er nog steeds! :)
 
