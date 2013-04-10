@@ -10,7 +10,7 @@ Hey iedereen! Jawel hoor, we zijn er nog steeds! :)
 
 Omdat 't weer de dag ervoor (dag van onze laatste post) regenachtig was hebben we onze paardrijtocht naar vandaag verplaatst. Richting Glenorchy gevroemd en 't was al stralende zon toen we opreden bij [High Country Horses](http://www.high-country-horses.co.nz/). Een helm en een paard (ik en Will, Lien en Sassle :) ) en op weg. Blijkbaar had ik iets meer uitleg gekregen over sturen en hielen naar beneden houden, want Lien vond er 't eerste uur niet zoveel aan. Omgeving zeer Lord of the Rings, langs de Rees-rivier stroomopwaarts, beekjes overstekend, door wilgenbossen en met schitterende besneeuwde bergen op de achtergrond. En hoewel ze hier stukken van de film hebben opgenomen (onder andere [Isengard](http://en.wikipedia.org/wiki/Isengard)), is het beter gewoon van de omgeving te genieten, want veel herken je toch niet. Tijdens een korte draf in het terugkeren, zakte Lien scheef van haar paard (met bijhorend gilletje uiteraard) dus een beetje spannend was het ook wel. :D
 
-Gegeten aan het hoofd van lake Wakatipu en dan terug over Queenstown naar Arrowtown, een oud Chinees goudzoekersstadje. Even langs de rivier op zoek geweest naar de Ford Bruinen, de plaats waar Arwen de achtervolgende Nazgûl kan wegspoelen, maar opnieuw niets herkend. Gelukkig was er heerlijk chocoladeijs te koop.
+Gegeten aan het hoofd van lake Wakatipu en dan terug over Queenstown naar Arrowtown, een oud Chinees goudzoekersstadje. Even langs de rivier op zoek geweest naar de Ford Bruinen, de plaats waar Arwen de achtervolgende Nazgûl kan wegspoelen, maar opnieuw niets herkend. Gelukkig was er heerlijk chocolade-ijs te koop.
 
 Langs een steile pas omhoog gereden, over de bergen tot in Wanaka, waar we arriveerden op een wat marginaal Holiday Park. 't Weer was nog steeds schitterend, dus ons aan Lake Wanaka gelegd.
 
@@ -24,7 +24,7 @@ Met een groep van 15 een begeleide [gletsjerwandeling](http://www.foxguides.co.n
 
 ## Vrijdag 21 december
 
-Grootste avontuur van de dag was om 1 uur 's nachts, toen we wakkerschrokken van een enorme klap op ons tentje. Alsof iemand over een touwtje was gestruikeld. Geen gevloek te horen, maar nogal akelige dierengeluiden en een lage schaduw langs de tent. Geen egel deze keer (die in Te Anau onze muffins zat op te eten in de voortent), maar een opossum of een vogel dachten we. Wat later zat 't beest in de boom boven ons te smakken, waarbij af en toe iets hards op de tent viel, terwijl ie ook aan het roepen was naar een soortgenoot.
+Grootste avontuur van de dag was om 1 uur 's nachts, toen we wakker schrokken van een enorme klap op ons tentje. Alsof iemand over een touwtje was gestruikeld. Geen gevloek te horen, maar nogal akelige dierengeluiden en een lage schaduw langs de tent. Geen egel deze keer (die in Te Anau onze muffins zat op te eten in de voortent), maar een opossum of een vogel dachten we. Wat later zat 't beest in de boom boven ons te smakken, waarbij af en toe iets hards op de tent viel, terwijl ie ook aan het roepen was naar een soortgenoot.
 
 Toen we 's ochtends naar buiten kropen zagen we dat 't een [kea](http://en.wikipedia.org/wiki/Kea) (een grote alpiene papegaai) was geweest, want hij had een grote scheur in onze voortent gemaakt! Vorte vogel, onze nieuwe tent!
 
@@ -34,13 +34,13 @@ Opgekraamd en tot in Hokitika gereden, de [greenstone](http://en.wikipedia.org/w
 
 Opnieuw een stuk opgewekter doorgereden, waarbij we stopten aan de [Punakaiki](http://en.wikipedia.org/wiki/Punakaiki) Pancakes Rocks, een geologisch raadsel. De rotsen vonden we niet zo boeiend ('t was ook laagtij, waardoor er geen blowholes waren), maar wel de hele bende Hector's Dolphins die constant aan de voet van de kliffen te zien waren! Super! Ook onze eerste sternen en[Weka](http://en.wikipedia.org/wiki/Weka) gezien.
 
-Via het spannend autorijden door Buller Gorge, de hele weg afgelegd tot in Motueka, waar we onze tent konden opzetten in de schitterende backpacker [The White Elephant](http://www.whiteelephant.co.nz/). Bij de Duitste uitbater George - die met z'n gestalte en grijs haar in 'n staartje wat leek op een slechterik uit 'n B-film - nog een [kayaktochtreservatie](http://www.seakayaknz.co.nz/) kunnen versieren voor de twee volgende dagen!
+Via het spannend autorijden door Buller Gorge, de hele weg afgelegd tot in Motueka, waar we onze tent konden opzetten in de schitterende backpacker [The White Elephant](http://www.whiteelephant.co.nz/). Bij de Duitse uitbater George - die met z'n gestalte en grijs haar in 'n staartje wat leek op een slechterik uit 'n B-film - nog een [kayaktochtreservatie](http://www.seakayaknz.co.nz/) kunnen versieren voor de twee volgende dagen!
 
 ## Zondag 23 december
 
 Veel kayakopties waren er niet meer, dus zaten we op een combo-trip waarbij we de eerste dag kayakten met een gids, en de tweede dag op ons eentje zaten. Met de watertaxi langs de kust omhoog en afgezet in Onetahuti. 't Was het beste weer sinds een maand en het azuurblauwe water en goudgeel strand zag er dan ook adembenemend uit. Als volleerde professionals de kayak in om een hele dag te peddelen langs de kust van [Abel Tasman National Park](http://en.wikipedia.org/wiki/Abel_Tasman_National_Park). Schit-te-rend gewoon! Heerlijk weer, wind in de rug, duikende jan-van-genten, pelsrobben die op een meter van onze kayak zwommen (leek wel alsof we in de zoo waren), waw! Enkel de groep (enkel Duitsers) was wat asociaal. Voor de laatste rechte lijn naar Torrent Bay, de kayaks naast elkaar gelegd, een zeil opgezet en het hele eind gezeild.
 
-De DOC-campsite was de meest moderne die we al gezien hadden, vlug onze tent opgezet en ons gaan leggen aan een nabijgelegen baaitje. Net een postkaartje! :) Terug op de camping aan de praat geraakt met de buren (twee vriendelijke Duitse meisjes en een jong Frans koppel) en de hele avond lang zitten kletsen over vanalles en nog wat: de max!
+De DOC-campsite was de meest moderne die we al gezien hadden, vlug onze tent opgezet en ons gaan leggen aan een nabijgelegen baaitje. Net een postkaartje! :) Terug op de camping aan de praat geraakt met de buren (twee vriendelijke Duitse meisjes en een jong Frans koppel) en de hele avond lang zitten kletsen over van alles en nog wat: de max!
 
 ## Maandag 24 december
 
@@ -58,15 +58,15 @@ Wat verder dan toch een backpacker gevonden, en aan de praat geraakt met een Dui
 
 ## Donderdag 27 december
 
-Teruggekeerd naar Motueka en verdergereden naar Picton, waar we - zoals het zou moeten - binnenstapten in het bezoekerscentrum om te informeren naar de [Queen Charlotte Track](http://en.wikipedia.org/wiki/Queen_Charlotte_Sound_%28New_Zealand%29) die je hier in de Malborough Sounds kan doen. Jammer genoeg hadden we een onvriendelijke vrouw in opleiding voor ons, die ons geen moer vooruithielp. Toch nog op een holletje het een en ander kunnen regelen, waardoor we de volgende dag konden vertrekken.
+Teruggekeerd naar Motueka en verder gereden naar Picton, waar we - zoals het zou moeten - binnenstapten in het bezoekerscentrum om te informeren naar de [Queen Charlotte Track](http://en.wikipedia.org/wiki/Queen_Charlotte_Sound_%28New_Zealand%29) die je hier in de Malborough Sounds kan doen. Jammer genoeg hadden we een onvriendelijke vrouw in opleiding voor ons, die ons geen moer vooruithielp. Toch nog op een holletje het een en ander kunnen regelen, waardoor we de volgende dag konden vertrekken.
 
 ## Vrijdag 28 december
 
-Nog een gasvuurtje gekocht, en met bewolkt weer de watertaxi tot in Ship's Cove genomen. Onze baggage (tent, slaapzakken,...) hoefden we deze keer gelukkig niet mee te zeulen, want die werd door de boot op de bestemming afgezet. Een lange tocht (zo'n 7-8 uur) op en neer door de met boomvarens begroeide hellingen van de sounds. Lien had gelukkig haar Teva's aangedaan, en bleef van de meeste voetpijnen gespaard. Tijdens de picknick liepen [weka's](http://en.wikipedia.org/wiki/Weka) rond, een soort grote rallen die niet kunnen vliegen. Ze kunnen echter wel springen en lopen! Zat ik daar gezellig met een sandwich in m'n hand, toen de grootste opsprong en een grote hap meehad! Even later besloop hij ons van achteren en stal de hele zak sandwiches en liep pijlsnel het bos in. Gelukkig was ik sneller... Die vogels hier! :)
+Nog een gasvuurtje gekocht, en met bewolkt weer de watertaxi tot in Ship's Cove genomen. Onze bagage (tent, slaapzakken,...) hoefden we deze keer gelukkig niet mee te zeulen, want die werd door de boot op de bestemming afgezet. Een lange tocht (zo'n 7-8 uur) op en neer door de met boomvarens begroeide hellingen van de sounds. Lien had gelukkig haar Teva's aangedaan, en bleef van de meeste voetpijnen gespaard. Tijdens de picknick liepen [weka's](http://en.wikipedia.org/wiki/Weka) rond, een soort grote rallen die niet kunnen vliegen. Ze kunnen echter wel springen en lopen! Zat ik daar gezellig met een sandwich in m'n hand, toen de grootste opsprong en een grote hap meehad! Even later besloop hij ons van achteren en stal de hele zak sandwiches en liep pijlsnel het bos in. Gelukkig was ik sneller... Die vogels hier! :)
 
 ## Zaterdag 29 december
 
-Warm zonnig weer en een leukere wandeling, in een omgeving die wat weghad van het zuiden van Frankrijk, behalve dan de blauwe zee aan beide kanten van de kam waar we overliepen.
+Warm zonnig weer en een leukere wandeling, in een omgeving die wat weg had van het zuiden van Frankrijk, behalve dan de blauwe zee aan beide kanten van de kam waar we overliepen.
 
 ## Zondag 30 december
 

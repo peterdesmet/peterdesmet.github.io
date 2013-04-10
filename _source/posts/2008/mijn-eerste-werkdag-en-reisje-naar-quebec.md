@@ -4,13 +4,13 @@ Date: 2008-11-28 12:58
 Author: Peter Desmet
 Tags: Montréal, Travel, Photos, Old blog
 
-Wees niet té enthousiast over bovenstaande titel, ik heb het over mijn eerste dag als serveuse in een fokkiehuisje, zoals er hier in elke straat 35 zijn. De prestigieuze milieustudiebureaus en laboratoria zijn nog in beraad over het al dan niet aanwerven van die Belgische blonde. Voor het geld moet je het niet doen, maar het is wel een leuke manier om onder de mensen te zijn, om wat routine in mijn dagen te krijgen en om het Québecois te praktiseren. Sjukkellutsin = chocolatine ofte ne choclakoeke, cuffih = café. Niet de meest ingewikkelde voorbeelden, maar afhankelijk van de platheidsgraad van het dialect, kan het soms moeilijk zijn. Vreemde gewoonte van die Amerikanen (of misschien eerder de grootstadmentaliteit?) om onderweg te ontbijten (een muffin gaat er bij mij 's ochtends echt niet in).
+Wees niet té enthousiast over bovenstaande titel, ik heb het over mijn eerste dag als serveuse in een fokkiehuisje, zoals er hier in elke straat 35 zijn. De prestigieuze milieustudiebureaus en laboratoria zijn nog in beraad over het al dan niet aanwerven van die Belgische blonde. Voor het geld moet je het niet doen, maar het is wel een leuke manier om onder de mensen te zijn, om wat routine in mijn dagen te krijgen en om het Québecois te praktiseren. Sjukkellutsin = chocolatine ofte ne choclakoeke, cuffih = café. Niet de meest ingewikkelde voorbeelden, maar afhankelijk van de platheidsgraad van het dialect, kan het soms moeilijk zijn. Vreemde gewoonte van die Amerikanen (of misschien eerder de grootstadsmentaliteit?) om onderweg te ontbijten (een muffin gaat er bij mij 's ochtends echt niet in).
 
 ![Montréal vanaf Mont Royal](https://lh4.googleusercontent.com/-JqaIPF2D84o/SS3ZIosk21I/AAAAAAAACNg/wy7i-22z9-Q/s800/DSC01308.JPG)
 
 *Zicht op Downtown Montréal vanaf de Mont Royal*
 
-Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je al kon lezen in het vorige verslagje. Veel sight-seeing, sfeer opsnuiven in Montréal, koffietjes, Peter aanmoedigen tijdens de hockey,... :
+Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je al kon lezen in het vorige verslagje. Veel sightseeing, sfeer opsnuiven in Montréal, koffietjes, Peter aanmoedigen tijdens de hockey,... :
 
 ![Hockey](https://lh4.googleusercontent.com/-ulrLmza3ArI/SS3YBU_JvDI/AAAAAAAACNM/_NXNkKv86ek/s800/DSC01192.JPG)
 
