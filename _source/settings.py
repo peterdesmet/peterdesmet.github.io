@@ -11,7 +11,7 @@ DEFAULT_LANG = "en"
 MARKUP = "md"
 
 # Reading settings
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = None
 DEFAULT_DATE_FORMAT  = "%B %d, %Y"
 SUMMARY_MAX_LENGTH = -1
@@ -51,6 +51,7 @@ THEME = "../../spoonbill" # Relative link to theme repository
 DISQUS_SITENAME = "peterdesmet"
 GOOGLE_ANALYTICS = "UA-2043127-1"
 GITHUB_URL = "https://github.com/peterdesmet"
+TWITTER_URL = "https://twitter.com/peterdesmet"
 
 # Blogroll
 LINKS = (
@@ -58,8 +59,11 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("Twitter", "https://www.twitter.com/peterdesmet"),
-    ("GitHub","https://github.com/peterdesmet"),
+    ("Twitter", "https://twitter.com/peterdesmet"),
     ("LinkedIn","http://www.linkedin.com/in/peterdesmet"),
+    ("GitHub","https://github.com/peterdesmet"),
+    ("Disqus","http://disqus.com/peterdesmet/"),
+    ("Speakerdeck","https://speakerdeck.com/peterdesmet"),
     ("Last.fm","http://www.last.fm/user/anderhalv"),
+    ("Goodfil.ms","https://goodfil.ms/anderhalv"),
 )
