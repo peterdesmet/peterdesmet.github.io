@@ -14,3 +14,6 @@
     Hosted on GitHub: https://github.com/peterdesmet/peterdesmet.github.com
     Styled with my own theme Spoonbill: https://github.com/peterdesmet/spoonbill
     Based on html5boilerplate: https://github.com/h5bp/html5-boilerplate
+    Body font is Open Sans: http://www.google.com/fonts/specimen/Open+Sans
+    Header font is Quicksand: http://www.google.com/fonts/specimen/Quicksand
+    Icon font is Font Awesome: https://github.com/FortAwesome/Font-Awesome
