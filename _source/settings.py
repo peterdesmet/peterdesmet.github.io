@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 SITENAME = "Peter Desmet"
-SITESUBTITLE = "" # Set
+SITESUBTITLE = "Blue is the new red"
 SITEURL = "http://peterdesmet.com"
 AUTHOR = "Peter Desmet"
 

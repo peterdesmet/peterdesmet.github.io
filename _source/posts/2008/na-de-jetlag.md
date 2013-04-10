@@ -2,7 +2,7 @@ Title: Na de jetlag
 Slug: na-de-jetlag
 Date: 2008-09-08 11:32
 Author: Peter Desmet
-Tags: Montréal, WordPress blog
+Tags: Montréal, Old blog
 
 We zijn hier nu al een dikke week, maar ik kan het nog altijd niet geloven: we wonen in Montréal, Canada!
 

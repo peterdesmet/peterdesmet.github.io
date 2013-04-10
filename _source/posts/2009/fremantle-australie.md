@@ -2,7 +2,7 @@ Title: Fremantle, Australië
 Slug: fremantle-australie
 Date: 2009-01-20 12:24
 Author: Peter Desmet
-Tags: Travel, Photos, WordPress blog
+Tags: Travel, Photos, Old blog
 
 Ok, we zijn we al 3 maanden verder, maar een paar foto's van Australië kon ik jullie toch niet onthouden. :-)
 
