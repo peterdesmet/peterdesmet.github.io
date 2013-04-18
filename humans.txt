@@ -1,19 +1,19 @@
 # humanstxt.org/
 
-# TEAM
+## TEAM
 
-    Peter Desmet @peterdesmet
+* Peter Desmet: <https://twitter.com/peterdesmet>
 
-# THANKS
+## THANKS
 
-    Open source software
+* Open source software
 
-# TECHNOLOGY COLOPHON
+## TECHNOLOGY COLOPHON
 
-    Powered by Pelican: https://github.com/getpelican/pelican
-    Hosted on GitHub: https://github.com/peterdesmet/peterdesmet.github.com
-    Styled with my own theme Spoonbill: https://github.com/peterdesmet/spoonbill
-    Based on html5boilerplate: https://github.com/h5bp/html5-boilerplate
-    Body font is Open Sans: http://www.google.com/fonts/specimen/Open+Sans
-    Header font is Quicksand: http://www.google.com/fonts/specimen/Quicksand
-    Icon font is Font Awesome: https://github.com/FortAwesome/Font-Awesome
+* Powered by Pelican: <http://docs.getpelican.com/>
+* Hosted on GitHub: <https://github.com/peterdesmet/peterdesmet.github.com>
+* Styled with my own theme Spoonbill: <https://github.com/peterdesmet/spoonbill>
+* Based on html5boilerplate: <http://html5boilerplate.com/>
+* Body font is Open Sans: <http://www.google.com/fonts/specimen/Open+Sans>
+* Header font is Quicksand: <http://www.google.com/fonts/specimen/Quicksand>
+* Icon font is Font Awesome: <http://fortawesome.github.io/Font-Awesome/>
