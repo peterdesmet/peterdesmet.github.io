@@ -4,6 +4,7 @@
 SITENAME = "Peter Desmet"
 SITESUBTITLE = "Blue is the new red"
 SITEURL = "http://peterdesmet.com"
+SITEDESCRIPTION = "My personal blog on open data, design, travel, and other stuff."
 AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
