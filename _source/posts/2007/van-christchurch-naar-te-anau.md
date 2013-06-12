@@ -1,5 +1,5 @@
 Title: Van Christchurch naar Te Anau
-Slug: van-christchurch-naar-te-anua
+Slug: van-christchurch-naar-te-anau
 Date: 2007-12-11 04:52
 Author: Peter Desmet
 Tags: Travel, Old blog
