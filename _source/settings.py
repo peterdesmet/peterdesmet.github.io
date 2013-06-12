@@ -9,7 +9,7 @@ AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
 DEFAULT_LANG = "en"
-MARKUP = "md"
+MARKUP = (("md"),)
 
 # Reading settings
 DISPLAY_PAGES_ON_MENU = True
