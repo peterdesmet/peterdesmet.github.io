@@ -4,11 +4,12 @@
 SITENAME = "Peter Desmet"
 SITESUBTITLE = "Blue is the new red"
 SITEURL = "http://peterdesmet.com"
+SITEDESCRIPTION = "My personal blog on open data, design, travel, and other stuff."
 AUTHOR = "Peter Desmet"
 
 TIMEZONE = "Europe/Paris"
 DEFAULT_LANG = "en"
-MARKUP = "md"
+MARKUP = (("md"),)
 
 # Reading settings
 DISPLAY_PAGES_ON_MENU = True
