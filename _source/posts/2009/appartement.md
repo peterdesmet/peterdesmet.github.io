@@ -6,7 +6,7 @@ Tags: Montréal, Photos, Old blog
 
 Zoals de meeste onder jullie al weten, wonen we sinds 19 maart in ons nieuwe appartement in [Rue Fullum](http://maps.google.com/?ie=UTF8&t=h&ll=45.533202,-73.560977&spn=0.003138,0.004608&z=18)!
 
-<iframe width="612" height="459" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=45.533274,-73.56131&amp;spn=0.00159,0.003026&amp;z=18&amp;output=embed"></iframe>
+<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=45.533274,-73.56131&amp;spn=0.00159,0.003026&amp;z=18&amp;output=embed"></iframe>
 
 Ons vorige appartement huurden we van de eigenares die op reis was en hadden we maar voor een beperkt aantal maanden. Dus zijn we in februari beginnen rond zoeken naar iets anders. Na vele kilometers (en 11 appartementen) zagen we 't appartement in Rue Fullum en waren we meteen verkocht. Uiteraard waren er nog andere kandidaten en we vreesden dat het noppes zou worden. Maar nog dezelfde avond liet de vrouw die de rondleiding gaf ons weten dat de eigenaar voor ons had gekozen. Reden: hij gelooft nogal in astrologie en we zijn beiden in maart geboren, wat blijkbaar een gunstig teken is. :-D
 
