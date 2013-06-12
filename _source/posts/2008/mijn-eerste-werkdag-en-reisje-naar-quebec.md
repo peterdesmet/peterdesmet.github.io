@@ -18,7 +18,7 @@ Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je
 
 Terwijl Peter eventjes heen en weer vloog naar [Perth](|filename|/posts/2009/fremantle-australie.md), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
 
-![Liesbet & ik](https://lh3.googleusercontent.com/-2lPJaUQjc5c/SS3Z5HcVvUI/AAAAAAAACNk/EE7s54xFu1E/s800/DSC01326.JPG)
+![Liesbet & ik](http://lh4.ggpht.com/_cvGWRFf-ypY/SS3YonM0-FI/AAAAAAAACNU/KPPbpVDFj38/s800/DSC01291.JPG)
 
 Daar kreeg ik het voor het eerst écht koud (hoewel ik ondertussen al ondervonden heb dat het erger kan), logeerden we in een jeugdherberg waar de bazin Vlaams sprak (ze was lange tijd samen geweest met een Gentenaar, kleine wereld), hadden we onmiddellijk een boete aan ons been door een half uurtje verkeerd geparkeerd te staan, genoten we van een heel charmant historisch centrum, waren we onder de indruk van de schaats- en ijshockey-capaciteiten van de Québecse jeugd, gingen we op uitstap naar Île d'Orléans (schone wandelingen daar, é Liesbet? :-) ) en besloten we na een paar dagen de stad achter ons te laten en het [Parc de la Jacques Quartier](http://fr.wikipedia.org/wiki/Parc_national_de_la_Jacques-Cartier) te bezoeken.
 
