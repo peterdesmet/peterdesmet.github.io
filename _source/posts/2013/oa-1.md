@@ -3,7 +3,7 @@ Slug: oa-1
 Date: 2013-08-07 15:30
 Author: Peter Desmet
 Tags: Open science course, Open access
-Summary: 
+Summary: A short introduction to open access
 
 *Note: This post is the result of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following. In addition to the sources mentioned in text, I have also used a the blog post from fellow participant [Quentin Reul](http://linked-data.blogspot.com/2013/08/introduction-to-open-access.html).*
 
