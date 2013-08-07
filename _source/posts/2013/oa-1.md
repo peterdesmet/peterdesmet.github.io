@@ -1,6 +1,6 @@
 Title: What is open access?
 Slug: oa-1
-Date: 2013-08-07 16:00
+Date: 2013-08-07 15:30
 Author: Peter Desmet
 Tags: Open science course, Open access
 Summary: 
