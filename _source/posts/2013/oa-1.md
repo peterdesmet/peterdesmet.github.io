@@ -27,7 +27,9 @@ And publicly available scientific works **increase the efficiency** of research,
 * Increasing transparency (which allows reproducibility and plagiarism detection)
 * Allowing [alt metrics](http://altmetrics.org/manifesto/) systems to be build around scientific works
 
-The importance of open access is [illustrated in this video](http://www.youtube.com/watch?feature=player_embedded&v=L5rVH1KGBCY) by [Nick Shockey](https://twitter.com/R2RC), [Jonathan Eisen](https://twitter.com/phylogenomics) and [Jorge Cham](https://twitter.com/phdcomics) (of the excellent [PhD Comics](http://www.phdcomics.com/)).
+The importance of open access is [illustrated in this video](http://www.youtube.com/watch?v=L5rVH1KGBCY) by [Nick Shockey](https://twitter.com/R2RC), [Jonathan Eisen](https://twitter.com/phylogenomics) and [Jorge Cham](https://twitter.com/phdcomics) (of the excellent [PhD Comics](http://www.phdcomics.com/)).
+
+<iframe width="768" height="576" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
 
 ## Licenses
 
