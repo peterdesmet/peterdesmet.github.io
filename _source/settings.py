@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 SITENAME = "Peter Desmet"
-SITESUBTITLE = "Blue is the new red"
+SITESUBTITLE = "Reporting on open science"
 SITEURL = "http://peterdesmet.com"
 SITEDESCRIPTION = "My personal blog on open data, design, travel, and other stuff."
 AUTHOR = "Peter Desmet"
