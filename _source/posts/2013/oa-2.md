@@ -1,6 +1,6 @@
 Title: How open is my paper?
 Slug: oa-2
-Date: 2013-08-08 10:00
+Date: 2013-08-08 11:15
 Author: Peter Desmet
 Tags: Open science course, Open access, PhytoKeys
 Summary: And how well is the journal communicating this? 
@@ -29,7 +29,7 @@ Reusing and remixing galore. **5/5**
 
 > Copyright on any article is retained by the author(s). [...] ([source](http://www.pensoft.net/journals/phytokeys/about/Open%20Access%20Policy#Copyright%20Notice))
 
-The transfer of copyrights between the authors and publisher (Pensoft) is regulated through the CC-BY license (which applies to anyone), but some of these rights are explicitly spelled out in the policy. **5/5**
+And the transfer of copyrights between the authors and publisher is regulated through the CC-BY license (which applies to anyone), but some of these rights are explicitly spelled out in the policy. Nice! **5/5**
 
 ## Author posting rights
 
@@ -39,7 +39,7 @@ This encouragement is not mentioned in the editorial policies, but on the journa
 
 > The work described has not been published before (except in the form of an abstract or as part of a published lecture, review or thesis) [...] ([source](http://www.pensoft.net/journals/phytokeys/about/Open%20Access%20Policy#Copyright%20Notice))
 
-... and a [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/search.php) search indicates PhytoKeys as a blue journal, with a "pre-print archiving status unclear", leads me to conclude that this is not allowed. **4/5**
+... and a [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/search.php) search indicating PhytoKeys as a blue journal, with a "pre-print archiving status unclear", leads me to conclude that this is not allowed. **4/5**
 
 ## Automatic posting
 
@@ -63,4 +63,6 @@ The data, which are hosted on the [Canadensys Repository](http://dx.doi.org/10.5
 
 ## Conclusion
 
-**28/30**, which is awesome! Congrats to Pensoft on providing [clear policies for PhytoKeys](http://www.pensoft.net/journals/phytokeys/about/Open%20Access%20Policy), although the author posting writes and automatic posting could be clarified.
+**28/30**, which is awesome!
+
+Congrats to the folks at [Pensoft](http://www.pensoft.net/) on providing [clear policies for PhytoKeys](http://www.pensoft.net/journals/phytokeys/about/Open%20Access%20Policy), although the author posting rights and automatic posting could be clarified. Please let me know if I misinterpreted something.
