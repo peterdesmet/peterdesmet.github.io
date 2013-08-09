@@ -5,7 +5,7 @@ Author: Peter Desmet
 Tags: Open science course, Open access
 Summary: A short introduction to open access
 
-*Note: This post is written as a response to [this task](https://p2pu.org/en/courses/5/content/365/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following. In addition to the sources mentioned in text, I have also used a blog post from fellow participant [Quentin Reul](http://linked-data.blogspot.com/2013/08/introduction-to-open-access.html).*
+*Note: This post is a response to [this task](https://p2pu.org/en/courses/5/content/365/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following. In addition to the sources mentioned in text, I have also used a blog post from fellow participant [Quentin Reul](http://linked-data.blogspot.com/2013/08/introduction-to-open-access.html).*
 
 Open access is **free**, **immediate**, and **online** availability of peer-reviewed research articles and other scientific works. It has several advantages over traditional publication practices and will hopefully replace those in the long term.
 

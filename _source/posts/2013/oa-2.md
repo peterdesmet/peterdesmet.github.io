@@ -3,9 +3,9 @@ Slug: oa-2
 Date: 2013-08-08 11:15
 Author: Peter Desmet
 Tags: Open science course, Open access, PhytoKeys
-Summary: And how well is the journal communicating this? 
+Summary: And how well is the journal communicating this?
 
-*Note: This post is written as a response to [this task](https://p2pu.org/en/courses/5/content/366/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following.*
+*Note: This post is a response to [this task](https://p2pu.org/en/courses/5/content/366/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following.*
 
 In my [previous post](|filename|oa-1.md), I explained what open access is. But we can go beyond the simple question of "Is it open access?" and evaluate how open a resource actually is.
 
