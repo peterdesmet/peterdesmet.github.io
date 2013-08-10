@@ -15,7 +15,7 @@ MARKUP = (("md"),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = None
 DEFAULT_DATE_FORMAT  = "%B %d, %Y"
-SUMMARY_MAX_LENGTH = -1
+SUMMARY_MAX_LENGTH = 0
 
 # Directory settings
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
