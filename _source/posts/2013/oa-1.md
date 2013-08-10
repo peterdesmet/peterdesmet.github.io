@@ -3,9 +3,9 @@ Slug: oa-1
 Date: 2013-08-07 15:35
 Author: Peter Desmet
 Tags: Open science course, Open access
-Summary: A short introduction to open access
+Summary: A short introduction to open access.
 
-*Note: This post is written as a response to [this task](https://p2pu.org/en/courses/5/content/365/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following. In addition to the sources mentioned in text, I have also used a blog post from fellow participant [Quentin Reul](http://linked-data.blogspot.com/2013/08/introduction-to-open-access.html).*
+*Note: This post is a response to [this task](https://p2pu.org/en/courses/5/content/365/) of an [online course on open science](https://p2pu.org/en/courses/5/open-science-an-introduction/) I am following. In addition to the sources mentioned in text, I have also used a blog post from fellow participant [Quentin Reul](http://linked-data.blogspot.com/2013/08/introduction-to-open-access.html).*
 
 Open access is **free**, **immediate**, and **online** availability of peer-reviewed research articles and other scientific works. It has several advantages over traditional publication practices and will hopefully replace those in the long term.
 
@@ -29,7 +29,7 @@ And publicly available scientific works **increase the efficiency** of research,
 
 The importance of open access is [illustrated in this video](http://www.youtube.com/watch?v=L5rVH1KGBCY) by [Nick Shockey](https://twitter.com/R2RC), [Jonathan Eisen](https://twitter.com/phylogenomics) and [Jorge Cham](https://twitter.com/phdcomics) (of the excellent [PhD Comics](http://www.phdcomics.com/)).
 
-<iframe width="768" height="576" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
 
 ## Licenses
 

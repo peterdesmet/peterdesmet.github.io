@@ -5,6 +5,7 @@ import sys
 sys.path.append('.')
 from settings import *
 
+SITEURL = "http://localhost/pelican/blog"
 SITESUBTITLE = "Lucky rocketship underpants"
 
 # Reading settings
