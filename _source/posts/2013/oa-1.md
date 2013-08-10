@@ -29,7 +29,7 @@ And publicly available scientific works **increase the efficiency** of research,
 
 The importance of open access is [illustrated in this video](http://www.youtube.com/watch?v=L5rVH1KGBCY) by [Nick Shockey](https://twitter.com/R2RC), [Jonathan Eisen](https://twitter.com/phylogenomics) and [Jorge Cham](https://twitter.com/phdcomics) (of the excellent [PhD Comics](http://www.phdcomics.com/)).
 
-<iframe width="768" height="576" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
 
 ## Licenses
 
