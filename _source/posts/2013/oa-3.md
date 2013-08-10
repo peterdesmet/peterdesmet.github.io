@@ -1,6 +1,6 @@
 Title: Finding open access research articles
 Slug: oa-3
-Date: 2013-08-10 21:50
+Date: 2013-08-10 22:00
 Author: Peter Desmet
 Tags: Open science course, Open access
 Summary: Not all search tools are equal. Also, the advantage of standard licenses.
