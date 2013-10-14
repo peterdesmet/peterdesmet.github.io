@@ -25,7 +25,7 @@ And publicly available scientific works **increase the efficiency** of research,
 * Publishing research results faster (including [negative results](http://blog.f1000research.com/2013/05/15/no-article-fee-for-negative-results-until-end-of-august/))
 * Increasing engagement and collaboration
 * Increasing transparency (which allows reproducibility and plagiarism detection)
-* Allowing [alt metrics](http://altmetrics.org/manifesto/) systems to be build around scientific works
+* Allowing [alt metrics](http://altmetrics.org/manifesto/) systems to be built around scientific works
 
 The importance of open access is [illustrated in this video](http://www.youtube.com/watch?v=L5rVH1KGBCY) by [Nick Shockey](https://twitter.com/R2RC), [Jonathan Eisen](https://twitter.com/phylogenomics) and [Jorge Cham](https://twitter.com/phdcomics) (of the excellent [PhD Comics](http://www.phdcomics.com/)).
 
