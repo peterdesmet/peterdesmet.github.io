@@ -10,6 +10,8 @@ Last week, the Global Biodiversity Information Facility (GBIF) launched their [n
 
 That doesn't mean however that it is actually easy to legally use the data, [something GBIF is well aware of](filename|gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
 
+![Unavailable bullfrog records](|filename|/images/2013-bullfrog-map-unavailable.png)
+
 ## 65 data licenses
 
 By downloading data from GBIF, I agree with the [data use agreement](http://www.gbif.org/disclaimer/datause), which states among other things: 
