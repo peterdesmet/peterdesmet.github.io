@@ -1,9 +1,9 @@
-Title: I cannot show you this aggregated bullfrog occurrence map for legal reasons
+Title: Showing you this map of aggregated bullfrog occurrences would be illegal
 Slug: illegal-bullfrogs
 Date: 2013-10-15 10:00
 Author: Peter Desmet
 Tags: Open data, GBIF
-Summary: The problem with non-standard data licenses for aggregated data
+Summary: Non-standard data licenses are a burden for users of aggregated GBIF data.
 Status: draft
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
@@ -90,3 +90,6 @@ The included data publishers are now:
 I cannot show you [a map](http://www.gbif.org/species/2427091)[^3] including the other 72% of the records, either because the license is incompatible with the other data (such as share alike), but mainly because I first need to contact 52 institutions to either get some clarification of their rights or to receive a written consent that I can actually repackage this data as a map. Frankly, that seems quite a hassle for a simple map. And even if I did this, you would have to do the same if you want to use, repackage or redistribute that map as well.
 
 [^3]: So why can GBIF show you the occurrence map that I can't? I believe because of this clause in [their data sharing agreement](http://www.gbif.org/species/2427091): *GBIF Secretariat may cache a copy and serve full or partial data further to other users together with the terms and conditions for use set by the Data Publisher.*, though in some cases I believe they are on shaky legal ground.
+
+## Conclusion
+
