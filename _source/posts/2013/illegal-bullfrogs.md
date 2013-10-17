@@ -8,7 +8,7 @@ Status: draft
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
 
-That doesn't mean however that it is actually easy to legally use the data, [something GBIF is well aware of](filename|gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
+That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of](filename|gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
 
 ![Unavailable bullfrog records](|filename|/images/2013-bullfrog-map-unavailable.png)
 
@@ -20,9 +20,9 @@ By downloading the data from GBIF, I agree with the [data use agreement](http://
 
 Indeed, GBIF includes metadata for each dataset included in my download, and a file with all the rights as supplied by the data publishers (`rights.txt`). Since my download aggregates records from 65 data publishers, I have to read and understand 65 license statements before I can use the data[^1].
 
-[^1]: Sadly, these licenses are not attached to the data itself (maybe to prevent file size bloat), so I had to manually match (with some help of [Open Refine](http://openrefine.org/)) each `dataset_id` with the metadata in order to have the license per record.
+[^1]: Sadly, these licenses are not attached to the data itself (maybe to prevent file size bloat), so I had to manually match (with some help of [Open Refine](http://openrefine.org/)) the metadata with the data using `dataset_id` in order to have the license per record.
 
-## Standard data licenses
+### Standard data licenses
 
 Four datasets are provided with a standard data license (e.g. [Creative Commons](http://creativecommons.org/licenses/)) and thus easy to understand:
 
@@ -33,21 +33,22 @@ License | # of datasets | # of records | % of records
 [CC-BY-NC-SA](http://creativecommons.org/licenses/by-sa/3.0/) | [1](http://www.gbif.org/dataset/94dce9c1-e2f0-45cb-a77b-8e5caa871a41) | 1 | 0%
 Non-standard license | 61 | 12.749 | 96%
 
-## Interpreting the other licenses
+### Interpreting the other licenses
 
 I am entering unknown legal territory by interpreting the non-standard licenses, but since I would like to create an occurrence map with more than 4% of the data, I'll try anyway.
 
 24 datasets don't supply rights, so I could either interpret this as: 1) I'm free to use these data under the general GBIF data use agreement, or 2) I don't want to risk violating any applicable copyright or database rights, so I won't use these data.
 
-Some statements I interpreted[^2] as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset: looking at you, [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a), 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed. The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
+I interpreted[^2] other statements as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset: I'm looking at you, [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a), 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed.
 
 [^2]: I would like to show you how I interpreted the licenses by posting the data on GitHub, but that would violate some licenses.
 
+The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
 > [Institution A] data records may be used by individual researchers or research groups, but **they may not be repackaged, resold, or redistributed in any form without the express written consent** of a curatorial staff member of [Institution A]. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and [Institution A] notified. [Institution A] and its staff are not responsible for damages, injury or loss due to the use of these data.
 
 … or something along the same lines, which I interpreted as *Some use with attribution, no redistribution*.
 
-## Overview of the licenses used
+### Overview of the licenses used
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
 --- | --- | --- | --- | --- | ---
@@ -73,7 +74,7 @@ This map shows all **544 records dedicated to the public domain (4%)**. To compl
 
 * [Herpetology Collection - Royal Ontario Museum](http://www.gbif.org/dataset/8c201186-d997-4b65-aac9-2fcf442a93f6)
 * [Colección de anfibios - Museo de Herpetología de la Universidad de Antioquia](http://www.gbif.org/dataset/cc28549b-467f-448c-875e-881ca507aba8)
-* [Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Anfibios](http://www.gbif.org/dataset/635e4476-f762-11e1-a439-00145eb45e9a), though it would be useful to use a standard license instead of `Público`.
+* [Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Anfibios](http://www.gbif.org/dataset/635e4476-f762-11e1-a439-00145eb45e9a), though it would be useful if a standard license was used instead of `Público`.
 
 ### Public and non-commercial use records
 
