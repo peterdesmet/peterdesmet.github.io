@@ -53,6 +53,7 @@ DISQUS_SITENAME = "peterdesmet"
 GOOGLE_ANALYTICS = "UA-2043127-1"
 GOOGLE_WEBMASTER = "QsSLW3AksA4dYqzZOsQLzsIcy5qYYH09wl9CzHtADFs"
 GITHUB_URL = "https://github.com/peterdesmet"
+TWITTER_NAME = "peterdesmet"
 TWITTER_URL = "https://twitter.com/peterdesmet"
 
 # Blogroll
