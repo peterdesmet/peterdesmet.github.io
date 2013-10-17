@@ -39,7 +39,7 @@ I am entering unknown legal territory by interpreting the non-standard licenses,
 
 24 datasets don't supply rights, so I could either interpret this as: 1) I'm free to use these data under the general GBIF data use agreement, or 2) I don't want to risk violating any applicable copyright or database rights, so I won't use these data.
 
-Some statements I interpreted[^2] as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset, 1 record: seriously [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a)?). For 3 datasets (373 records) it was unclear to me what the license allowed. The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
+Some statements I interpreted[^2] as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset: looking at you, [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a), 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed. The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
 
 [^2]: I would like to show you how I interpreted the licenses by posting the data on GitHub, but that would violate some licenses.
 
@@ -69,7 +69,7 @@ These results are quite bleak: only 4 data publishers (4% of the data) publish t
 
 ![Public bullfrog records](|filename|/images/2013-bullfrog-map-public.png)
 
-This map shows all 544 records dedicated to the public domain (4%). To comply with the GBIF data use agreement, I must publicly acknowledge the data publishers whose biodiversity data I have used here. I am happy to highlight such open datasets:
+This map shows all **544 records dedicated to the public domain (4%)**. To comply with the GBIF data use agreement, I must publicly acknowledge the data publishers whose biodiversity data I have used here. I am happy to highlight such open datasets:
 
 * [Herpetology Collection - Royal Ontario Museum](http://www.gbif.org/dataset/8c201186-d997-4b65-aac9-2fcf442a93f6)
 * [Colección de anfibios - Museo de Herpetología de la Universidad de Antioquia](http://www.gbif.org/dataset/cc28549b-467f-448c-875e-881ca507aba8)
@@ -77,7 +77,7 @@ This map shows all 544 records dedicated to the public domain (4%). To comply wi
 
 ### Public and non-commercial use records
 
-Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to 3.756 records (28%). Beware if you want to repost this image.
+Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to **3.756 records (28%)**. Beware if you want to repost this image.
 
 ![Public and non-commercial bullfrog records](|filename|/images/2013-bullfrog-map-non-commercial.png)
 
@@ -87,9 +87,9 @@ The included data publishers are now:
 
 ### All records
 
-I cannot show you [a map](http://www.gbif.org/species/2427091)[^3] including the other 72% of the records, either because the license is incompatible with the other data (such as share alike), but mainly because I first need to contact 52 institutions to either get some clarification of their rights or to receive a written consent that I can actually repackage this data as a map. Frankly, that seems quite a hassle for a simple map. And even if I did this, you would have to do the same if you want to use, repackage or redistribute that map as well.
+I cannot show you [a map](http://www.gbif.org/species/2427091)[^3] including the other 72% of the records, either because the license is incompatible with the other data (such as share alike), but mainly because I first need to contact 52 institutions to either get some clarification of their license or to receive a written consent that I can actually repackage the data as a map. Frankly, that seems quite a hassle for a simple map. And even if I did this, you would have to do the same if you want to use, repackage or redistribute that map as well.
 
-[^3]: So why can GBIF show you the occurrence map that I can't? I believe because of this clause in [their data sharing agreement](http://www.gbif.org/species/2427091): *GBIF Secretariat may cache a copy and serve full or partial data further to other users together with the terms and conditions for use set by the Data Publisher.*, though in some cases I believe they are on shaky legal ground.
+[^3]: So why can GBIF show you the occurrence map that I can't? I believe because of this clause in [their data sharing agreement](http://www.gbif.org/species/2427091): *GBIF Secretariat may cache a copy and serve full or partial data further to other users together with the terms and conditions for use set by the Data Publisher.*
 
 ## Conclusion
 
