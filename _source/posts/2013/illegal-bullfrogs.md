@@ -7,7 +7,7 @@ Summary: Non-standard data licenses are a burden for users of aggregated GBIF da
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
 
-That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of](filename|gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
+That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of](|filename|gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
 
 ![Unavailable bullfrog records](|filename|/images/2013-bullfrog-map-unavailable.png)
 
@@ -62,7 +62,7 @@ All rights reserved | 1 | 1 | 0% | no | no
 Unclear | 3 | 373 | 3% | ? | ?
 Not supplied | 24 | 2268 | 17%  | ? | ?
 
-These results are quite bleak: only 4 data publishers (4% of the data) publish their bullfrog occurrences as open data and only 8 (28% of the data) publish their data compatible with practices or expectations in GBIF today. This doesn't even address if the chosen license makes actual sense for data ([see my previous blog post](filename|gbif-data-license.md)).
+These results are quite bleak: only 4 data publishers (4% of the data) publish their bullfrog occurrences as open data and only 8 (28% of the data) publish their data compatible with practices or expectations in GBIF today. This doesn't even address if the chosen license makes actual sense for data ([see my previous blog post](|filename|gbif-data-license.md)).
 
 ## What maps can I show you?
 
@@ -94,7 +94,7 @@ I cannot show you [a map](http://www.gbif.org/species/2427091)[^3] including the
 
 ## Conclusion
 
-I just used a small sample of aggregated data[^4], but I hope it demonstrates the unnecessary legal burden that is put on users of the data (note that I haven't even started assessing the data quality or fit for my use). This will either result in less use of the data, or - and I think this is what happens most often - users ignoring the fine print. In both cases, it shows what [I](filename|gbif-data-license.md) and [others](http://doi.org/10.6084/m9.figshare.799766) have written before:
+I just used a small sample of aggregated data[^4], but I hope it demonstrates the unnecessary legal burden that is put on users of the data (note that I haven't even started assessing the data quality or fit for my use). This will either result in less use of the data, or - and I think this is what happens most often - users ignoring the fine print. In both cases, it shows what [I](|filename|gbif-data-license.md) and [others](http://doi.org/10.6084/m9.figshare.799766) have written before:
 
 > A legal license is not the correct tool to enforce or communicate expected data use.
 
