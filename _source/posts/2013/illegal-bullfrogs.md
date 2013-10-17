@@ -1,10 +1,9 @@
 Title: Showing you this map of aggregated bullfrog occurrences would be illegal
 Slug: illegal-bullfrogs
-Date: 2013-10-15 10:00
+Date: 2013-10-17 12:20
 Author: Peter Desmet
 Tags: Open data, GBIF
 Summary: Non-standard data licenses are a burden for users of aggregated GBIF data.
-Status: draft
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
 
@@ -44,6 +43,7 @@ I interpreted[^2] other statements as *Non-commercial use* (1 dataset, 22 record
 [^2]: I would like to show you how I interpreted the licenses by posting the data on GitHub, but that would violate some licenses.
 
 The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
+
 > [Institution A] data records may be used by individual researchers or research groups, but **they may not be repackaged, resold, or redistributed in any form without the express written consent** of a curatorial staff member of [Institution A]. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and [Institution A] notified. [Institution A] and its staff are not responsible for damages, injury or loss due to the use of these data.
 
 … or something along the same lines, which I interpreted as *Some use with attribution, no redistribution*.
@@ -94,3 +94,10 @@ I cannot show you [a map](http://www.gbif.org/species/2427091)[^3] including the
 
 ## Conclusion
 
+I just used a small sample of aggregated data[^4], but I hope it demonstrates the unnecessary legal burden that is put on users of the data (note that I haven't even started assessing the data quality or fit for my use). This will either result in less use of the data, or - and I think this is what happens most often - users ignoring the fine print. In both cases, it shows what [I](filename|gbif-data-license.md) and [others](http://doi.org/10.6084/m9.figshare.799766) have written before:
+
+> A legal license is not the correct tool to enforce or communicate expected data use.
+
+Biodiversity data should be dedicated to the [public domain](http://creativecommons.org/publicdomain/zero/1.0/). Its ethical use should be communicated via community norms.
+
+[^4]: I would love to redo this exercise for all 415+ occurrences, but that is beyond the scope of what I can do alone, in my free time. Collaborative GitHub project anyone?
