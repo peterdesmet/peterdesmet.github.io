@@ -6,10 +6,12 @@ Tags: Open data, GBIF
 Summary: ...
 Status: draft
 
-## Introduction
+In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues in using biodiversity data by downloading 13,297 georeferenced American bullfrog records from GBIF. But how much of this applies to all 415+ million occurrence records in GBIF? Fellow Datafable[^1] member Bart Aelterman and I set about to figure out just that.
 
-* Extension of previous post
-* Datafable
+[^1]: Datafable ...
+
+All code and data ...
+
 * GitHub
 * Guidelines
 
