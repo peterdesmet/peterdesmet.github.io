@@ -11,7 +11,7 @@ Status: draft
 <script src="http://datafable.github.io/gbif-data-licenses/charts/js/charts.js"></script>
 <link href="http://datafable.github.io/gbif-data-licenses/charts/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
-In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues in using biodiversity data by downloading 13,297 georeferenced American bullfrog records from GBIF. But how much of this applies to all 415+ million occurrence records in GBIF? Fellow Datafable[^1] member Bart Aelterman and I set about to figure out just that.
+In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making even basic data use legally unnecessarily difficult. But how much of this applies to all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How much of it is open data?  Fellow Datafable[^1] member Bart Aelterman and I tried to figure out.
 
 [^1]: Datafable ...
 
