@@ -40,9 +40,9 @@ All code and data ...
 
 ## Universal use
 
-<svg id="chart3" class="chart"></svg>
+<div><svg id="chart3" class="chart"></svg></div>
 
-<svg id="chart4" class="chart"></svg>
+<div><svg id="chart4" class="chart"></svg></div>
 
 * Other interpretation of `not supplied`
 * Bar chart of parameters for datasets, occurrences
