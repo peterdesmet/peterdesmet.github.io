@@ -10,7 +10,6 @@ Status: draft
 <script src="http://datafable.github.io/gbif-data-licenses/charts/js/nv.d3.min.js"></script>
 <script src="http://datafable.github.io/gbif-data-licenses/charts/js/charts.js"></script>
 <link href="http://datafable.github.io/gbif-data-licenses/charts/css/nv.d3.min.css" rel="stylesheet" type="text/css">
-<link href="http://datafable.github.io/gbif-data-licenses/charts/css/charts.css" rel="stylesheet" type="text/css">
 
 In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues in using biodiversity data by downloading 13,297 georeferenced American bullfrog records from GBIF. But how much of this applies to all 415+ million occurrence records in GBIF? Fellow Datafable[^1] member Bart Aelterman and I set about to figure out just that.
 
@@ -23,9 +22,9 @@ All code and data ...
 
 ## Standard licenses
 
-<div class="chart two-charts clearfix">
-    <svg id="chart1"></svg>
-    <svg id="chart2"></svg>
+<div class="clearfix">
+    <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
+    <svg id="chart2" class="chart" style="float:left; width: 50%;"></svg>
 </div>
 
 * % licenses, datasets, occurrences with standard license
@@ -41,13 +40,9 @@ All code and data ...
 
 ## Universal use
 
-<div class="chart">
-    <svg id="chart3"></svg>
-</div>
+<svg id="chart3" class="chart"></svg>
 
-<div class="chart">
-    <svg id="chart4"></svg>
-</div>
+<svg id="chart4" class="chart"></svg>
 
 * Other interpretation of `not supplied`
 * Bar chart of parameters for datasets, occurrences
