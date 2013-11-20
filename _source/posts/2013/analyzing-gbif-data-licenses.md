@@ -2,7 +2,7 @@ Title: Analyzing the licenses of all 11.000+ GBIF datasets
 Slug: analyzing-gbif-data-licenses
 Date: 2013-11-20 11:00
 Author: Peter Desmet
-Tags: Open data, GBIF
+Tags: Open data, Open research, GBIF, Datafable
 Summary: ...
 Status: draft
 
