@@ -29,14 +29,25 @@ In total we analyzed 11.972 datasets[^3] and 415.412.644 occurrences. The first 
 
 ## Standard licenses
 
+Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](|filename|gbif-data-license.md), a [Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/) license is at least standardized, legally valid, and easy to understand. Only 1% of the datasets (2% of the occurrences) however are published with a standard license.
+
 <div class="clearfix">
     <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
     <svg id="chart2" class="chart" style="float:left; width: 50%;"></svg>
 </div>
 
-* % licenses, datasets, occurrences with standard license
-* Breakdown of licenses (table)
-* Breakdown public domain (recommended), open data, GBIF practice
+This is an overview of the standard licenses used:
+
+License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
+--- | --- | --- | --- | --- | ---
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/) |||| yes | yes
+[CC BY](http://creativecommons.org/licenses/by/3.0/) |||| yes | yes
+[ODC-By](http://opendatacommons.org/licenses/by/1.0/) |||| yes | yes
+[CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) |||| no | yes
+[ODbL](http://opendatacommons.org/licenses/odbl/1.0/) & [DbCL](http://opendatacommons.org/licenses/dbcl/1.0/) |||| no | yes
+[CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) |||| expected by some | no
+[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) |||| no | no
+[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) |||| no | no
 
 ## Use within GBIF network
 
