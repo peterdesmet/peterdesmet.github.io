@@ -8,6 +8,7 @@ Status: draft
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://datafable.github.io/gbif-data-licenses/charts/js/nv.d3.min.js"></script>
+<script src="http://datafable.github.io/gbif-data-licenses/charts/js/data.js"></script>
 <script src="http://datafable.github.io/gbif-data-licenses/charts/js/charts.js"></script>
 <link href="http://datafable.github.io/gbif-data-licenses/charts/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
