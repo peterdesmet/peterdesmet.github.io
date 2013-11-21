@@ -29,7 +29,9 @@ All code and data[^3] for this project are available on [GitHub](https://github.
 
 [^3]: Additional legal issue: what license applies to the **metadata** of GBIF registered datasets? Can we publish even part of it on a GitHub repository? Note that metadata *does* include creative content, and some of it is even published as data papers.
 
-## Overview of the licenses used
+## Results
+
+### Overview of the licenses used
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
 --- | ---: | ---: | ---: | --- | ---
@@ -44,7 +46,7 @@ License | # of datasets | # of records | % of records | [GBIF practice?](https:/
 Non-standard license | 1,069 | 100,062,731 | 24.1% | ? | ?
 No license | 10,734 | 305,546,382 | 73.5% | ? | ?
 
-## Standard licenses
+### Standard licenses
 
 Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](|filename|gbif-data-license.md), a standard license ([Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/)) is at least standardized and easy to understand. Only 1.4% of all datasets however (2% of all occurrences) are published with a standard license.
 
@@ -55,7 +57,7 @@ Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should
 
 Data dedicated to the public domain under [CC0](http://creativecommons.org/publicdomain/zero/1.0/) represents an even smaller percentage: 0.9% of all datasets (0.5% of all occurrences). The silver lining is that most data publishers who choose a standard license, choose CC0 (105 datasets).
 
-## Interpreting the other licenses
+### Interpreting the other licenses
 
 All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](|filename|illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.
 
@@ -63,11 +65,11 @@ We tried to lift some of that burden by [interpreting all these licenses](https:
 
 [^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have the figure out the legal implications. See [this issue](https://github.com/Datafable/gbif-data-licenses/issues/12) for the whole discussion.
 
-### Datasets
+#### Datasets
 
 <div><svg id="chart3" class="chart"></svg></div>
 
-### Occurrences
+#### Occurrences
 
 <div><svg id="chart4" class="chart"></svg></div>
 
