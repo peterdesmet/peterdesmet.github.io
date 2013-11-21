@@ -70,14 +70,14 @@ We tried to [interpret all these licenses](https://github.com/Datafable/gbif-dat
 
 <div><svg id="chart4" class="chart"></svg></div>
 
+## Conclusion
 
+Our analysis of the licenses of all GBIF registered datasets shows a bleak picture. Very few GBIF registered datasets can be easily and legally used, let alone without restrictions. This is mainly due to data being published with no or a non-standard license.
 
+Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our analysis already helps with:
 
+> The Secretariat would review existing metadata provisionally to assign[^5] each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [[source](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf)]
 
-## Next steps
+[^5]: The characteristics we assigned to the licenses (`commercial use allowed`, `notification required`, etc.) could even be provided as machine tags on the GBIF portal, allowing users to already get some indication of what is allowed/required.
 
-* GBIF 2014 work program
-* Easy translation
-* Hard translation
-* Machine tags
-* Contribute and pick apart GitHub
+More importantly, this mission should be used as [an opportunity](|filename|gbif-data-license.md) to make the `rights` field mandatory, require CC0, and shift the discussion about ethical data use (including attribution) to norms rather than ill-suited legal tools.
