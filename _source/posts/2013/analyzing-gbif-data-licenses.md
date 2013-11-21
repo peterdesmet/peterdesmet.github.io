@@ -63,9 +63,11 @@ We tried to [interpret all these licenses](https://github.com/Datafable/gbif-dat
 
 ### Datasets
 
+<div><svg id="chart3" class="chart"></svg></div>
 
 ### Occurrences
 
+<div><svg id="chart4" class="chart"></svg></div>
 
 
 
