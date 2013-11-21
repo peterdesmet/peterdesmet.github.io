@@ -58,45 +58,21 @@ Overall only 0.9% of all GBIF registered datasets, representing 0.5% of the occu
 
 All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](|filename|illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. We tried to [interpret all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md), but it should be clear that this is an attempt, and it should only be used with caution.
 
-## Use within the GBIF network
 
-Since all analyzed datasets are GBIF registered datasets, the publisher and user automatically agree with the GBIF [share](http://www.gbif.org/disclaimer/datasharing) and [use](http://www.gbif.org/disclaimer/datause) agreements. These state:
 
-> In order to make **attribution** of use for owners of the data possible, the identifier of ownership of data must be retained with every data record.
-> 
-> Users must comply with **additional terms and conditions** of use set by the Data Publisher. Where these exist they will be available through the metadata associated with the data.
 
-For this scope, we defaulted attribution to `Required (true)` for all datasets and [interpreted](https://github.com/Datafable/gbif-data-licenses/issues/31) the lack of a license (= no additional terms and conditions) as:
 
-    Use: Open (true)
-    Distribution: Open (true)
-    Derivatives: Open (true)
-    Commercial: Unknown (?)
-    Attribution: Required (true)
-    Share alike: Unknown (?)
-    Notification: Open (false)
 
-The charts below show the results of this interpretation and give the distribution of what is open and what is restricted/required for all datasets and occurrences within the scope of the GBIF network. You can click on the legends to show/hide parts of the chart.
 
 ### Datasets
 
-<div><svg id="chart5" class="chart"></svg></div>
 
 ### Occurrences
 
-<div><svg id="chart6" class="chart"></svg></div>
 
-* Breakdown public domain, open data, GBIF practice
 
-## Universal use
 
-<div><svg id="chart3" class="chart"></svg></div>
 
-<div><svg id="chart4" class="chart"></svg></div>
-
-* Other interpretation of `not supplied`
-* Bar chart of parameters for datasets, occurrences
-* Breakdown public domain, open data, GBIF practice
 
 ## Next steps
 
