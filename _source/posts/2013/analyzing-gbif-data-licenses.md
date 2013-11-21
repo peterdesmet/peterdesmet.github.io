@@ -1,4 +1,4 @@
-Title: Analyzing the licenses of all 11.000+ GBIF datasets
+Title: Analyzing the licenses of all 11,000+ GBIF registered datasets
 Slug: analyzing-gbif-data-licenses
 Date: 2013-11-20 11:00
 Author: Peter Desmet
@@ -20,9 +20,9 @@ But how much of this applies to all [417+ million occurrence records](http://www
 
 ## Methodology
 
-We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11.000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
+We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11,000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
 
-In total we analyzed 11.974 datasets[^2], representing 415.927.654 occurrences. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv).
+In total we analyzed **11,974 datasets**[^2], representing **415,927,654 occurrences**. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv).
 
 [^2]: These include [checklist](http://www.gbif.org/dataset/search?type=CHECKLIST) and [occurrence datasets](http://www.gbif.org/dataset/search?type=OCCURRENCE). Obviously, only occurrence datasets are represented in the results for occurrences.
 
