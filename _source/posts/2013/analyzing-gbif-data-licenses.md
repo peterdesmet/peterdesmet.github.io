@@ -22,7 +22,7 @@ But how much of this applies to all [417+ million occurrence records](http://www
 
 We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11.000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
 
-In total we analyzed 11.972 datasets[^2] and 415.412.644 occurrences. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to annotate 428 different licenses.
+In total we analyzed 11.974 datasets[^2], representing 415.927.654 occurrences. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv).
 
 [^2]: These include [checklist](http://www.gbif.org/dataset/search?type=CHECKLIST) and [occurrence datasets](http://www.gbif.org/dataset/search?type=OCCURRENCE). Obviously, only occurrence datasets are represented in the results for occurrences.
 
@@ -36,14 +36,14 @@ License | # of datasets | # of records | % of records | [GBIF practice?](https:/
 --- | --- | --- | --- | --- | ---
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 105 | 2,155,108 | 0.5% | yes | yes
 [CC BY](http://creativecommons.org/licenses/by/3.0/) | 8 | 2,240,674 | 0.5% | yes | yes
-[ODC-By](http://opendatacommons.org/licenses/by/1.0/) | 7 | 561,776 | 0.1% | yes | yes
+[ODC-By](http://opendatacommons.org/licenses/by/1.0/) | 11 | 567,675 | 0.1% | yes | yes
 [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) | 16 | 450,421 | 0.1 | no | yes
 [ODbL](http://opendatacommons.org/licenses/odbl/1.0/) & [DbCL](http://opendatacommons.org/licenses/dbcl/1.0/) | 3 | 864 | 0.0% | no | yes
 [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) | 10 | 4,308,627 | 1.0% | expected by some | no
 [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) | 17 | 569,040 | 0.1% | no | no
 [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) | 1 | 26,132 | 0.0% | no | no
-Non-standard license | 1,068 | 99,889,693 | 24.0% | ? | ?
-No license | 10,735 | 305,633,706 | 73.5% | ? | ?
+Non-standard license | 1,069 | 100,062,731 | 24.1% | ? | ?
+No license | 10,734 | 305,546,382 | 73.5% | ? | ?
 
 ## Standard licenses
 
