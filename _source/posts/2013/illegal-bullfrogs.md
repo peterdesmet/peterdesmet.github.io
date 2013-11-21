@@ -26,7 +26,7 @@ Indeed, GBIF includes metadata for each dataset included in my download, and a f
 Four datasets are provided with a standard data license (e.g. [Creative Commons](http://creativecommons.org/licenses/)) and thus easy to understand:
 
 License | # of datasets | # of records | % of records
---- | --- | --- | ---
+--- | ---: | ---: | ---:
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 2 ([1](http://www.gbif.org/dataset/8c201186-d997-4b65-aac9-2fcf442a93f6) & [1](http://www.gbif.org/dataset/cc28549b-467f-448c-875e-881ca507aba8)) | 543 | 4%
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) | [1](http://www.gbif.org/dataset/b70121ef-b7ea-4316-a05b-abdf30f5ca09) | 4 | 0%
 [CC-BY-NC-SA](http://creativecommons.org/licenses/by-sa/3.0/) | [1](http://www.gbif.org/dataset/94dce9c1-e2f0-45cb-a77b-8e5caa871a41) | 1 | 0%
@@ -51,7 +51,7 @@ The bulk of the data however (26 datasets, 6,894 records) have a license of the 
 ### Overview of the licenses used
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
---- | --- | --- | --- | --- | ---
+--- | ---: | ---: | ---: | --- | ---
 Public domain (incl. CC0) | 3 | 544 | 4% | yes | yes
 Use with attribution and share alike (incl. CC-BY-SA) | 1 | 4 | 0% | no | yes
 Non-commercial use | 1 | 22 | 0% | expected by some | no

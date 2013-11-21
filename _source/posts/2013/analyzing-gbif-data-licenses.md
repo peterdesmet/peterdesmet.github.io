@@ -33,7 +33,7 @@ All code and data[^3] for this project are available on [GitHub](https://github.
 ## Overview of the licenses used
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
---- | --- | --- | --- | --- | ---
+--- | ---: | ---: | ---: | --- | ---
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 105 | 2,155,108 | 0.5% | yes | yes
 [CC BY](http://creativecommons.org/licenses/by/3.0/) | 8 | 2,240,674 | 0.5% | yes | yes
 [ODC-By](http://opendatacommons.org/licenses/by/1.0/) | 11 | 567,675 | 0.1% | yes | yes
