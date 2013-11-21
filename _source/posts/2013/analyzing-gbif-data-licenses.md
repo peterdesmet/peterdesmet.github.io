@@ -12,7 +12,9 @@ Status: draft
 <script src="http://datafable.com/gbif-data-licenses/charts/js/charts.js"></script>
 <link href="http://datafable.com/gbif-data-licenses/charts/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
-In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome. But what are those numbers for all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How challenging is GBIF's [2014 mission to provide a machine readable, standard license](|filename|gbif-data-license.md) for all datasets? Fellow Datafable[^1] member Bart Aelterman and I tried to figure out.
+In my [previous post](|filename|illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
+
+But how much of this applies to all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How challenging is GBIF's [2014 mission to provide a machine readable, standard license](|filename|gbif-data-license.md) for all datasets? Fellow Datafable[^1] member [Bart Aelterman](https://twitter.com/bartaelterman) and I tried to figure out.
 
 [^1]: To combine our skills and organize some of our extracurricular activities, we started a team of open data enthusiasts called [Datafable](https://twitter.com/datafable). The results of our first project was [published by GBIF](http://www.gbif.org/page/2991) last week.
 
@@ -56,9 +58,9 @@ Data dedicated to the public domain under [CC0](http://creativecommons.org/publi
 
 ## Interpreting the other licenses
 
-All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](|filename|illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all.
+All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](|filename|illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.
 
-We tried to [interpret all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md), extracting some characteristics, but it should be clear that this is an attempt[^4], and it should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
+We tried to lift some of that burden by [interpreting all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv), extracting some characteristics, but it should be clear that this is an attempt[^4] that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
 
 [^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have the figure out the legal implications. See [this issue](https://github.com/Datafable/gbif-data-licenses/issues/12) for the whole discussion.
 
@@ -72,9 +74,9 @@ We tried to [interpret all these licenses](https://github.com/Datafable/gbif-dat
 
 ## Conclusion
 
-Our analysis of the licenses of all GBIF registered datasets shows a bleak picture. Very few GBIF registered datasets can be easily and legally used, let alone without restrictions. This is mainly due to data being published with no or a non-standard license.
+Our analysis of the licenses of all 11.000+ GBIF registered datasets shows a bleak picture. Very few GBIF registered datasets can be easily and legally used, let alone without restrictions. This is mainly due to data being published with no or a non-standard license.
 
-Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our analysis already helps with:
+Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our [analysis](https://github.com/Datafable/gbif-data-licenses) (which can be run again) and [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) already help with:
 
 > The Secretariat would review existing metadata provisionally to assign[^5] each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [[source](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf)]
 
