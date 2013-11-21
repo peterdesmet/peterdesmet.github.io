@@ -50,7 +50,13 @@ License | # of datasets | # of records | % of records | [GBIF practice?](https:/
 [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) |||| no | no
 [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) |||| no | no
 
-## Use within GBIF network
+Overall only 0.9% of all GBIF registered datasets, representing 0.5% of the occurrences, are dedicated to the public domain under [CC0](http://creativecommons.org/publicdomain/zero/1.0/), which is the recommended way to publish data. The silver lining is that most data publishers who choose a standard license, choose CC0.
+
+## Non-standard licenses
+
+All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](|filename|illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. We tried to [interpret all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md), but it should be clear that this is an attempt, and it should only be used with caution.
+
+## Use within the GBIF network
 
 * Legal? Somewhere between licenses and norms
 * Interpretation of `not supplied`
