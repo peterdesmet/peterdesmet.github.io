@@ -41,14 +41,16 @@ This is an overview of the standard licenses used:
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
 --- | --- | --- | --- | --- | ---
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/) |||| yes | yes
-[CC BY](http://creativecommons.org/licenses/by/3.0/) |||| yes | yes
-[ODC-By](http://opendatacommons.org/licenses/by/1.0/) |||| yes | yes
-[CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) |||| no | yes
-[ODbL](http://opendatacommons.org/licenses/odbl/1.0/) & [DbCL](http://opendatacommons.org/licenses/dbcl/1.0/) |||| no | yes
-[CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) |||| expected by some | no
-[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) |||| no | no
-[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) |||| no | no
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 105 | 2,155,108 | 0.5% | yes | yes
+[CC BY](http://creativecommons.org/licenses/by/3.0/) | 8 | 2,240,674 | 0.5% | yes | yes
+[ODC-By](http://opendatacommons.org/licenses/by/1.0/) | 7 | 561,776 | 0.1% | yes | yes
+[CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) | 16 | 450,421 | 0.1 | no | yes
+[ODbL](http://opendatacommons.org/licenses/odbl/1.0/) & [DbCL](http://opendatacommons.org/licenses/dbcl/1.0/) | 3 | 864 | 0.0% | no | yes
+[CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) | 10 | 4,308,627 | 1.0% | expected by some | no
+[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) | 17 | 569,040 | 0.1% | no | no
+[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) | 1 | 26,132 | 0.0% | no | no
+Non-standard license | 1,068 | 99,889,693 | 24.0% | ? | ?
+No license | 10,735 | 305,633,706 | 73.5% | ? | ?
 
 Overall only 0.9% of all GBIF registered datasets, representing 0.5% of the occurrences, are dedicated to the public domain under [CC0](http://creativecommons.org/publicdomain/zero/1.0/), which is the recommended way to publish data. The silver lining is that most data publishers who choose a standard license, choose CC0.
 
