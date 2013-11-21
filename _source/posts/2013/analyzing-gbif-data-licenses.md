@@ -30,7 +30,7 @@ In total we analyzed 11.972 datasets[^3] and 415.412.644 occurrences. The first 
 
 ## Standard licenses
 
-Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](|filename|gbif-data-license.md), a [Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/) license is at least standardized, legally valid, and easy to understand. Only 1% of the datasets (2% of the occurrences) however are published with a standard license.
+Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](|filename|gbif-data-license.md), a [Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/) license is at least standardized, legally valid, and easy to understand. Only 1.4% of the datasets (2% of the occurrences) however are published with a standard license.
 
 <div class="clearfix">
     <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
