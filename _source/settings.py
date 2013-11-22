@@ -15,10 +15,9 @@ MARKUP = (("md"),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = None
 DEFAULT_DATE_FORMAT  = "%B %d, %Y"
-SUMMARY_MAX_LENGTH = -1
+SUMMARY_MAX_LENGTH = 0
 
 # Directory settings
-DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 PATH = ""
 ARTICLE_DIR = "posts"
 PAGE_DIR = "pages"
@@ -27,6 +26,18 @@ STATIC_PATHS = (
     ("files"),
 )
 OUTPUT_PATH = "../" # One level above the _source folder
+DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
+OUTPUT_RETENTION = (
+    (".git"),
+    (".gitignore"),
+    ("_source"),
+    ("CNAME"),
+    ("favicon.ico"),
+    ("humans.txt"),
+    ("LICENSE.txt"),
+    ("README.md"),
+    ("robots.txt"),
+)
 
 # URLs
 ARTICLE_URL = "posts/{slug}.html" # Both slug and slug.html will work
