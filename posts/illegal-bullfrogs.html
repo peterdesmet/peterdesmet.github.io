@@ -72,7 +72,7 @@
 <th>License</th>
 <th># of datasets</th>
 <th># of records</th>
-<th>% of records</th>
+<th align="right">% of records</th>
 </tr>
 </thead>
 <tbody>
@@ -80,33 +80,33 @@
 <td><a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a></td>
 <td>2 (<a href="http://www.gbif.org/dataset/8c201186-d997-4b65-aac9-2fcf442a93f6">1</a> &amp; <a href="http://www.gbif.org/dataset/cc28549b-467f-448c-875e-881ca507aba8">1</a>)</td>
 <td>543</td>
-<td>4%</td>
+<td align="right">4%</td>
 </tr>
 <tr>
 <td><a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a></td>
 <td><a href="http://www.gbif.org/dataset/b70121ef-b7ea-4316-a05b-abdf30f5ca09">1</a></td>
 <td>4</td>
-<td>0%</td>
+<td align="right">0%</td>
 </tr>
 <tr>
 <td><a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-NC-SA</a></td>
 <td><a href="http://www.gbif.org/dataset/94dce9c1-e2f0-45cb-a77b-8e5caa871a41">1</a></td>
 <td>1</td>
-<td>0%</td>
+<td align="right">0%</td>
 </tr>
 <tr>
 <td>Non-standard license</td>
 <td>61</td>
-<td>12.749</td>
-<td>96%</td>
+<td>12,749</td>
+<td align="right">96%</td>
 </tr>
 </tbody>
 </table>
 <h3>Interpreting the other licenses</h3>
 <p>I am entering unknown legal territory by interpreting the non-standard licenses, but since I would like to create an occurrence map with more than 4% of the data, I'll try anyway.</p>
 <p>24 datasets don't supply rights, so I could either interpret this as: 1) I'm free to use these data under the general GBIF data use agreement, or 2) I don't want to risk violating any applicable copyright or database rights, so I won't use these data.</p>
-<p>I interpreted<sup id="fnref:2"><a class="footnote-ref" href="#fn:2" rel="footnote">2</a></sup> other statements as <em>Non-commercial use</em> (1 dataset, 22 records), <em>Non-commercial use with attribution</em> (5 datasets, 3190 records), <em>Public domain</em> (1 dataset, 1 record) or <em>All rights reserved</em> (1 dataset: I'm looking at you, <a href="http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a">Royal Belgian Institute for Natural Sciences</a>, 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed.</p>
-<p>The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):</p>
+<p>I interpreted<sup id="fnref:2"><a class="footnote-ref" href="#fn:2" rel="footnote">2</a></sup> other statements as <em>Non-commercial use</em> (1 dataset, 22 records), <em>Non-commercial use with attribution</em> (5 datasets, 3,190 records), <em>Public domain</em> (1 dataset, 1 record) or <em>All rights reserved</em> (1 dataset: I'm looking at you, <a href="http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a">Royal Belgian Institute for Natural Sciences</a>, 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed.</p>
+<p>The bulk of the data however (26 datasets, 6,894 records) have a license of the form (emphasis mine):</p>
 <blockquote>
 <p>[Institution A] data records may be used by individual researchers or research groups, but <strong>they may not be repackaged, resold, or redistributed in any form without the express written consent</strong> of a curatorial staff member of [Institution A]. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and [Institution A] notified. [Institution A] and its staff are not responsible for damages, injury or loss due to the use of these data.</p>
 </blockquote>
@@ -151,7 +151,7 @@
 <tr>
 <td>Non-commercial use with attribution (similar to <a href="http://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC</a>)</td>
 <td>5</td>
-<td>3190</td>
+<td>3,190</td>
 <td>24%</td>
 <td>expected by some</td>
 <td>no</td>
@@ -167,7 +167,7 @@
 <tr>
 <td>Some use with attribution, no redistribution</td>
 <td>26</td>
-<td>6894</td>
+<td>6,894</td>
 <td>52%</td>
 <td>no</td>
 <td>no</td>
@@ -191,7 +191,7 @@
 <tr>
 <td>Not supplied</td>
 <td>24</td>
-<td>2268</td>
+<td>2,268</td>
 <td>17%</td>
 <td>?</td>
 <td>?</td>
@@ -209,7 +209,7 @@
 <li><a href="http://www.gbif.org/dataset/635e4476-f762-11e1-a439-00145eb45e9a">Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Anfibios</a>, though it would be useful if a standard license was used instead of <code>Público</code>.</li>
 </ul>
 <h3>Public and non-commercial use records</h3>
-<p>Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to <strong>3.756 records (28%)</strong>. Beware if you want to repost this image.</p>
+<p>Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to <strong>3,756 records (28%)</strong>. Beware if you want to repost this image.</p>
 <p><img alt="Public and non-commercial bullfrog records" src="http://peterdesmet.com/static/images/2013-bullfrog-map-non-commercial.png" /></p>
 <p>The included data publishers are now:</p>
 <blockquote>
@@ -272,8 +272,8 @@
                 </div>
 
         <!-- Scripts -->
-        <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
-        <!--<script>window.jQuery || document.write('<script src="http://peterdesmet.com/theme/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>-->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="http://peterdesmet.com/theme/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
         <!--<script src="http://peterdesmet.com/theme/js/plugins.js"></script>-->
         <!--<script src="http://peterdesmet.com/theme/js/main.js"></script>-->
                 <script>
