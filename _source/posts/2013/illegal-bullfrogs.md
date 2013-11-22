@@ -26,11 +26,11 @@ Indeed, GBIF includes metadata for each dataset included in my download, and a f
 Four datasets are provided with a standard data license (e.g. [Creative Commons](http://creativecommons.org/licenses/)) and thus easy to understand:
 
 License | # of datasets | # of records | % of records
---- | --- | --- | ---
+--- | ---: | ---: | ---:
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 2 ([1](http://www.gbif.org/dataset/8c201186-d997-4b65-aac9-2fcf442a93f6) & [1](http://www.gbif.org/dataset/cc28549b-467f-448c-875e-881ca507aba8)) | 543 | 4%
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) | [1](http://www.gbif.org/dataset/b70121ef-b7ea-4316-a05b-abdf30f5ca09) | 4 | 0%
 [CC-BY-NC-SA](http://creativecommons.org/licenses/by-sa/3.0/) | [1](http://www.gbif.org/dataset/94dce9c1-e2f0-45cb-a77b-8e5caa871a41) | 1 | 0%
-Non-standard license | 61 | 12.749 | 96%
+Non-standard license | 61 | 12,749 | 96%
 
 ### Interpreting the other licenses
 
@@ -38,11 +38,11 @@ I am entering unknown legal territory by interpreting the non-standard licenses,
 
 24 datasets don't supply rights, so I could either interpret this as: 1) I'm free to use these data under the general GBIF data use agreement, or 2) I don't want to risk violating any applicable copyright or database rights, so I won't use these data.
 
-I interpreted[^2] other statements as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset: I'm looking at you, [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a), 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed.
+I interpreted[^2] other statements as *Non-commercial use* (1 dataset, 22 records), *Non-commercial use with attribution* (5 datasets, 3,190 records), *Public domain* (1 dataset, 1 record) or *All rights reserved* (1 dataset: I'm looking at you, [Royal Belgian Institute for Natural Sciences](http://www.gbif.org/dataset/8138eb72-f762-11e1-a439-00145eb45e9a), 1 record). For 3 datasets (373 records) it was unclear to me what the license allowed.
 
 [^2]: I would like to show you how I interpreted the licenses by posting the data on GitHub, but that would violate some licenses.
 
-The bulk of the data however (26 datasets, 6894 records) have a license of the form (emphasis mine):
+The bulk of the data however (26 datasets, 6,894 records) have a license of the form (emphasis mine):
 
 > [Institution A] data records may be used by individual researchers or research groups, but **they may not be repackaged, resold, or redistributed in any form without the express written consent** of a curatorial staff member of [Institution A]. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and [Institution A] notified. [Institution A] and its staff are not responsible for damages, injury or loss due to the use of these data.
 
@@ -51,16 +51,16 @@ The bulk of the data however (26 datasets, 6894 records) have a license of the f
 ### Overview of the licenses used
 
 License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
---- | --- | --- | --- | --- | ---
+--- | ---: | ---: | ---: | --- | ---
 Public domain (incl. CC0) | 3 | 544 | 4% | yes | yes
 Use with attribution and share alike (incl. CC-BY-SA) | 1 | 4 | 0% | no | yes
 Non-commercial use | 1 | 22 | 0% | expected by some | no
-Non-commercial use with attribution (similar to [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)) | 5 | 3190 | 24% | expected by some | no 
+Non-commercial use with attribution (similar to [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)) | 5 | 3,190 | 24% | expected by some | no 
 Non-commercial use with attribution and share alike (incl. CC-BY-NC-SA | 1 | 1 | 0% | no | no
-Some use with attribution, no redistribution | 26 | 6894 | 52% | no | no
+Some use with attribution, no redistribution | 26 | 6,894 | 52% | no | no
 All rights reserved | 1 | 1 | 0% | no | no
 Unclear | 3 | 373 | 3% | ? | ?
-Not supplied | 24 | 2268 | 17%  | ? | ?
+Not supplied | 24 | 2,268 | 17%  | ? | ?
 
 These results are quite bleak: only 4 data publishers (4% of the data) publish their bullfrog occurrences as open data and only 8 (28% of the data) publish their data compatible with practices or expectations in GBIF today. This doesn't even address if the chosen license makes actual sense for data ([see my previous blog post](|filename|gbif-data-license.md)).
 
@@ -78,7 +78,7 @@ This map shows all **544 records dedicated to the public domain (4%)**. To compl
 
 ### Public and non-commercial use records
 
-Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to **3.756 records (28%)**. Beware if you want to repost this image.
+Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to **3,756 records (28%)**. Beware if you want to repost this image.
 
 ![Public and non-commercial bullfrog records](|filename|/images/2013-bullfrog-map-non-commercial.png)
 
