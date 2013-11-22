@@ -63,7 +63,7 @@ All other data are provided with no or a non-standard license, with a percentage
 
 We tried to lift some of that burden by [interpreting all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv), extracting some characteristics, but it should be clear that this is an attempt[^4] that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
 
-[^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have the figure out the legal implications. See [this issue](https://github.com/Datafable/gbif-data-licenses/issues/12) for the whole discussion.
+[^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have to figure out the legal implications. See [this issue](https://github.com/Datafable/gbif-data-licenses/issues/12) for the whole discussion.
 
 #### Datasets
 
