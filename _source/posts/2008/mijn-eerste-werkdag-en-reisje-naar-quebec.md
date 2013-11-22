@@ -16,7 +16,7 @@ Vorige maand hadden we de eer om onze eerste bezoekster te verwelkomen, zoals je
 
 *Peter in actie op donderdagavond*
 
-Terwijl Peter eventjes heen en weer vloog naar [Perth](|filename|/posts/2009/fremantle-australie.md), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
+Terwijl Peter eventjes heen en weer vloog naar [Perth]({filename}/posts/2009/fremantle-australie.md), besloten Liesbet en ik het dichter bij huis te zoeken. We trokken met onze (mottige) huurwagen richting Québec.
 
 ![Liesbet & ik](http://lh4.ggpht.com/_cvGWRFf-ypY/SS3YonM0-FI/AAAAAAAACNU/KPPbpVDFj38/s800/DSC01291.JPG)
 

@@ -6,4 +6,4 @@ Tags: Montréal, New Year, Old blog
 
 Dat al jullie verwachtingen mogen uitkomen dit jaar! ;-) x Lien & Peter
 
-![2011](|filename|/images/2010-nieuwjaar-2011.png "2011")
+![2011]({filename}/images/2010-nieuwjaar-2011.png "2011")
