@@ -4,11 +4,11 @@ Date: 2011-02-14 11:13
 Author: Peter Desmet
 Tags: Design, Coding, Old blog
 
-![Design 3](|filename|/images/2011-design-v3-homepage.png)
+![Design 3]({filename}/images/2011-design-v3-homepage.png)
 
-Voila, nog mooi op tijd voor de geboorte van ons marmotje, een nieuw design voor deze blog! Versie 3 ditmaal, de vorige verandering dateerde van [juni 2008](|filename|/posts/2008/tijd-voor-een-nieuwe-zomerjurk.md). En rekening houdend met het toch wel ouder wordende lezerspubliek :) :
+Voila, nog mooi op tijd voor de geboorte van ons marmotje, een nieuw design voor deze blog! Versie 3 ditmaal, de vorige verandering dateerde van [juni 2008]({filename}/posts/2008/tijd-voor-een-nieuwe-zomerjurk.md). En rekening houdend met het toch wel ouder wordende lezerspubliek :) :
 
-![Design 3 op iPod](|filename|/images/2011-design-v3-ipod.png)
+![Design 3 op iPod]({filename}/images/2011-design-v3-ipod.png)
 
 * Grotere tekst
 * Grotere foto's

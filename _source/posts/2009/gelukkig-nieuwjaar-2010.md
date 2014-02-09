@@ -6,7 +6,7 @@ Tags: Montréal, New Year, Old blog
 
 We wensen jullie een schitterend...
 
-![2010](|filename|/images/2009-nieuwjaar-2010.png "2010!")
+![2010]({filename}/images/2009-nieuwjaar-2010.png "2010!")
 
 Dikke zoen
 
