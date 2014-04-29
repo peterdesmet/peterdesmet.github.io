@@ -1,9 +1,9 @@
-Title: What data license should GBIF use: part 2?
-Slug: gbif-data-license-part-2
-Date: 2013-09-17 11:30
+Title: What data license should GBIF use? Part 2
+Slug: gbif-data-license-2
+Date: 2014-05-05 17:00
 Author: Peter Desmet
 Tags: Open data, GBIF
-Summary: From free and open access to biodiversity data to open biodiversity data.
+Summary: ...
 
 * 2nd GBIF consultation
 * Parallel efforts: Canadensys, Vertnet, Bouchout declaration, BioMedCentral, Dryad
