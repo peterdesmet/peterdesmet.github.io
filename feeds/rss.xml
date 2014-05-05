@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Desmet</title><link>http://peterdesmet.com/</link><description>Reporting on open science</description><atom:link href="http://peterdesmet.com/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 22 Nov 2013 10:10:00 +0100</lastBuildDate><item><title>Analyzing the licenses of all 11,000+ GBIF registered datasets</title><link>http://peterdesmet.com/posts/analyzing-gbif-data-licenses.html</link><description>&lt;script src="http://d3js.org/d3.v3.min.js"&gt;&lt;/script&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Desmet</title><link>http://peterdesmet.com/</link><description>Reporting on open science</description><atom:link href="http://peterdesmet.com/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 05 May 2014 20:50:00 +0200</lastBuildDate><item><title>Support GBIF in choosing CC0 + norms</title><link>http://peterdesmet.com/posts/gbif-data-license-2.html</link><description>&lt;p&gt;Last year, the Global Biodiversity Information Facility (&lt;a href="http://www.gbif.org"&gt;GBIF&lt;/a&gt;) asked what license(s) should be chosen for GBIF-mediated data. This triggered 32 responses (&lt;a href="http://peterdesmet.com/posts/gbif-data-license.html"&gt;including my own&lt;/a&gt;) with the following key messages:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;The proposed copyright licensing model (e.g. CC licenses) may not be a suitable mechanism to control or restrict use, as the type of data published through GBIF falls in a legal 'grey area'. These data may not in fact be eligible for copyright at all, at least in some jurisdictions. Deciding this point may also be complicated by the types of content offered, particularly when video, image or other multimedia content is included. GBIF were advised not to contribute to misunderstanding by promoting licences which may not be legally actionable.&lt;/li&gt;
+&lt;li&gt;There is a strong desire by some (about one third of the respondents) to attempt to restrict access for commercial use. However, as some discussed in their responses, it is very difficult to agree or define what constitutes commercial use.&lt;/li&gt;
+&lt;li&gt;Many of the concerns expressed relate to the need for better attribution. It is suggested that, rather than asserting a copyright license, GBIF should focus with high urgency on improving citation and tracking data use.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In response to this, GBIF has issued a &lt;a href="http://www.gbif.org/newsroom/consultations#licensing"&gt;second consultation call&lt;/a&gt;, with a set of proposed changes which are in my opinion a tremendous step forward&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. These include adopting &lt;a href="https://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0&lt;/a&gt; for all data&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;, educating the community, drafting community norms, allowing publishers to at least express the wish that data should not used for commercial gain, and building tools to facilitate citation, attribution, and data use tracking.&lt;/p&gt;
+&lt;p&gt;If you want to support GBIF in taking these necessary steps towards open biodiversity data, &lt;a href="http://www.gbif.org/newsroom/consultations#licensing"&gt;please reply to the consultation&lt;/a&gt;, even (or especially) if you are not part of the GBIF community. The deadline for replying is &lt;strong&gt;June 14&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;The proposed changes go even further than &lt;a href="http://peterdesmet.com/posts/gbif-data-license.html"&gt;my wish list&lt;/a&gt; and include a realistic proposal for the non-commercial use issue.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;VertNet now also strongly recommends CC0 for data in the recently published "&lt;a href="http://www.vertnet.org/resources/datalicensingguide.html"&gt;Quick guide to copyright and licenses for dataset publication&lt;/a&gt;", in addition to &lt;a href="http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0"&gt;Canadensys&lt;/a&gt; and others.&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Desmet</dc:creator><pubDate>Mon, 05 May 2014 20:50:00 +0200</pubDate><guid>tag:peterdesmet.com,2014-05-05:posts/gbif-data-license-2.html</guid><category>Open data</category><category>GBIF</category></item><item><title>Analyzing the licenses of all 11,000+ GBIF registered datasets</title><link>http://peterdesmet.com/posts/analyzing-gbif-data-licenses.html</link><description>&lt;script src="http://d3js.org/d3.v3.min.js"&gt;&lt;/script&gt;
 
 &lt;script src="http://datafable.com/gbif-data-licenses/charts/js/nv.d3.min.js"&gt;&lt;/script&gt;
 
