@@ -3,7 +3,7 @@ Slug: gbif-data-license-2
 Date: 2014-05-05 20:50
 Author: Peter Desmet
 Tags: Open data, GBIF
-Summary: Changes proposed by GBIF regarding data licensing a tremendous step forward.
+Summary: Changes proposed by GBIF regarding data licensing are a tremendous step forward.
 
 Last year, the Global Biodiversity Information Facility ([GBIF](http://www.gbif.org)) asked what license(s) should be chosen for GBIF-mediated data. This triggered 32 responses ([including my own]({filename}/posts/2013/gbif-data-license.md)) with the following key messages:
 
