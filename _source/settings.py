@@ -63,9 +63,12 @@ THEME = "../../spoonbill" # Relative link to theme repository
 DISQUS_SITENAME = "peterdesmet"
 GOOGLE_ANALYTICS = "UA-2043127-1"
 GOOGLE_WEBMASTER = "QsSLW3AksA4dYqzZOsQLzsIcy5qYYH09wl9CzHtADFs"
-GITHUB_URL = "https://github.com/peterdesmet"
 TWITTER_NAME = "peterdesmet"
 TWITTER_URL = "https://twitter.com/peterdesmet"
+TWITTER_FOOTER_TEXT = "Follow me on Twitter"
+GITHUB_URL = "https://github.com/peterdesmet"
+GITHUB_FOOTER_TEXT = "My GitHub repositories"
+RSS_FOOTER_TEXT = "Subscribe to updates"
 
 # Blogroll
 LINKS = (
