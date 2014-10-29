@@ -19,12 +19,12 @@ SUMMARY_MAX_LENGTH = 0
 
 # Directory settings
 PATH = ""
-ARTICLE_DIR = "posts"
-PAGE_DIR = "pages"
-STATIC_PATHS = (
-    ("images"),
-    ("files"),
-)
+ARTICLE_PATHS = ["posts"]
+PAGE_PATHS = ["pages"]
+STATIC_PATHS = [
+    "images",
+    "files",
+]
 OUTPUT_PATH = "../" # One level above the _source folder
 DELETE_OUTPUT_DIRECTORY = False # True doesn't seem to work + Not sure if it would remove _source
 OUTPUT_RETENTION = (
@@ -38,6 +38,7 @@ OUTPUT_RETENTION = (
     ("README.md"),
     ("robots.txt"),
 )
+CACHE_CONTENT = False
 
 # URLs
 ARTICLE_URL = "posts/{slug}.html" # Both slug and slug.html will work
