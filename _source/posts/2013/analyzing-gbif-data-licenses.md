@@ -6,10 +6,10 @@ Tags: Open data, Open research, GBIF, Datafable
 Summary: How much GBIF mediated data can be legally used easily? A collaborative analysis.
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts/js/nv.d3.min.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts/js/data.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts/js/charts.js"></script>
-<link href="http://datafable.com/gbif-data-licenses/charts/css/nv.d3.min.css" rel="stylesheet" type="text/css">
+<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
+<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/data.js"></script>
+<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
+<link href="http://datafable.com/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
 In my [previous post]({filename}illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
 
