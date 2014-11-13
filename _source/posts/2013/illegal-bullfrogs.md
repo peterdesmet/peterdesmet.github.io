@@ -7,7 +7,7 @@ Summary: Non-standard data licenses are a burden for users of aggregated GBIF da
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ million occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
 
-That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of]({filename}gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?GEOREFERENCED=true&SPATIAL_ISSUES=false&TAXON_KEY=2427091) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
+That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of]({filename}gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?TAXON_KEY=2427091&HAS_COORDINATE=true&HAS_GEOSPATIAL_ISSUE=false) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
 
 ![Unavailable bullfrog records]({filename}/images/2013-bullfrog-map-unavailable.png)
 
