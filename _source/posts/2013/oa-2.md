@@ -9,7 +9,7 @@ Summary: And how well is the journal communicating this?
 
 In my [previous post]({filename}oa-1.md), I explained what open access is. But we can go beyond the simple question of "Is it open access?" and evaluate how open a resource actually is.
 
-PLOS, SPARC and OASPA developed a **[2-page guide](http://www.plos.org/about/open-access/howopenisit/)** to do just that. I will use it to assess the openness of [my first paper](http://dx.doi.org/10.3897/phytokeys.25.3100) (co-written with Luc Brouillet) that was published two weeks ago in [PhytoKeys](http://www.pensoft.net/journals/phytokeys), a [Pensoft](http://www.pensoft.net/) journal. Not as a vanity project, but to figure out how well I - as an advocate for open - am doing by submitting my paper to PhytoKeys as the journal.
+PLOS, SPARC and OASPA developed a **[2-page guide](https://www.plos.org/how-open-is-it)** to do just that. I will use it to assess the openness of [my first paper](http://dx.doi.org/10.3897/phytokeys.25.3100) (co-written with Luc Brouillet) that was published two weeks ago in [PhytoKeys](http://www.pensoft.net/journals/phytokeys), a [Pensoft](http://www.pensoft.net/) journal. Not as a vanity project, but to figure out how well I - as an advocate for open - am doing by submitting my paper to PhytoKeys as the journal.
 
 > Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys 25: 55–67. doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100) GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce)
 
