@@ -9,9 +9,9 @@ Summary: And how well is the journal communicating this?
 
 In my [previous post]({filename}oa-1.md), I explained what open access is. But we can go beyond the simple question of "Is it open access?" and evaluate how open a resource actually is.
 
-PLOS, SPARC and OASPA developed a **[2-page guide](http://www.plos.org/about/open-access/howopenisit/)** to do just that. I will use it to assess the openness of [my first paper](http://dx.doi.org/10.3897/phytokeys.25.3100) (co-written with Luc Brouillet) that was published two weeks ago in [PhytoKeys](http://www.pensoft.net/journals/phytokeys), a [Pensoft](http://www.pensoft.net/) journal. Not as a vanity project, but to figure out how well I - as an advocate for open - am doing by submitting my paper to PhytoKeys as the journal.
+PLOS, SPARC and OASPA developed a **[2-page guide](https://www.plos.org/how-open-is-it)** to do just that. I will use it to assess the openness of [my first paper](http://dx.doi.org/10.3897/phytokeys.25.3100) (co-written with Luc Brouillet) that was published two weeks ago in [PhytoKeys](http://www.pensoft.net/journals/phytokeys), a [Pensoft](http://www.pensoft.net/) journal. Not as a vanity project, but to figure out how well I - as an advocate for open - am doing by submitting my paper to PhytoKeys as the journal.
 
-> Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys 25: 55–67. doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100) Resource ID: GBIF key: <http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce>
+> Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys 25: 55–67. doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100) GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce)
 
 ## Reader rights
 
@@ -59,7 +59,7 @@ The article (including full text, metadata, citations) is [available as XML](htt
 
 In addition, I posted the full article (including figures) as an editable, [Markdown](http://daringfireball.net/projects/markdown/) formatted text file on [GitHub](https://github.com/peterdesmet/vascan-data-paper).
 
-The data, which are hosted on the [Canadensys Repository](http://dx.doi.org/10.5886/Y7SMZY5P) and [indexed by GBIF](http://data.gbif.org/datasets/resource/13558) are available as a [Darwin Core archive](http://www.gbif.org/informatics/standards-and-tools/publishing-data/data-standards/darwin-core-archives/), which is a community standard, and are provided through a standard protocol (http). There are no supplementary data. **5/5**
+The data, which are hosted on the [Canadensys Repository](http://dx.doi.org/10.5886/Y7SMZY5P) and [indexed by GBIF](http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce) are available as a [Darwin Core archive](http://www.gbif.org/informatics/standards-and-tools/publishing-data/data-standards/darwin-core-archives/), which is a community standard, and are provided through a standard protocol (http). There are no supplementary data. **5/5**
 
 ## Conclusion
 
