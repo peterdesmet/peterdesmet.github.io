@@ -12,7 +12,7 @@ Een drietal maanden geleden had ik een nieuw onderwerp bedacht. Eindelijk kon ik
 
 [Foto's op Picasa](https://picasaweb.google.com/104712645526885408595/BostonMei2010?authuser=0&authkey=Gv1sRgCPzziM2AnqDOUg&feat=directlink)
 
-![Boston City Hall](https://lh5.googleusercontent.com/-wDUhHfXqFZw/TB6PNfdBvtI/AAAAAAAAEE0/tIjt9jUiGdE/s800/IMG_3499.jpg)
+![Boston City Hall]({filename}/images/2010-boston.jpg)
 
 Hoewel heel mottig dat ik niet kan verder doen bij OPC, is het heel tof dat ik komende woensdag door deze perfecte timing Griet, Bert en Mona kan gaan ophalen, die een weekje bij ons logeren vooraleer op reis te gaan. We kijken er heel hard naar uit om weer wat bezoek te ontvangen! Daarna is het de beurt aan Peter's ouders en in september komen mijn ouders ook langs. In juli vertrekken wij zelf voor 4 weken naar de Canadese westkust! We vliegen naar Vancouver en gaan rondtoeren in British Columbia en Alberta. We zijn volledig klaar voor de vakantie!! :) En het volgende onderwerp op de blog is verzekerd!
 
