@@ -1,9 +1,10 @@
-Title: Analyzing the licenses of all 11,000+ GBIF registered datasets
-Slug: analyzing-gbif-data-licenses
-Date: 2013-11-22 10:10
-Author: Peter Desmet
-Tags: Open data, Open research, GBIF, Datafable
-Summary: How much GBIF mediated data can be legally used easily? A collaborative analysis.
+---
+title: Analyzing the licenses of all 11,000+ GBIF registered datasets
+description: How much GBIF mediated data can be legally used easily? A collaborative analysis.
+background: 
+author: Peter Desmet
+categories: [open data, open research, GBIF, Datafable]
+---
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
@@ -11,7 +12,7 @@ Summary: How much GBIF mediated data can be legally used easily? A collaborative
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
 <link href="http://datafable.com/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
-In my [previous post]({filename}illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
+In my [previous post](posts/2013/illegal-bullfrogs.html), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
 
 But how much of this applies to all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How challenging is GBIF's [2014 mission to provide a machine readable, standard license]({filename}gbif-data-license.md) for all datasets? Fellow Datafable[^1] member [Bart Aelterman](https://twitter.com/bartaelterman) and I tried to figure out.
 
@@ -19,7 +20,7 @@ But how much of this applies to all [417+ million occurrence records](http://www
 
 ## Methodology
 
-We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11,000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
+We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11,000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed` and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
 
 In total we analyzed **11,974 datasets**[^2], representing **415,927,654 occurrences**. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv).
 

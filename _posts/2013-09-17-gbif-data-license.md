@@ -1,9 +1,10 @@
-Title: What data license should GBIF use?
-Slug: gbif-data-license
-Date: 2013-09-17 11:30
-Author: Peter Desmet
-Tags: Open data, GBIF
-Summary: From free and open access to biodiversity data to open biodiversity data.
+---
+title: What data license should GBIF use?
+description: From free and open access to biodiversity data to open biodiversity data.
+background: 
+author: Peter Desmet
+categories: [open data, GBIF]
+---
 
 On August 5, the Global Biodiversity Information Facility ([GBIF](http://www.gbif.org)) released a consultation document[^1] asking feedback regarding applying a machine readable license to all GBIF-mediated data. I am very happy GBIF is finally addressing this issue. The big question is of course: what license(s)?
 

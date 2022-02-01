@@ -1,9 +1,10 @@
-Title: Showing you this map of aggregated bullfrog occurrences would be illegal
-Slug: illegal-bullfrogs
-Date: 2013-10-17 12:20
-Author: Peter Desmet
-Tags: Open data, GBIF
-Summary: Non-standard data licenses are a burden for users of aggregated GBIF data.
+---
+title: Showing you this map of aggregated bullfrog occurrences would be illegal
+description: Non-standard data licenses are a burden for users of aggregated GBIF data.
+background: 
+author: Peter Desmet
+categories: [open data, GBIF]
+---
 
 Last week, the Global Biodiversity Information Facility (GBIF) launched their [new awesome data portal](http://www.gbif.org/). One of the things I like most is that the record limit on downloads has been lifted, so we now have free and open access to all 415+ million occurrence records GBIF aggregates. GBIF also makes an effort to lower the barrier to correctly attribute the data publishers, by providing extensive metadata and a citation suggestion in each data download.
 
