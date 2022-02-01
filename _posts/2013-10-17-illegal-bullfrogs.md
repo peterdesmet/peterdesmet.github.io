@@ -10,7 +10,7 @@ Last week, the Global Biodiversity Information Facility (GBIF) launched their [n
 
 That doesn't mean however that it is actually easy to legally use the data, [something GBIF is aware of]({filename}gbif-data-license.md). As a test, I downloaded all [13,297 georeferenced American bullfrog records](http://www.gbif.org/occurrence/search?TAXON_KEY=2427091&HAS_COORDINATE=true&HAS_GEOSPATIAL_ISSUE=false) and would like to visualize and share these on a map using [CartoDB](http://cartodb.com). Technically, this would only take me a few minutes, but to make sure I'm not violating any restrictions, I need to take a closer look at the fine print.
 
-![Unavailable bullfrog records]({filename}/images/2013-bullfrog-map-unavailable.png)
+![Unavailable bullfrog records](/assets/images/2013-10-17-illegal-bullfrogs-map-unavailable.png)
 
 ## 65 data licenses
 
@@ -69,7 +69,7 @@ These results are quite bleak: only 4 data publishers (4% of the data) publish t
 
 ### Public records
 
-![Public bullfrog records]({filename}/images/2013-bullfrog-map-public.png)
+![Public bullfrog records](/assets/images/2013-10-17-illegal-bullfrogs-map-public.png)
 
 This map shows all **544 records dedicated to the public domain (4%)**. To comply with the GBIF data use agreement, I must publicly acknowledge the data publishers whose biodiversity data I have used here. I am happy to highlight such open datasets:
 
@@ -81,7 +81,7 @@ This map shows all **544 records dedicated to the public domain (4%)**. To compl
 
 Since my blog is not ad-supported, I can also include records with a non-commercial use restriction, which adds up to **3,756 records (28%)**. Beware if you want to repost this image.
 
-![Public and non-commercial bullfrog records]({filename}/images/2013-bullfrog-map-non-commercial.png)
+![Public and non-commercial bullfrog records](/assets/images/2013-10-17-illegal-bullfrogs-map-non-commercial.png)
 
 The included data publishers are now:
 
