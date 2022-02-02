@@ -12,9 +12,9 @@ categories: [open data, open research, GBIF, Datafable]
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
 <link href="http://datafable.com/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
-In my [previous post](posts/2013/illegal-bullfrogs.html), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
+In my [previous post](/posts/illegal-bullfrogs.html), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
 
-But how much of this applies to all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How challenging is GBIF's [2014 mission to provide a machine readable, standard license]({filename}gbif-data-license.md) for all datasets? Fellow Datafable[^1] member [Bart Aelterman](https://twitter.com/bartaelterman) and I tried to figure out.
+But how much of this applies to all [417+ million occurrence records](http://www.gbif.org/occurrence) in GBIF? How challenging is GBIF's [2014 mission to provide a machine readable, standard license](/posts/gbif-data-license.html) for all datasets? Fellow Datafable[^1] member [Bart Aelterman](https://twitter.com/bartaelterman) and I tried to figure out.
 
 [^1]: To combine our skills and organize some of our extracurricular activities, we started a team of open data enthusiasts called [Datafable](https://twitter.com/datafable). The results of our first project was [published by GBIF](http://www.gbif.org/page/2991) last week.
 
@@ -49,7 +49,7 @@ No license | 10,734 | 305,546,382 | 73.5% | ? | ?
 
 ### Standard licenses
 
-Ignoring for a moment that [CC0 is](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data]({filename}gbif-data-license.md), a standard license ([Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/)) is at least standardized and easy to understand. Only 1.4% of all datasets however (2% of all occurrences) are published with a standard license.
+Ignoring for a moment that [CC0 is](http://community.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](/posts/gbif-data-license.html), a standard license ([Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/)) is at least standardized and easy to understand. Only 1.4% of all datasets however (2% of all occurrences) are published with a standard license.
 
 <div class="clearfix">
     <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
@@ -60,7 +60,7 @@ Data dedicated to the public domain under [CC0](http://creativecommons.org/publi
 
 ### Interpreting the other licenses
 
-All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample]({filename}illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.
+All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample](/posts/illegal-bullfrogs.html) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.
 
 We tried to lift some of that burden by [interpreting all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv), extracting some characteristics, but it should be clear that this is an attempt[^4] that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
 
@@ -84,4 +84,4 @@ Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, s
 
 [^5]: The characteristics we assigned to the licenses (`commercial use allowed`, `notification required`, etc.) could even be provided as machine tags on the GBIF portal, allowing users to already get some indication of what is allowed/required.
 
-More importantly, this mission should be used as [an opportunity]({filename}gbif-data-license.md) to make the `rights` field mandatory, require CC0, and shift the discussion about ethical data use (including attribution) to norms rather than ill-suited legal tools.
+More importantly, this mission should be used as [an opportunity](/posts/gbif-data-license.html) to make the `rights` field mandatory, require CC0, and shift the discussion about ethical data use (including attribution) to norms rather than ill-suited legal tools.
