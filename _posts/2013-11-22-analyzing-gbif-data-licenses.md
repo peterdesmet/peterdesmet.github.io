@@ -6,11 +6,25 @@ author: Peter Desmet
 categories: [open data, open research, GBIF, Datafable]
 ---
 
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>-->
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/data.js"></script>
 <script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
 <link href="http://datafable.com/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
+<style>
+  .chart {
+    display: block;
+    height: 300px;
+    width: 100%;
+  }
+  .chart .title {
+      font-weight: bold;
+  }
+  .nvtooltip h3 {
+      font-size: 1.2em;
+  }
+</style>
 
 In my [previous post](/posts/illegal-bullfrogs.html), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
 
@@ -52,8 +66,8 @@ No license | 10,734 | 305,546,382 | 73.5% | ? | ?
 Ignoring for a moment that [CC0 is](http://community.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) [the only](http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/) [sensible license](http://doi.org/10.6084/m9.figshare.799766) [for data](/posts/gbif-data-license.html), a standard license ([Creative Commons](http://creativecommons.org/licenses/) or [Open Data Commons](http://opendatacommons.org/licenses/)) is at least standardized and easy to understand. Only 1.4% of all datasets however (2% of all occurrences) are published with a standard license.
 
 <div class="clearfix">
-    <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
-    <svg id="chart2" class="chart" style="float:left; width: 50%;"></svg>
+  <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
+  <svg id="chart2" class="chart" style="float:left; width: 50%;"></svg>
 </div>
 
 Data dedicated to the public domain under [CC0](http://creativecommons.org/publicdomain/zero/1.0/) represents an even smaller percentage: 0.9% of all datasets (0.5% of all occurrences). The silver lining is that most data publishers who choose a standard license, choose CC0 (105 datasets).
