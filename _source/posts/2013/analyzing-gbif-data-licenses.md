@@ -6,10 +6,10 @@ Tags: Open data, Open research, GBIF, Datafable
 Summary: How much GBIF mediated data can be legally used easily? A collaborative analysis.
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/data.js"></script>
-<script src="http://datafable.com/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
-<link href="http://datafable.com/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/data.js"></script>
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
+<link href="http://datafable.github.io/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 
 In my [previous post]({filename}illegal-bullfrogs.md), I highlighted the legal issues showing 13,297 American bullfrog records downloaded from [GBIF](http://www.gbif.org) on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.
 
@@ -19,13 +19,13 @@ But how much of this applies to all [417+ million occurrence records](http://www
 
 ## Methodology
 
-We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11,000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
+We used the [GBIF registry API](http://www.gbif.org/developer/registry) to obtain the metadata for all [11,000+ GBIF registered datasets](http://www.gbif.org/dataset/) and in particular the `rights` field, which is where data publishers can provide the license under which the dataset is published. We then created a [unique list of all licenses](https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv) used, which we annotated with parameters such as `use allowed`and `attribution required`. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the [guidelines](https://github.com/datafable/gbif-data-licenses/blob/master/guidelines.md) we used for annotating these licenses.
 
-In total we analyzed **11,974 datasets**[^2], representing **415,927,654 occurrences**. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv).
+In total we analyzed **11,974 datasets**[^2], representing **415,927,654 occurrences**. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to [annotate 432 different licenses](https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv).
 
 [^2]: These include [checklist](http://www.gbif.org/dataset/search?type=CHECKLIST) and [occurrence datasets](http://www.gbif.org/dataset/search?type=OCCURRENCE). Obviously, only occurrence datasets are represented in the results for occurrences.
 
-All code and data[^3] for this project are available on [GitHub](https://github.com/Datafable/gbif-data-licenses). #openresearch #ftw
+All code and data[^3] for this project are available on [GitHub](https://github.com/datafable/gbif-data-licenses). #openresearch #ftw
 
 [^3]: Additional legal issue: what license applies to the **metadata** of GBIF registered datasets? Can we publish even part of it on a GitHub repository? Note that metadata *does* include creative content, and some of it is even published as data papers.
 
@@ -61,9 +61,9 @@ Data dedicated to the public domain under [CC0](http://creativecommons.org/publi
 
 All other data are provided with no or a non-standard license, with a percentage similar to the [bullfrog sample]({filename}illegal-bullfrogs.md) (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.
 
-We tried to lift some of that burden by [interpreting all these licenses](https://github.com/Datafable/gbif-data-licenses/blob/master/data/licenses.csv), extracting some characteristics, but it should be clear that this is an attempt[^4] that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
+We tried to lift some of that burden by [interpreting all these licenses](https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv), extracting some characteristics, but it should be clear that this is an attempt[^4] that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.
 
-[^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have to figure out the legal implications. See [this issue](https://github.com/Datafable/gbif-data-licenses/issues/12) for the whole discussion.
+[^4]: We considered an alternative interpretation, taking into account the [GBIF use agreement](http://www.gbif.org/disclaimer/datause) (DUA). [Jonathan A. Rees](https://twitter.com/jar346) pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have to figure out the legal implications. See [this issue](https://github.com/datafable/gbif-data-licenses/issues/12) for the whole discussion.
 
 #### Datasets
 
@@ -77,7 +77,7 @@ We tried to lift some of that burden by [interpreting all these licenses](https:
 
 Our analysis of the licenses of all 11.000+ GBIF registered datasets shows a bleak picture. Very few GBIF registered datasets can be easily and legally used, let alone without restrictions. This is mainly due to data being published with no or a non-standard license.
 
-Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our [analysis](https://github.com/Datafable/gbif-data-licenses) (which can be run again) and [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) already help with:
+Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our [analysis](https://github.com/datafable/gbif-data-licenses) (which can be run again) and [guidelines](https://github.com/datafable/gbif-data-licenses/blob/master/guidelines.md) already help with:
 
 > The Secretariat would review existing metadata provisionally to assign[^5] each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [[source](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf)]
 
