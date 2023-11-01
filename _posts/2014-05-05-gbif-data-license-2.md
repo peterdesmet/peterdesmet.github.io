@@ -1,7 +1,10 @@
 ---
 title: Support GBIF in choosing CC0 + norms
 description: Changes proposed by GBIF regarding data licensing are a tremendous step forward.
-background: 
+background:
+  img: https://images.unsplash.com/photo-1549880181-56a44cf4a9a5?auto=format&fit=crop&q=80&w=2370&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  by: Jerry Zhang
+  href: https://unsplash.com/photos/mountain-ranges-covered-in-snow-ePpaQC2c1xA
 tags: [open data, GBIF]
 toc: false
 ---

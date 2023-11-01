@@ -1,7 +1,10 @@
 ---
 title: Coding resolutions
 description: Resolutions in coding land. Also, fantasy pets.
-background: 
+background:
+  img: https://images.unsplash.com/photo-1560403442-d141ff60800d?auto=format&fit=crop&q=80&w=2370&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  by: Devon Janse van Rensburg
+  href: https://unsplash.com/photos/cave-during-daytime-qjIzxfkoqrI
 tags: [coding, new year]
 ---
 

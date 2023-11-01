@@ -1,7 +1,10 @@
 ---
 title: What data license should GBIF use?
 description: From free and open access to biodiversity data to open biodiversity data.
-background: 
+background:
+  img: https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&q=80&w=2370&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  by: Jerry Zhang
+  href: https://unsplash.com/photos/aerial-photography-of-mountain-ranges-during-daytime-Y8lCoTRgHPE
 tags: [open data, GBIF]
 toc: false
 ---
