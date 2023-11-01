@@ -14,7 +14,7 @@ social:
 # THEME SETTINGS
 theme: minima
 remote_theme: peterdesmet/petridish@3.0
-posts_on_home: 0
+posts_on_home: 2
 tweets_on_home: false
 archive_permalink: /posts/
 github_edit: true
