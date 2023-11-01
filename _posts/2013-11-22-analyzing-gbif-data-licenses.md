@@ -40,7 +40,7 @@ In total we analyzed **11,974 datasets**[^2], representing **415,927,654 occurre
 
 [^2]: These include [checklist](http://www.gbif.org/dataset/search?type=CHECKLIST) and [occurrence datasets](http://www.gbif.org/dataset/search?type=OCCURRENCE). Obviously, only occurrence datasets are represented in the results for occurrences.
 
-All code and data[^3] for this project are available on [GitHub](https://github.com/Datafable/gbif-data-licenses). #openresearch #ftw
+All code and data[^3] for this project are available on [GitHub](https://github.com/Datafable/gbif-data-licenses). `#openresearch #ftw`
 
 [^3]: Additional legal issue: what license applies to the **metadata** of GBIF registered datasets? Can we publish even part of it on a GitHub repository? Note that metadata *does* include creative content, and some of it is even published as data papers.
 

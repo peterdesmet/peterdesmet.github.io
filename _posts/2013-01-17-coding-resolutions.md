@@ -26,7 +26,7 @@ Learning is fine, but doing is better:
 
 * Create a data repository on [GitHub](https://github.com/peterdesmet) and release it to the public domain.
 * Create a one-page website visualizing data, using the [CartoDB](http://cartodb.com/) API.
-* Transfer [my website](http://www.anderhalv.be) from WordPress to GitHub, using [Pelican](http://docs.getpelican.com/en/latest/).
+* Transfer my website from WordPress to GitHub, using [Pelican](http://docs.getpelican.com/en/latest/).
 * Write at least 5 posts.
 
 And as a bonus, create a theme for my website.
