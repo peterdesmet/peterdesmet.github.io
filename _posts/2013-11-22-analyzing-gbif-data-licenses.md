@@ -9,11 +9,11 @@ tags: [open data, open research, GBIF, Datafable]
 ---
 
 <!-- jquery included via Petridish -->
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
-<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/data.js"></script>
-<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
-<link href="http://datafable.github.io/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://datafable.github.io/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
+<script src="https://datafable.github.io/gbif-data-licenses/charts-for-blog/js/data.js"></script>
+<script src="https://datafable.github.io/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
+<link href="https://datafable.github.io/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css">
 <style>
   .chart {
     display: block;
