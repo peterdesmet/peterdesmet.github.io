@@ -1,0 +1,48 @@
+# SITE SETTINGS
+title: Peter Desmet
+author: Peter Desmet
+url: https://peterdesmet.com
+baseurl: ""
+
+# SOCIAL PROFILES
+social:
+  email: peter.desmet@inbo.be
+  github: peterdesmet
+  mastodon: https://mastodon.social/@peterdesmet
+  disqus: peterdesmet
+
+# THEME SETTINGS
+theme: minima
+remote_theme: peterdesmet/petridish@3.0
+posts_on_home: 2
+tweets_on_home: false
+archive_permalink: /posts/
+github_edit: true
+colors:
+  links: "#1C7BBB"
+  banner: "#185288"
+  footer: "#185288"
+rounded_corners: false
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/posts/:slug.html" # Like this since 2013
+      author: Peter Desmet
+      comments: true
+      toc: true
