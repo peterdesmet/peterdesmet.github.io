@@ -1,21 +1,22 @@
 # SITE SETTINGS
 title: Peter Desmet
-description: "Biodiversity informatics geek. Passionate about #opendata and #openscience."
 author: Peter Desmet
 url: "https://peterdesmet.com"
 baseurl: ""
 
 # SOCIAL PROFILES
-email: peter.desmet@inbo.be
-twitter_username: peterdesmet
-github_username: peterdesmet
+social:
+  email: peter.desmet@inbo.be
+  twitter: peterdesmet
+  github: peterdesmet
 
-# THEME SETTINGS (ALL OPTIONAL)
+# THEME SETTINGS
 theme: minima
-remote_theme: peterdesmet/petridish
+remote_theme: peterdesmet/petridish@3.0
 posts_on_home: 0
 tweets_on_home: false
 archive_permalink: /posts/
+github_edit: true
 colors:
   links: "#1C7BBB"
   banner: "#185288"
@@ -24,18 +25,14 @@ rounded_corners: false
 
 # BUILD SETTINGS
 markdown: kramdown
-plugins: # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - LICENSE
-  - package-lock.json
-  - package.json
-  - petridish.gemspec
 
 # FRONTMATTER DEFAULTS
 defaults:
