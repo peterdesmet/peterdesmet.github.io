@@ -9,6 +9,7 @@ social:
   email: peter.desmet@inbo.be
   github: peterdesmet
   mastodon: https://mastodon.social/@peterdesmet
+  disqus: peterdesmet
 
 # THEME SETTINGS
 theme: minima
