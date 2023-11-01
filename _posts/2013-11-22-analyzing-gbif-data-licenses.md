@@ -48,7 +48,7 @@ All code and data[^3] for this project are available on [GitHub](https://github.
 
 ### Overview of the licenses used
 
-License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
+License | # of datasets | # of records | % of records | [GBIF practice?](https://docs.google.com/file/d/0B-PC5KKdhYCQZ1Y5Q2RySmdPbjQ/edit?usp=sharing) | [Open data?](http://opendefinition.org/okd/)
 --- | ---: | ---: | ---: | --- | ---
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | 105 | 2,155,108 | 0.5% | yes | yes
 [CC BY](http://creativecommons.org/licenses/by/3.0/) | 8 | 2,240,674 | 0.5% | yes | yes
@@ -94,7 +94,7 @@ Our analysis of the licenses of all 11.000+ GBIF registered datasets shows a ble
 
 Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our [analysis](https://github.com/Datafable/gbif-data-licenses) (which can be run again) and [guidelines](https://github.com/Datafable/gbif-data-licenses/blob/master/guidelines.md) already help with:
 
-> The Secretariat would review existing metadata provisionally to assign[^5] each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [[source](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf)]
+> The Secretariat would review existing metadata provisionally to assign[^5] each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [[source](https://docs.google.com/file/d/0B-PC5KKdhYCQZ1Y5Q2RySmdPbjQ/edit?usp=sharing)]
 
 [^5]: The characteristics we assigned to the licenses (`commercial use allowed`, `notification required`, etc.) could even be provided as machine tags on the GBIF portal, allowing users to already get some indication of what is allowed/required.
 

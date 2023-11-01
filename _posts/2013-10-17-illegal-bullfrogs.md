@@ -51,7 +51,7 @@ The bulk of the data however (26 datasets, 6,894 records) have a license of the 
 
 ### Overview of the licenses used
 
-License | # of datasets | # of records | % of records | [GBIF practice?](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) | [Open data?](http://opendefinition.org/okd/)
+License | # of datasets | # of records | % of records | [GBIF practice?](https://docs.google.com/file/d/0B-PC5KKdhYCQZ1Y5Q2RySmdPbjQ/edit?usp=sharing) | [Open data?](http://opendefinition.org/okd/)
 --- | ---: | ---: | ---: | --- | ---
 Public domain (incl. CC0) | 3 | 544 | 4% | yes | yes
 Use with attribution and share alike (incl. CC-BY-SA) | 1 | 4 | 0% | no | yes

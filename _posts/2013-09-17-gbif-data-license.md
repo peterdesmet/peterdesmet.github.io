@@ -23,4 +23,4 @@ This is why I would suggest to:
 
 I think most of all that this is an excellent opportunity for the GBIF community to send a strong message that truly open data is the way to go. I know it will help me to convince data publishers to publish their data as open biodiversity data.
 
-[^1]: The consolation document was sent by email, but has been put online by [Roderic Page](http://iphylo.blogspot.be/2013/08/gbif-and-open-biodiversity-data-what.html) on [Dropbox](https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf) and [Google Drive](https://docs.google.com/file/d/0B-PC5KKdhYCQZ1Y5Q2RySmdPbjQ/edit?usp=sharing).
+[^1]: The consolation document was sent by email, but has been put online by [Roderic Page](http://iphylo.blogspot.be/2013/08/gbif-and-open-biodiversity-data-what.html) on [Google Drive](https://docs.google.com/file/d/0B-PC5KKdhYCQZ1Y5Q2RySmdPbjQ/edit?usp=sharing).
