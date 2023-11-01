@@ -7,8 +7,8 @@ baseurl: ""
 # SOCIAL PROFILES
 social:
   email: peter.desmet@inbo.be
-  twitter: peterdesmet
   github: peterdesmet
+  mastodon: https://mastodon.social/@peterdesmet
 
 # THEME SETTINGS
 theme: minima
