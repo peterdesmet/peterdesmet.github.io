@@ -2,9 +2,9 @@
 title: Showing you this map of aggregated bullfrog occurrences would be illegal
 description: Non-standard data licenses are a burden for users of aggregated GBIF data.
 background:
-  img: https://images.unsplash.com/photo-1575731882302-7ccf5f57e997?auto=format&fit=crop&q=80&w=2372&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  by: Karl-Heinz Müller
-  href: https://unsplash.com/photos/green-frog-on-body-of-water-jk383wwFcyk
+  img: https://inaturalist-open-data.s3.amazonaws.com/photos/257781612/large.jpeg
+  by: Andrew Nunns
+  href: https://www.inaturalist.org/observations/149453852
 tags: [open data, GBIF]
 ---
 
