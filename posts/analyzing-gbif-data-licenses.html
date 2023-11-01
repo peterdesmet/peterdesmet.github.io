@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Analyzing the licenses of all 11,000+ GBIF registered datasets - Peter Desmet</title>
+        <meta name="description" content="My personal blog on open data, design, travel, and other stuff.">
+        <meta name="viewport" content="width=device-width">
+        <meta name="google-site-verification" content="QsSLW3AksA4dYqzZOsQLzsIcy5qYYH09wl9CzHtADFs" />
+
+        <link rel="shortcut icon" href="http://peterdesmet.com/favicon.ico">
+        <link rel="stylesheet" href="http://peterdesmet.com/theme/css/normalize.css">
+        <link rel="stylesheet" href="http://peterdesmet.com/theme/css/main.css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Quicksand:400">
+        <link rel="stylesheet" href="http://peterdesmet.com/theme/css/font-awesome.min.css">
+        <!--[if IE 7]>
+        <link rel="stylesheet" href="http://peterdesmet.com/theme/css/font-awesome-ie7.min.css">
+        <![endif]-->
+        <script src="http://peterdesmet.com/theme/js/vendor/modernizr-2.6.2.min.js"></script>
+
+        <link href="http://peterdesmet.com/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="Peter Desmet Full RSS feed" />
+    </head>
+    <body>
+        <!-- Content -->
+        <div class="header">
+            <header class="clearfix">
+                <h2><a href="http://peterdesmet.com">Peter Desmet</a></h2>
+                <p>Reporting on open science</p>
+                <nav>
+                    <ul>
+                        <li><a href="http://peterdesmet.com/pages/about.html">About</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        <div class="content">
+<article>
+	<section class="single">
+        <header>
+            <h1>Analyzing the licenses of all 11,000+ GBIF registered datasets</h1>
+        </header>
+        <footer>
+            <time datetime="2013-11-22T10:10:00" pubdate>November 22, 2013</time>
+            <address class="vcard">
+                By <a class="url fn" href="http://peterdesmet.com/author/peter-desmet.html">Peter Desmet</a>
+            </address>
+            <ul class="tags">Tagged: 
+                <li><a href="http://peterdesmet.com/tag/open-data.html">Open data</a></li>
+                <li><a href="http://peterdesmet.com/tag/open-research.html">Open research</a></li>
+                <li><a href="http://peterdesmet.com/tag/gbif.html">GBIF</a></li>
+                <li><a href="http://peterdesmet.com/tag/datafable.html">Datafable</a></li>
+            </ul>
+        </footer>
+        <div>
+            <script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/nv.d3.min.js"></script>
+
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/data.js"></script>
+
+<script src="http://datafable.github.io/gbif-data-licenses/charts-for-blog/js/charts.js"></script>
+
+<p><link href="http://datafable.github.io/gbif-data-licenses/charts-for-blog/css/nv.d3.min.css" rel="stylesheet" type="text/css"></p>
+<p>In my <a href="http://peterdesmet.com/posts/illegal-bullfrogs.html">previous post</a>, I highlighted the legal issues showing 13,297 American bullfrog records downloaded from <a href="http://www.gbif.org">GBIF</a> on a map. 96% of those records had no or a non-standard data license, making data use legally cumbersome.</p>
+<p>But how much of this applies to all <a href="http://www.gbif.org/occurrence">417+ million occurrence records</a> in GBIF? How challenging is GBIF's <a href="http://peterdesmet.com/posts/gbif-data-license.html">2014 mission to provide a machine readable, standard license</a> for all datasets? Fellow Datafable<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup> member <a href="https://twitter.com/bartaelterman">Bart Aelterman</a> and I tried to figure out.</p>
+<h2>Methodology</h2>
+<p>We used the <a href="http://www.gbif.org/developer/registry">GBIF registry API</a> to obtain the metadata for all <a href="http://www.gbif.org/dataset/">11,000+ GBIF registered datasets</a> and in particular the <code>rights</code> field, which is where data publishers can provide the license under which the dataset is published. We then created a <a href="https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv">unique list of all licenses</a> used, which we annotated with parameters such as <code>use allowed</code>and <code>attribution required</code>. This information was joined back with the dataset information to get an idea of the distribution of certain types of licenses over all datasets and occurrence records. We also documented the <a href="https://github.com/datafable/gbif-data-licenses/blob/master/guidelines.md">guidelines</a> we used for annotating these licenses.</p>
+<p>In total we analyzed <strong>11,974 datasets</strong><sup id="fnref:2"><a class="footnote-ref" href="#fn:2" rel="footnote">2</a></sup>, representing <strong>415,927,654 occurrences</strong>. The first thing we noticed is that only 10% of those datasets (26% of the occurrences) have a license. This is problematic (see further), but it had the welcome side effect that we "only" had to <a href="https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv">annotate 432 different licenses</a>.</p>
+<p>All code and data<sup id="fnref:3"><a class="footnote-ref" href="#fn:3" rel="footnote">3</a></sup> for this project are available on <a href="https://github.com/datafable/gbif-data-licenses">GitHub</a>. #openresearch #ftw</p>
+<h2>Results</h2>
+<h3>Overview of the licenses used</h3>
+<table>
+<thead>
+<tr>
+<th>License</th>
+<th># of datasets</th>
+<th># of records</th>
+<th>% of records</th>
+<th><a href="https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf">GBIF practice?</a></th>
+<th><a href="http://opendefinition.org/okd/">Open data?</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a></td>
+<td>105</td>
+<td>2,155,108</td>
+<td>0.5%</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="http://creativecommons.org/licenses/by/3.0/">CC BY</a></td>
+<td>8</td>
+<td>2,240,674</td>
+<td>0.5%</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="http://opendatacommons.org/licenses/by/1.0/">ODC-By</a></td>
+<td>11</td>
+<td>567,675</td>
+<td>0.1%</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a></td>
+<td>16</td>
+<td>450,421</td>
+<td>0.1</td>
+<td>no</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="http://opendatacommons.org/licenses/odbl/1.0/">ODbL</a> &amp; <a href="http://opendatacommons.org/licenses/dbcl/1.0/">DbCL</a></td>
+<td>3</td>
+<td>864</td>
+<td>0.0%</td>
+<td>no</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC</a></td>
+<td>10</td>
+<td>4,308,627</td>
+<td>1.0%</td>
+<td>expected by some</td>
+<td>no</td>
+</tr>
+<tr>
+<td><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a></td>
+<td>17</td>
+<td>569,040</td>
+<td>0.1%</td>
+<td>no</td>
+<td>no</td>
+</tr>
+<tr>
+<td><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND</a></td>
+<td>1</td>
+<td>26,132</td>
+<td>0.0%</td>
+<td>no</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Non-standard license</td>
+<td>1,069</td>
+<td>100,062,731</td>
+<td>24.1%</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>No license</td>
+<td>10,734</td>
+<td>305,546,382</td>
+<td>73.5%</td>
+<td>?</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<h3>Standard licenses</h3>
+<p>Ignoring for a moment that <a href="http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0">CC0 is</a> <a href="http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/">the only</a> <a href="http://doi.org/10.6084/m9.figshare.799766">sensible license</a> <a href="http://peterdesmet.com/posts/gbif-data-license.html">for data</a>, a standard license (<a href="http://creativecommons.org/licenses/">Creative Commons</a> or <a href="http://opendatacommons.org/licenses/">Open Data Commons</a>) is at least standardized and easy to understand. Only 1.4% of all datasets however (2% of all occurrences) are published with a standard license.</p>
+<div class="clearfix">
+    <svg id="chart1" class="chart" style="float:left; width: 50%;"></svg>
+    <svg id="chart2" class="chart" style="float:left; width: 50%;"></svg>
+</div>
+
+<p>Data dedicated to the public domain under <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a> represents an even smaller percentage: 0.9% of all datasets (0.5% of all occurrences). The silver lining is that most data publishers who choose a standard license, choose CC0 (105 datasets).</p>
+<h3>Interpreting the other licenses</h3>
+<p>All other data are provided with no or a non-standard license, with a percentage similar to the <a href="http://peterdesmet.com/posts/illegal-bullfrogs.html">bullfrog sample</a> (98% vs 96% of the occurrences). These data are in a legal gray zone: it's a mixture of legalese, norms, restrictions, agreements, or in most cases no information at all. It is up to every data user to figure out the details.</p>
+<p>We tried to lift some of that burden by <a href="https://github.com/datafable/gbif-data-licenses/blob/master/data/licenses.csv">interpreting all these licenses</a>, extracting some characteristics, but it should be clear that this is an attempt<sup id="fnref:4"><a class="footnote-ref" href="#fn:4" rel="footnote">4</a></sup> that should only be used with caution. The results are presented in the charts below. You can click the legends to toggle parts of the chart.</p>
+<h4>Datasets</h4>
+<div><svg id="chart3" class="chart"></svg></div>
+
+<h4>Occurrences</h4>
+<div><svg id="chart4" class="chart"></svg></div>
+
+<h2>Conclusion</h2>
+<p>Our analysis of the licenses of all 11.000+ GBIF registered datasets shows a bleak picture. Very few GBIF registered datasets can be easily and legally used, let alone without restrictions. This is mainly due to data being published with no or a non-standard license.</p>
+<p>Fixing this is crucial, and GBIF's 2014 mission to provide a machine readable, standard license to all datasets is a step in the good direction. We hope our <a href="https://github.com/datafable/gbif-data-licenses">analysis</a> (which can be run again) and <a href="https://github.com/datafable/gbif-data-licenses/blob/master/guidelines.md">guidelines</a> already help with:</p>
+<blockquote>
+<p>The Secretariat would review existing metadata provisionally to assign<sup id="fnref:5"><a class="footnote-ref" href="#fn:5" rel="footnote">5</a></sup> each current data set to one of these categories and would then communicate with data publishers to confirm the assignment. [<a href="https://dl.dropboxusercontent.com/u/639486/GBIF_Consultation_Standard_Data_Licences.pdf">source</a>]</p>
+</blockquote>
+<p>More importantly, this mission should be used as <a href="http://peterdesmet.com/posts/gbif-data-license.html">an opportunity</a> to make the <code>rights</code> field mandatory, require CC0, and shift the discussion about ethical data use (including attribution) to norms rather than ill-suited legal tools.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>To combine our skills and organize some of our extracurricular activities, we started a team of open data enthusiasts called <a href="https://twitter.com/datafable">Datafable</a>. The results of our first project was <a href="http://www.gbif.org/page/2991">published by GBIF</a> last week.&#160;<a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>These include <a href="http://www.gbif.org/dataset/search?type=CHECKLIST">checklist</a> and <a href="http://www.gbif.org/dataset/search?type=OCCURRENCE">occurrence datasets</a>. Obviously, only occurrence datasets are represented in the results for occurrences.&#160;<a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Additional legal issue: what license applies to the <strong>metadata</strong> of GBIF registered datasets? Can we publish even part of it on a GitHub repository? Note that metadata <em>does</em> include creative content, and some of it is even published as data papers.&#160;<a class="footnote-backref" href="#fnref:3" rev="footnote" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>We considered an alternative interpretation, taking into account the <a href="http://www.gbif.org/disclaimer/datause">GBIF use agreement</a> (DUA). <a href="https://twitter.com/jar346">Jonathan A. Rees</a> pointed out however that a DUA can only add restrictions or conditions, but never grant permissions (only copyright holders have the legal standing to do so). In other words, the GBIF DUA does not solve the situation of having no license: users still have to figure out the legal implications. See <a href="https://github.com/datafable/gbif-data-licenses/issues/12">this issue</a> for the whole discussion.&#160;<a class="footnote-backref" href="#fnref:4" rev="footnote" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p>The characteristics we assigned to the licenses (<code>commercial use allowed</code>, <code>notification required</code>, etc.) could even be provided as machine tags on the GBIF portal, allowing users to already get some indication of what is allowed/required.&#160;<a class="footnote-backref" href="#fnref:5" rev="footnote" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+        </div>
+    </section>
+    <section class="comments">
+        <header class="clearfix">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="peterdesmet" data-size="large" data-related="peterdesmet">Tweet</a>
+            <h2>Comments</h2>
+        </header>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'peterdesmet'; 
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </section>
+</article>
+        </div>
+        <div class="footer">
+            <footer class="clearfix">
+                <a href="https://twitter.com/peterdesmet"><i class="icon-twitter icon-3x"></i> <span>Follow me on Twitter</span></a>
+                <a href="https://github.com/peterdesmet"><i class="icon-github icon-3x"></i> <span>My GitHub repositories</span></a>
+                <a href="http://peterdesmet.com/feeds/rss.xml"><i class="icon-rss icon-3x"></i> <span>Subscribe to updates</span></a>
+            </footer>
+        </div>
+
+        <!-- Scripts -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="http://peterdesmet.com/theme/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <!--<script src="http://peterdesmet.com/theme/js/plugins.js"></script>-->
+        <!--<script src="http://peterdesmet.com/theme/js/main.js"></script>-->
+        <script>
+            var _gaq=[['_setAccount','UA-2043127-1'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+    </body>
+</html>
