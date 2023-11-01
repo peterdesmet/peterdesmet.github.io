@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Peter Desmet"
-description: "Welcome to my personal website!"
-background: 
+title: Peter Desmet
+description: Personal website
+background: /assets/backgrounds/montreal.jpg
 permalink: /
 ---
 
