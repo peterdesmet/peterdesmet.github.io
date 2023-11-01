@@ -2,8 +2,8 @@
 title: Support GBIF in choosing CC0 + norms
 description: Changes proposed by GBIF regarding data licensing are a tremendous step forward.
 background: 
-author: Peter Desmet
-categories: [open data, GBIF]
+tags: [open data, GBIF]
+toc: false
 ---
 
 Last year, the Global Biodiversity Information Facility ([GBIF](http://www.gbif.org)) asked what license(s) should be chosen for GBIF-mediated data. This triggered 32 responses ([including my own](/posts/gbif-data-license.html)) with the following key messages:

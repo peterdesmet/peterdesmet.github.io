@@ -2,8 +2,7 @@
 title: Analyzing the licenses of all 11,000+ GBIF registered datasets
 description: How much GBIF mediated data can be legally used easily? A collaborative analysis.
 background: 
-author: Peter Desmet
-categories: [open data, open research, GBIF, Datafable]
+tags: [open data, open research, GBIF, Datafable]
 ---
 
 <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>-->

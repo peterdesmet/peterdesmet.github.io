@@ -42,3 +42,6 @@ defaults:
       type: "posts"
     values:
       permalink: "/posts/:slug.html" # Like this since 2013
+      author: Peter Desmet
+      comments: true
+      toc: true

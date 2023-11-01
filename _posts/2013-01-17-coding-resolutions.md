@@ -2,8 +2,7 @@
 title: Coding resolutions
 description: Resolutions in coding land. Also, fantasy pets.
 background: 
-author: Peter Desmet
-categories: [coding, new year]
+tags: [coding, new year]
 ---
 
 It's mid-January, but it's never too late to make some resolutions to feel bad about not reaching at the end of the year. Mine are coding-related and hardly world-shattering, giving me a chance to actually reach them.
