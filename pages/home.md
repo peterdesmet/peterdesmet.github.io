@@ -2,7 +2,9 @@
 layout: home
 title: Peter Desmet
 description: Personal website
-background: /assets/backgrounds/montreal.jpg
+background:
+  img: /assets/backgrounds/montreal.jpg
+  by: Peter Desmet
 permalink: /
 ---
 
