@@ -8,14 +8,14 @@ baseurl: ""
 social:
   email: peter.desmet@inbo.be
   github: peterdesmet
+  bluesky: peterdesmet.com
   mastodon: https://mastodon.social/@peterdesmet
   disqus: peterdesmet
 
 # THEME SETTINGS
 theme: minima
-remote_theme: peterdesmet/petridish@3.0
+remote_theme: peterdesmet/petridish@3.1
 posts_on_home: 2
-tweets_on_home: false
 archive_permalink: /posts/
 github_edit: true
 colors:
